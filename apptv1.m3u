@@ -6,6 +6,15 @@
 
 #-----------------------------------------------------------------------
 # K+ ------------------------------
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ CINE" tvg-logo="https://meco.mytv.vn/static/channel/129.png?ver=14" group-title="🟣 K+",K+ CINE Clip
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/12.m3u8
+#EXTINF:-1 tvg-id="klifehd" tvg-name="K+ LIFE" tvg-logo="https://meco.mytv.vn/static/channel/130.png?ver=14" group-title="🟣 K+",K+ LIFE Clip
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/13.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ SPORT1" tvg-logo="https://meco.mytv.vn/static/channel/131.png?ver=14" group-title="🟣 K+",K+ SPORT1 Clip
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/15.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2" tvg-logo="https://meco.mytv.vn/static/channel/140.png?ver=15" group-title="🟣 K+",K+ SPORT2 Clip
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/16.m3u8
+
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2a6dc5b7e9c24a7396fd6a8926e01b20&key=0048701f074e501648b6758eb254e8bd
