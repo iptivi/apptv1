@@ -566,6 +566,18 @@ http://live.vthanhtivi.pw:8080/history
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX
+http://live-sg.cvacetv.ga/DMAX
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png",Viasat Explorer
+http://live-sg.cvacetv.ga/ViaEx
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png",Viasat Nature
+http://live-sg.cvacetv.ga/ViaNature
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png",Viasat History
+http://live-sg.cvacetv.ga/ViaHistory
+
 #EXTINF:-1 tvg-id="hgtv" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
 https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 						
