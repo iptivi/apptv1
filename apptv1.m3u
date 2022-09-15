@@ -3,6 +3,58 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U url-tvg="ttp://live-sg.cvacetv.ga:8080/xmltv/channels" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U Muideu - linhtmoct@gmail.com!
+≠================
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/yNpTSSm/fevent-cc.png",F• Events
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dl.dropboxusercontent.com/s/4rwrgaagbd8gk1w/																						 ㅤ
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/QFXRM1d/event.png",F• Sự Kiện 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/QFXRM1d/event.png",F• Sự Kiện 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/QFXRM1d/event.png",F• Sự Kiện 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/QFXRM1d/event.png",F• Sự Kiện 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/kMjvnVy/ccwbc.webp",F• Bóng Rổ 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/kMjvnVy/ccwbc.webp",F• Bóng Rổ 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:-1 group-title="▶️| Events" tvg-logo="https://i.ibb.co/r6gFgGb/sports-cc.png",F• Thể Thao 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #-----------------------------------------------------------------------
 # K+ ------------------------------
