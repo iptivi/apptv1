@@ -1,8 +1,7 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://s.id/ccepg"
-#EXTM3U Muideu - linhtmoct@gmail.com!
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
+#Muideu - linhtmoct@gmail.com!
 ≠================
 
-#-----------------------------------------------------------------------
 # K+ ------------------------------
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
