@@ -117,6 +117,43 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8?cc
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8?cc
+------------
+#EXTINF:0 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/sCvdQgs/VTV1fhd-cc.png",VTV1 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv2hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/kq4K240/VTV2fhd-cc.png",VTV2 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv3hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/hRcHQw9/VTV3fhd-cc.png",VTV3 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv4hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/2ZJBk5S/VTV4fhd-cc.png",VTV4 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv5hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/DbkpP7Z/VTV5fhd-cc.png",VTV5 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/vwVm8Ld/VTV5tnb-cc.png",VTV5.TNB ⁷²⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8?cc
+https://dl.dropboxusercontent.com/s/mlf4poarp91c72e/																						 ㅤ
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/rvTVy2s/VTV5tn-cc.png",VTV5.TN ⁷²⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8?cc
+https://dl.dropboxusercontent.com/s/chva76tdb6g7qlx/																						 ㅤ
+#EXTINF:0 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/qpgnZYq/VTV6fhd-cc.png",VTV6 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv7hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/CMyX4Yp/VTV7fhd-cc.png",VTV7 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv8hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/N6VczD2/VTV8fhd-cc.png",VTV8 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8?cc
+#EXTINF:0 tvg-id="vtv9hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/MBsSYvb/VTV9fhd-cc.png",VTV9 ¹⁰⁸⁰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8?cc
+
 
 #===========================VTC==============================
 #EXTINF:0 tvg-id="vtc1hd" group-title="🔴 VTC" tvg-logo="https://i.ibb.co/2S7N7Ns/VTC1-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTC1
