@@ -633,28 +633,28 @@ https://tbientv.xyz/channel/?hits
 
 
 #============KÊNH KHOA HỌC==================
-#EXTINF:0  tvg-id="planetearthhd" type="stream" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/jf1MLDG/ccplanet.jpg",Planet Earth
+#EXTINF:0 tvg-id="planetearthhd" type="stream" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/jf1MLDG/ccplanet.jpg",Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/m2fp0v246769390/hls/planetearth/index.m3u8?cc|Referer=http://sctvonline.vn/
 
-#EXTINF:0  tvg-id="animalhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/7CQLFc3/animalplanet.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animal Planet
+#EXTINF:0 tvg-id="animalhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/7CQLFc3/animalplanet.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0  tvg-id="bbcearth" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC Earth
-#EXTVLCOPT:http-user-agent=apptv
+#EXTINF:0 tvg-id="bbcearth" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0  tvg-id="discoveryhd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/xzpWHLm/Discovery-Channel.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Channel
+#EXTINF:0 tvg-id="discoveryhd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/xzpWHLm/Discovery-Channel.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Channel
 #EXTVLCOPT:http-user-agent=apptv
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0  tvg-id="discoveryasiahd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/QQ6mRjt/Discovery-Asia.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Asia
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/QQ6mRjt/Discovery-Asia.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Asia
 #EXTVLCOPT:http-user-agent=apptv
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0  tvg-id="ngchd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/xmYMXSx/national-geographic.png",Nat Geo
+#EXTINF:0 tvg-id="ngchd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/xmYMXSx/national-geographic.png",Nat Geo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8?cc
 
@@ -836,11 +836,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007
 #EXTINF:-1 tvg-id="BumblebeeTVMotorCyclist.us" tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="🔵 AUTO",Bumblebee TV MotorCyclist (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 
-#================= MUSIC ===============
+#================= MUZIC ===============
 
 #EXTINF:0 tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/ySX4LCz/Mccmusic.jpg",BOX Music
 #EXTVLCOPT:http-user-agent=apptv
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/v9g46fkke3h2cpo/hls/musicbox/index.m3u8?cc|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX Music ᴴᴰ
