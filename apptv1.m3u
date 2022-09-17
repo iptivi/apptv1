@@ -899,15 +899,11 @@ https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/
 https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
 
 #==============ĐỊA PHƯƠNG=================
-#EXTINF:0 tvg-id="hanoi1" group-title="🟠 ĐỊA PHƯƠNG", tvg-logo="https://i.ibb.co/QHkSYVG/Ha-Noi1-cc.webp",Hà Nội 1
-#EXTVLCOPT:http-user-agent=apptv
-https://live.hanoitv.vn/hntvlive/tv1live.m3u8?cc
-https://vips-livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8?cc
+#EXTINF:-1 tvg-id="hanoi1" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png", HanoiTV1 HD
+http://103.90.220.236/hntvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="hanoi2" group-title="🟠 ĐỊA PHƯƠNG", tvg-logo="https://i.ibb.co/7j7Lxgy/Ha-Noi2-cc.webp",Hà Nội 2
-#EXTVLCOPT:http-user-agent=apptv
-http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8?cc
-https://vips-livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8?cc
+#EXTINF:-1 tvg-id="hanoi2" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD
+http://103.90.220.236/hntvlive/tv2live.m3u8
 		
 #EXTINF:0 tvg-id="youtv"  group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F56qqZV/Hanoicab2.png",Hanoicab2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
