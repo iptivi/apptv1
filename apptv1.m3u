@@ -839,64 +839,64 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 
 #================= MUZIC ===============
 
-#EXTINF:0 tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/ySX4LCz/Mccmusic.jpg",BOX Music
+#EXTINF:0 tvg-id="musicbox" group-title="🟤 MUZIC" tvg-logo="https://i.ibb.co/ySX4LCz/Mccmusic.jpg",BOX Music
 #EXTVLCOPT:http-user-agent=apptv
 https://dl.dropboxusercontent.com/s/v9g46fkke3h2cpo/hls/musicbox/index.m3u8?cc|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX Music ᴴᴰ
+#EXTINF:0 tvg-id="musicbox" group-title="🟤 MUZIC" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX Music ᴴᴰ
 #EXTVLCOPT:http-user-agent=apptv
 https://dl.dropboxusercontent.com/s/ldjl3xwzcnsj7gw/
-#EXTINF:-1 tvg-id="BaebleMusic.us" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="🟤 MUSIC",Baeble Music (720p)
+#EXTINF:-1 tvg-id="BaebleMusic.us" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="🟤 MUZIC",Baeble Music (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-EXTINF:-1 tvg-id="BaebleMusic.us" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="🟤 MUSIC",Baeble Music (720p)
+EXTINF:-1 tvg-id="BaebleMusic.us" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="🟤 MUZIC",Baeble Music (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="🟤 MUSIC",California Music Channel (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="🟤 MUZIC",California Music Channel (720p) [Not 24/7]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="🟤 MUSIC",Euro Indie Music Chart TV (360p)
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="🟤 MUZIC",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="Music",La Mega Mundial (720p) [Not 24/7]
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="🟤 MUSIC",Latido Music (720p)
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="🟤 MUZIC",Latido Music (720p)
 https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
-EXTINF:-1 tvg-id="Loop80sEast.us" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="🟤 MUSIC",Loop 80s East (1080p) [Geo-blocked]
+EXTINF:-1 tvg-id="Loop80sEast.us" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="🟤 MUZIC",Loop 80s East (1080p) [Geo-blocked]
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Loop80sWest.us" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="🟤 MUSIC",Loop 80s West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Loop80sWest.us" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="🟤 MUZIC",Loop 80s West (1080p) [Geo-blocked]
 https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="Loop90sWest.us" tvg-logo="https://i.imgur.com/K8YV2bR.png" group-title="🟤 MUSIC",Loop 90s West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Loop90sWest.us" tvg-logo="https://i.imgur.com/K8YV2bR.png" group-title="🟤 MUZIC",Loop 90s West (1080p) [Geo-blocked]
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopBeastModeWest.us" tvg-logo="https://static.12core.net/fb8c7ba652305a8700924347d46dcdff.jpeg" group-title="🟤 MUSIC",Loop Beast Mode West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopBeastModeWest.us" tvg-logo="https://static.12core.net/fb8c7ba652305a8700924347d46dcdff.jpeg" group-title="🟤 MUZIC",Loop Beast Mode West (1080p) [Geo-blocked]
 https://884a4c762d524aad88d463477402fb7d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopBedroomWest.us" tvg-logo="https://static.12core.net/2a347a69ef251082e125c7b15fc721a9.jpeg" group-title="🟤 MUSIC",Loop Bedroom West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopBedroomWest.us" tvg-logo="https://static.12core.net/2a347a69ef251082e125c7b15fc721a9.jpeg" group-title="🟤 MUZIC",Loop Bedroom West (1080p) [Geo-blocked]
 https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopElectronicaWest.us" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg" group-title="🟤 MUSIC",Loop Electronica West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopElectronicaWest.us" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg" group-title="🟤 MUZIC",Loop Electronica West (1080p) [Geo-blocked]
 https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopFarOutWest.us" tvg-logo="https://static.12core.net/66b982a91d8b8f8383420675781139a1.jpeg" group-title="🟤 MUSIC",Loop Far Out West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopFarOutWest.us" tvg-logo="https://static.12core.net/66b982a91d8b8f8383420675781139a1.jpeg" group-title="🟤 MUZIC",Loop Far Out West (1080p) [Geo-blocked]
 https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopFlashbackWest.us" tvg-logo="https://static.12core.net/52a174e6787a4ade949c6f5903777cff.jpeg" group-title="🟤 MUSIC",Loop Flashback West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopFlashbackWest.us" tvg-logo="https://static.12core.net/52a174e6787a4ade949c6f5903777cff.jpeg" group-title="🟤 MUZIC",Loop Flashback West (1080p) [Geo-blocked]
 https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopHipHopWest.us" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="🟤 MUSIC",Loop Hip-Hop West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopHipHopWest.us" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="🟤 MUZIC",Loop Hip-Hop West (1080p) [Geo-blocked]
 https://e4d2547e0c8c492a883054acd48276be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopHottestEast.us" tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="🟤 MUSIC",Loop Hottest East (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopHottestEast.us" tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="🟤 MUZIC",Loop Hottest East (1080p) [Geo-blocked]
 https://2e9a0ef101a14c2ebe97c713bc5340be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_v2_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopLatinWest.us" tvg-logo="https://static.12core.net/20b46f1a2777723aaa45db27e7389a93.jpeg" group-title="🟤 MUSIC",Loop Latin West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopLatinWest.us" tvg-logo="https://static.12core.net/20b46f1a2777723aaa45db27e7389a93.jpeg" group-title="🟤 MUZIC",Loop Latin West (1080p) [Geo-blocked]
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopPartyWest.us" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="🟤 MUSIC",Loop Party West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopPartyWest.us" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="🟤 MUZIC",Loop Party West (1080p) [Geo-blocked]
 https://1d79349342334eb0bdeddd168b5c6e1a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopRBWest.us" tvg-logo="https://static.12core.net/6edcf875ec3ba823acec994ffd051633.jpeg" group-title="🟤 MUSIC",Loop R&B West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopRBWest.us" tvg-logo="https://static.12core.net/6edcf875ec3ba823acec994ffd051633.jpeg" group-title="🟤 MUZIC",Loop R&B West (1080p) [Geo-blocked]
 https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopSynapseWest.us" tvg-logo="https://static.12core.net/e21e0005af106ee7bebea46bb17b2e93.jpeg" group-title="🟤 MUSIC",Loop Synapse West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopSynapseWest.us" tvg-logo="https://static.12core.net/e21e0005af106ee7bebea46bb17b2e93.jpeg" group-title="🟤 MUZIC",Loop Synapse West (1080p) [Geo-blocked]
 https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopTexasTunesWest.us" tvg-logo="https://static.12core.net/c7c4962a327ba3a25ae0dcf17a3d4e06.jpeg" group-title="🟤 MUSIC",Loop Texas Tunes West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopTexasTunesWest.us" tvg-logo="https://static.12core.net/c7c4962a327ba3a25ae0dcf17a3d4e06.jpeg" group-title="🟤 MUZIC",Loop Texas Tunes West (1080p) [Geo-blocked]
 https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopTGIFWest.us" tvg-logo="https://static.12core.net/2487e997c51436f8502ac737144954a7.jpeg" group-title="🟤 MUSIC",Loop TGIF West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopTGIFWest.us" tvg-logo="https://static.12core.net/2487e997c51436f8502ac737144954a7.jpeg" group-title="🟤 MUZIC",Loop TGIF West (1080p) [Geo-blocked]
 https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopThatsHotWest.us" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg" group-title="🟤 MUSIC",Loop That's Hot West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopThatsHotWest.us" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg" group-title="🟤 MUZIC",Loop That's Hot West (1080p) [Geo-blocked]
 https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopTrendingWest.us" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg" group-title="🟤 MUSIC",Loop Trending West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopTrendingWest.us" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg" group-title="🟤 MUZIC",Loop Trending West (1080p) [Geo-blocked]
 https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopUnwindWest.us" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg" group-title="🟤 MUSIC",Loop Unwind West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopUnwindWest.us" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg" group-title="🟤 MUZIC",Loop Unwind West (1080p) [Geo-blocked]
 https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopYachtRockWest.us" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg" group-title="🟤 MUSIC",Loop Yacht Rock West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopYachtRockWest.us" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg" group-title="🟤 MUZIC",Loop Yacht Rock West (1080p) [Geo-blocked]
 https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
 
 #==============ĐỊA PHƯƠNG=================
