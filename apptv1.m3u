@@ -836,15 +836,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007
 #EXTINF:-1 tvg-id="BumblebeeTVMotorCyclist.us" tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="🔵 AUTO",Bumblebee TV MotorCyclist (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 
-#================= MU SIc ===============
+#================= MUSIC ===============
 
-#EXTINF:0  tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/ySX4LCz/Mccmusic.jpg",BOX Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/ySX4LCz/Mccmusic.jpg",BOX Music
+#EXTVLCOPT:http-user-agent=apptv
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://dl.dropboxusercontent.com/s/v9g46fkke3h2cpo/hls/musicbox/index.m3u8?cc|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="musicbox" group-title="🟤 MUSIC" tvg-logo="https://i.ibb.co/Z17szpD/Box-Music-cc.webp",BOX Music ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=apptv
 https://dl.dropboxusercontent.com/s/ldjl3xwzcnsj7gw/
 #EXTINF:-1 tvg-id="BaebleMusic.us" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="🟤 MUSIC",Baeble Music (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
