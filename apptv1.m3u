@@ -646,15 +646,15 @@ http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0 tvg-id="discoveryhd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/xzpWHLm/Discovery-Channel.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Channel
-#EXTVLCOPT:http-user-agent=apptv
+#EXTINF:0 tvg-id="discoveryhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/xzpWHLm/Discovery-Channel.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/QQ6mRjt/Discovery-Asia.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Asia
-#EXTVLCOPT:http-user-agent=apptv
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/QQ6mRjt/Discovery-Asia.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0 tvg-id="ngchd" group-title="⚪ KÊNH KHOA HỌC", tvg-logo="https://i.ibb.co/xmYMXSx/national-geographic.png",Nat Geo
+#EXTINF:0 tvg-id="ngchd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/xmYMXSx/national-geographic.png" Nat Geo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8?cc
 
