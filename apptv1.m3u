@@ -1,6 +1,15 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #linhTM
 ===================K+ HD ==============
+#EXTINF:-1 group-title="Kplus" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcGx1c2hk&chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprbnNoZA&chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcG1oZA&chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcGNoZA&chunklist_b3128000.m3u8
+
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
