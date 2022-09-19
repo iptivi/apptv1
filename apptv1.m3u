@@ -351,6 +351,9 @@ https://mediatech.vncdn.vn/vovlive/tv1live.m3u8?cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
 
+#EXTINF:-1 tvg-id="antg" tvg-name="An Ninh Thế Giới" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnk3sVvO8WsnNqLjwdKgaweqPNsQRu-p3C6epE2aL1pboWFMR2ENEYbtbqsEJ6mMhqyw.png" group-title="🟢 KÊNH BÁO CHÍ",An Ninh Thế Giới
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/207.m3u8
+
 #=============KÊNH THỂ THAO===============
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -502,6 +505,14 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
 https://tbientv.xyz/channel/?hits
 
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://stream.sugustv.tk:443/images/SyE1QEORz-YyC76DW6lIY03WWGXv6ovzGYmTZCYIIzrgF3QG5uPtC_cLqAZu0G3oYutAZ3ubqoyJJ1Ve5TudpZTLCfT5ue26PagQ-P8VQaJQKTmUXbCaZQzIkb4xZ4dWza_bx8_cYFnTycFIbJ7oZg.png" group-title="🟢 KÊNH PHIM",tvN
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/86.m3u8
+#EXTINF:-1 tvg-name="tvN DRAMA" tvg-logo="https://stream.sugustv.tk:443/images/1cHPFfL2PlOrMLdfOs4lQhYuzVAe_EQrgk4ChwSiAPMiU_pq1yfasiEzsNZ69fwgiUtqQVMkP84rBe4NNqs2DA.png" group-title="🟢 KÊNH PHIM",tvN DRAMA
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/213.m3u8
+#EXTINF:-1 tvg-name="tvN SHOW" tvg-logo="https://stream.sugustv.tk:443/images/1cHPFfL2PlOrMLdfOs4lQkW-n9HWkRwiQ6RzHM28vAI3MtYbCP17S8mZ62LvOJq7elVKU3l9XAyoW7E5q0trwg.png" group-title="🟢 KÊNH PHIM",tvN SHOW
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/214.m3u8
+#EXTINF:-1 tvg-name="tvN STORY" tvg-logo="https://stream.sugustv.tk:443/images/1cHPFfL2PlOrMLdfOs4lQtoVsgKnBaort4nCRgWuR4EO0LkwZas7AURGFjQMc19UncP0PGjq4PmIErHeku_imQ.png" group-title="🟢 KÊNH PHIM",tvN STORY
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/215.m3u8
 
 #============KÊNH KHOA HỌC==================
 #EXTINF:0 tvg-id="planetearthhd" type="stream" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png",Planet Earth
@@ -628,6 +639,9 @@ https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8?cc
 
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" tvg-logo="https://meco.mytv.vn/static/channel/50.png?ver=14" group-title="🌐 KÊNH QUỐC TẾ",NHK World
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/158.m3u8
+
 #EXTINF:0  tvg-id="arirang" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/09JHvmY/arirang.png",Ariang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8?cc
@@ -688,6 +702,15 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8?cc
 #EXTINF:0 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/y49ghHm/Loupe-cc.png",Loupe ⁴ᵏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?cc
+
+#EXTINF:-1 xui-id="467" tvg-id="CCTV1.cn" tvg-name="CCTV 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_170_122" group-title="🌐 KÊNH QUỐC TẾ",CCTV 1
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/467.m3u8
+#EXTINF:-1 xui-id="468" tvg-id="CCTV5.cn" tvg-name="CCTV 5" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnk1mZ3YhYxa_PuQSSMOaHRuaQKExTSpiyD4vtRFGKOioXIK1kvX_M3DnuhLVGKeNjDQ.png" group-title="🌐 KÊNH QUỐC TẾ",CCTV 5
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/468.m3u8
+#EXTINF:-1 xui-id="469" tvg-id="CCTV5Plus.cn" tvg-name="CCTV 5+" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnk5nMD-PtJVeNEk80YL2aZIEEBxZFedtmABN3ROxQhPc3mc_yVBn5siFS_ZmIuw0z3A.png" group-title="🌐 KÊNH QUỐC TẾ",CCTV 5+
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/469.m3u8
+#EXTINF:-1 xui-id="470" tvg-id="CCTV13.cn" tvg-name="CCTV 13" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnk4yMFRrNYPx_LZ9cFkagFKRj_Nrg9eMHRn7LKlq6k_o8zhWLEcuX2zSpUUc-V3CKyw.png" group-title="🌐 KÊNH QUỐC TẾ",CCTV 13
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/470.m3u8
 
 #===============AUTO=================
 #EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-logo="https://i.imgur.com/Se1a8Mm.png" group-title="🔵 AUTO",Bumblebee TV AutoMoto (720p)
