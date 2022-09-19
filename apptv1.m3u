@@ -387,28 +387,53 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/363553794
 http://live-sg.cvacetv.ga:8080/stream/channelid/1916682652
 #EXTINF:-1 group-title="🟡 KÊNH THỂ THAO",Eleven Sports 4
 http://live-sg.cvacetv.ga:8080/stream/channelid/1997102389
-
+===================
 #EXTINF:-1 xui-id="287" tvg-id="816" tvg-name="SPOTV (Asia Feed)" tvg-logo="https://stream.sugustv.tk:443/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM7edPe8E_T_SjyVaMZGWIOs_AjNs7qKh7khSQQsBF0HIA.png" group-title="🟡 KÊNH THỂ THAO",SPOTV (Asia Feed)
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/287.m3u8
-#EXTINF:-1 xui-id="288" tvg-id="" tvg-name="SPOTV2 (Asia Feed)" tvg-logo="https://stream.sugustv.tk:443/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM7edPe8E_T_SjyVaMZGWIOsg2z0Be4qnfI3jViK5kq4ug.png" group-title="🟡 KÊNH THỂ THAO",SPOTV2 (Asia Feed)
+#EXTINF:-1 xui-id="288" tvg-id="SPOTV2.kr" tvg-name="SPOTV2 (Asia Feed)" tvg-logo="https://stream.sugustv.tk:443/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM7edPe8E_T_SjyVaMZGWIOsg2z0Be4qnfI3jViK5kq4ug.png" group-title="🟡 KÊNH THỂ THAO",SPOTV2 (Asia Feed)
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/288.m3u8
+
 #EXTINF:-1 xui-id="79" tvg-id="EDGEHD" tvg-name="EDGE Sports" tvg-logo="https://stream.sugustv.tk:443/images/guDhMh-txtQMOxE86BPbpTrBIBflP3lzDPdBaWgXJ9ccZktiCEbuBWeeMidhCUBYidxp0xB5olHAucLhDaBdhw.png" group-title="🟡 KÊNH THỂ THAO",EDGE Sports
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/79.m3u8
+
+#EXTINF:-1 xui-id="84" tvg-id="SKYSPUH" tvg-name="Sky Sport UHD" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqX2jlnSzxH9vlHVwyCLqxiWNqm-0NXw0woUqr5xZacKw.png" group-title="🟡 KÊNH THỂ THAO",Sky Sport UHD
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/84.ts
+#EXTINF:-1 xui-id="85" tvg-id="SKYSPUH" tvg-name="Sky Sport UHD 2" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqX2jlnSzxH9vlHVwyCLqxiWNqm-0NXw0woUqr5xZacKw.png" group-title="🟡 KÊNH THỂ THAO",Sky Sport UHD 2
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/85.ts
+#EXTINF:-1 xui-id="49" tvg-id="SSPOMEH" tvg-name="Sky Sports Main Event" tvg-logo="https://stream.sugustv.tk:443/images/guDhMh-txtQMOxE86BPbpTrBIBflP3lzDPdBaWgXJ9fdW3SZr1dWD-2EoqOH6n2IoUnP6w-a7VzQW0tYxkbUiA.png" group-title="🟡 KÊNH THỂ THAO",Sky Sports Main Event
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/49.ts
+
+#EXTINF:-1 xui-id="324" tvg-id="AstroUHD.my" tvg-name="Astro SuperSport UHD" tvg-logo="https://stream.sugustv.tk:443/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM4-u2dISNaqnUTQlUxKpzrKpSsD7UJW8nO6xy_4JphYURYh_w6i9R-YxE_2xTeDD3U.png" group-title="🟡 KÊNH THỂ THAO",Astro SuperSport UHD
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/324.ts
+#EXTINF:-1 xui-id="222" tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5 HD" tvg-logo="https://stream.sugustv.tk:443/images/qBTBBplw7KneB3R2TSwgvJnfWcIHFA4g9WEG9rn5y6qOpVlTfMqpLfXaxgOtSD7PDBshfyhm1QMRebwlZ_bfXFgJnPfBGeDEYpalsxCHK0I.png" group-title="🟡 KÊNH THỂ THAO",Astro SuperSport 5 HD
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/222.m3u8
 
 #EXTINF:-1 xui-id="326" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 UHD" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GFori5zSOjkorfJ63t8wTqJmkPDng06H-UFWS4pKwo5wwrM.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 2 UHD
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/326.ts
 #EXTINF:-1 xui-id="329" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForgRFEmwji3fy00UFW5aXv4emOqEILE4nDiqhMeb6jZVM.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 1
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/329.ts
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/329.m3u8
 #EXTINF:-1 xui-id="330" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GFori5zSOjkorfJ63t8wTqJmkPDng06H-UFWS4pKwo5wwrM.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 2
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/330.ts
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/330.m3u8
 #EXTINF:-1 xui-id="331" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForRB6kaCZGH47kcJFcEHTbUqz3yYdetY9anPX7t2LbXcU.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 3
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/331.ts
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/331.m3u8
 #EXTINF:-1 xui-id="443" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GFor6T0eKiFHfpsjgZozaKdHychMzmlJoGozv39zNa34OKE.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 4
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/443.ts
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/443.m3u8
 #EXTINF:-1 xui-id="444" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForOX7JB74Qe-Tn_jO32kla4iDUcuySB7XiiqKYHx-ftlw.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 5
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/444.ts
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/444.m3u8
 #EXTINF:-1 xui-id="445" tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForezLCBkU7uXEWqHtVDb41D-BwRIw4OiBei8TjTdhfVyo.png" group-title="🟡 KÊNH THỂ THAO",Hub Premier 6
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/445.ts
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/445.m3u8
+
+#EXTINF:-1 xui-id="327" tvg-id="NowSports4K.hk" tvg-name="Now Sports 4K 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="🟡 KÊNH THỂ THAO",Now Sports 4K 1
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/327.ts
+#EXTINF:-1 xui-id="446" tvg-id="NowSportsPremierLeague1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="🟡 KÊNH THỂ THAO",Now Sports Premier League 1
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/446.m3u8
+#EXTINF:-1 xui-id="50" tvg-id="BEINSES" tvg-name="beIN Sports Xtra En Español" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SLa5Daux4b27AK9W8nEfjnTUdxUuhYtYXKLxRjsoi3rQ.png" group-title="🟡 KÊNH THỂ THAO",beIN Sports Xtra En Español
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/50.m3u8
+#EXTINF:-1 xui-id="333" tvg-id="AXNHDThailand.th" tvg-name="Eleven Sports 1 4K" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnkzrXHid_82EUlS0zcJLc4PmFlswyzixDOeENG4tSxomLpKuUQCBqS7XKvn0fPgjznA.png" group-title="🟡 KÊNH THỂ THAO",Eleven Sports 1 4K
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/333.ts
+#EXTINF:-1 xui-id="325" tvg-id="BTSPUHD" tvg-name="BT Sport Ultimate UHD" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrnIEFQJAna6hcVJxgE0dAn46wZMVUOvsuD_8tp62wv2A.png" group-title="🟡 KÊNH THỂ THAO",BT Sport Ultimate UHD
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/325.ts
+
 
 #=============KÊNH PHIM=================
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
