@@ -579,9 +579,8 @@ https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 												
 #EXTINF:0  tvg-id="woman" type="stream" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/rsYZyrW/ccwoman.jpg",Woman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/4kjl38qcn0pq3m2/hls/woman/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=apptv
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/95.m3u8
 
 #EXTINF:0  tvg-id="drfithd" type="stream" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/0MkTkdd/ccfit.png",Dr. Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
