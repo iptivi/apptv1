@@ -212,79 +212,56 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311
 https://api.vthanhtivi.pw/v1/getlink/vieon2/d65f1df2-54fd-46d8-a958-ae9d6ec2b868
 
 #=============SCTV================
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-1HD2.jpg",SCTV1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/p4u9t824850cdk1/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv2hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-21.jpg",SCTV2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/f3jp5u9nclpn3zx/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv3hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-31.jpg",SCTV3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/43a8peawbrjmwhf/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv4hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-42.jpg",SCTV4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/hde0mw2ol29zg8e/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv5hd" tvg-logo="http://tvtructuyen.vn/wp-content/uploads/2018/07/large_sctv5.png",SCTV5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/mq3fnrloowa28gw/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-61.jpg",SCTV6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/096y1i1q41dhsb8/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv7hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-71.jpg",SCTV7 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/xslqfy2nofjdhyu/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv8hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV81.jpg",SCTV8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/bkm54clnovvjeqh/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv9hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-91.jpg",SCTV9 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/qrrzlhswf9v2x5y/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv10hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/thumb-sctv10_SD1.jpg",SCTV10 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/pmy57k02eehw952/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv11hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV1111.jpg",SCTV11 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/9l36ifv4v1n5ofl/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv12hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV121.jpg",SCTV12 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/h5nzlccdbiwjwna/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv13hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV132.jpg",SCTV13 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/jf3m7zk9jetsnzu/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv14hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-141.jpg",SCTV14 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/5yj3degconc565q/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/S7jF21L/lich-phat-song-ssport2.png",SCTV15 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/n7mfvg7bb00e384/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XJvpmFZ/SCTV16.webp",SCTV16 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/q37so5qydgdb02a/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv17hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-1711.jpg",SCTV17 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/i6my9fvdxvbjct5/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv18hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-1812.jpg",SCTV18 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/0w4ds181pztygc0/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="SCTV19HD" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-sctv19.png",SCTV19 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/ujbvxjecfpg073c/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ytimg.com/vi/pK9Dq98ms4E/maxresdefault.jpg",SCTV20  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/0wegot75ilprfqx/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv21hd" tvg-logo="https://lichtruyenhinh.net/storage/images/d9cba23e04f0868faadfde2fa1aadd7b.png",SCTV21 
-https://dl.dropboxusercontent.com/s/vcuj2q982kleejn/																						 ㅤ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/vcuj2q982kleejn/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctv22hd" tvg-logo="http://tvtructuyen.vn/wp-content/uploads/2021/02/large_sctv22.jpg",SCTV22 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/7d9mb2kzlhjbcw2/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="sctvhdpth" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SCTV-PhimTH1.jpg",SCTV.PTH 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/lgvv8qvp9vc43f5/																						 ㅤ
-#EXTINF:-1 group-title="🔵 SCTV" tvg-id="btv5hd" tvg-logo="https://i.ibb.co/0VZRd5H/ssport3.png",BTV5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/wm5zkbjigijf43d/
+#EXTINF:-1 tvg-id="sctv1hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
+#EXTINF:-1 group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
+#EXTINF:-1 group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv15
+#EXTINF:-1 tvg-id="sctv16hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
+#EXTINF:-1 tvg-id="sctv18hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
+#EXTINF:-1 tvg-id="sctv22hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
+#EXTINF:-1 tvg-id="btv5hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+
 
 #=============HO CHI MINH TV================
 #EXTINF:-1 tvg-id="htv1" group-title="🟣 HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 HD
@@ -550,8 +527,8 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/215.m3u8
 #============KÊNH KHOA HỌC==================
 #EXTINF:0 tvg-id="planetearthhd" type="stream" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png",Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://dl.dropboxusercontent.com/s/m2fp0v246769390/hls/planetearth/index.m3u8?cc|Referer=http://sctvonline.vn/
+https://api.vthanhtivi.pw/v1/getlink/tv360/135/2
+
 
 #EXTINF:0 tvg-id="animalhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/7CQLFc3/animalplanet.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
