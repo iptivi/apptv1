@@ -428,7 +428,8 @@ http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101943
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110542
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2" tvg-logo="" group-title="🟡 KÊNH THỂ THAO",beIN Sports Max 2
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110543
-
+#EXTINF:-1 xui-id="50" tvg-id="BEINSES" tvg-name="beIN Sports Xtra En Español" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SLa5Daux4b27AK9W8nEfjnTUdxUuhYtYXKLxRjsoi3rQ.png" group-title="🟡 KÊNH THỂ THAO",beIN Sports Xtra En Español
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/50.m3u8
 
 ===================
 #EXTINF:-1 xui-id="287" tvg-id="816" tvg-name="SPOTV (Asia Feed)" tvg-logo="https://stream.sugustv.tk:443/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM7edPe8E_T_SjyVaMZGWIOs_AjNs7qKh7khSQQsBF0HIA.png" group-title="🟡 KÊNH THỂ THAO",SPOTV (Asia Feed)
@@ -438,13 +439,6 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/288.m3u8
 
 #EXTINF:-1 xui-id="79" tvg-id="EDGEHD" tvg-name="EDGE Sports" tvg-logo="https://stream.sugustv.tk:443/images/guDhMh-txtQMOxE86BPbpTrBIBflP3lzDPdBaWgXJ9ccZktiCEbuBWeeMidhCUBYidxp0xB5olHAucLhDaBdhw.png" group-title="🟡 KÊNH THỂ THAO",EDGE Sports
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/79.m3u8
-
-#EXTINF:-1 xui-id="84" tvg-id="SKYSPUH" tvg-name="Sky Sport UHD" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqX2jlnSzxH9vlHVwyCLqxiWNqm-0NXw0woUqr5xZacKw.png" group-title="🟡 KÊNH THỂ THAO",Sky Sport UHD
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/84.ts
-#EXTINF:-1 xui-id="85" tvg-id="SKYSPUH" tvg-name="Sky Sport UHD 2" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqX2jlnSzxH9vlHVwyCLqxiWNqm-0NXw0woUqr5xZacKw.png" group-title="🟡 KÊNH THỂ THAO",Sky Sport UHD 2
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/85.ts
-#EXTINF:-1 xui-id="49" tvg-id="SSPOMEH" tvg-name="Sky Sports Main Event" tvg-logo="https://stream.sugustv.tk:443/images/guDhMh-txtQMOxE86BPbpTrBIBflP3lzDPdBaWgXJ9fdW3SZr1dWD-2EoqOH6n2IoUnP6w-a7VzQW0tYxkbUiA.png" group-title="🟡 KÊNH THỂ THAO",Sky Sports Main Event
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/49.ts
 
 #EXTINF:-1 xui-id="324" tvg-id="AstroUHD.my" tvg-name="Astro SuperSport UHD" tvg-logo="https://stream.sugustv.tk:443/images/KAfIccbtURHrKiNdpLgWYo3y94-4a0y8gPpzqbOVHM4-u2dISNaqnUTQlUxKpzrKpSsD7UJW8nO6xy_4JphYURYh_w6i9R-YxE_2xTeDD3U.png" group-title="🟡 KÊNH THỂ THAO",Astro SuperSport UHD
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/324.ts
@@ -470,8 +464,7 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/445.m3u8
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/327.ts
 #EXTINF:-1 xui-id="446" tvg-id="NowSportsPremierLeague1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122" group-title="🟡 KÊNH THỂ THAO",Now Sports Premier League 1
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/446.m3u8
-#EXTINF:-1 xui-id="50" tvg-id="BEINSES" tvg-name="beIN Sports Xtra En Español" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SLa5Daux4b27AK9W8nEfjnTUdxUuhYtYXKLxRjsoi3rQ.png" group-title="🟡 KÊNH THỂ THAO",beIN Sports Xtra En Español
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/50.m3u8
+
 #EXTINF:-1 xui-id="333" tvg-id="AXNHDThailand.th" tvg-name="Eleven Sports 1 4K" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnkzrXHid_82EUlS0zcJLc4PmFlswyzixDOeENG4tSxomLpKuUQCBqS7XKvn0fPgjznA.png" group-title="🟡 KÊNH THỂ THAO",Eleven Sports 1 4K
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/333.ts
 #EXTINF:-1 xui-id="325" tvg-id="BTSPUHD" tvg-name="BT Sport Ultimate UHD" tvg-logo="https://stream.sugustv.tk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrnIEFQJAna6hcVJxgE0dAn46wZMVUOvsuD_8tp62wv2A.png" group-title="🟡 KÊNH THỂ THAO",BT Sport Ultimate UHD
