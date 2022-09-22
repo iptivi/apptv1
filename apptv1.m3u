@@ -308,29 +308,6 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="🟣 HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/62.png", HTVC Homeshopping
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
-#=============KÊNH BÁO CHÍ================
-#EXTINF:0 tvg-id="antvhd"  group-title="🟢 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/W6ChNPL/An-Ninh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",An Ninh TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:0 tvg-id="qpvnhd"  group-title="🟢 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/N9zkzV2/Quoc-Phong-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Quốc Phòng TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:0 tvg-id="quochoi"  group-title="🟢 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/BCVcBPM/quochoi-cc.webp",Quốc Hội TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:0 tvg-id="nhandan"  group-title="🟢 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/RhrbpSR/Nhan-Dan-cc.webp",Nhân Dân TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:0 tvg-id="vovtvhd"  group-title="🟢 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/tY8jbSB/VOV-cc.webp",VOV TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://mediatech.vncdn.vn/vovlive/tv1live.m3u8?cc
-#EXTINF:0 tvg-id="ttxvnhd"  group-title="🟢 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/7trfq2x/V-NEWS.png",V.News TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
-
-#EXTINF:-1 tvg-id="antg" tvg-name="An Ninh Thế Giới" tvg-logo="https://stream.sugustv.tk:443/images/_XNYMZHq56bdXinveMwnk3sVvO8WsnNqLjwdKgaweqPNsQRu-p3C6epE2aL1pboWFMR2ENEYbtbqsEJ6mMhqyw.png" group-title="🟢 KÊNH BÁO CHÍ",An Ninh Thế Giới
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/207.m3u8
-
 #=============KÊNH THỂ THAO===============
 #EXTINF:-1 tvg-id="vtvcab28hd" group-title="🟡 ON SPORTS" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png?auto=format&fit=max&w=384", VTVCab 28 - ON Sport News Eng
 https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAQ/m30_index.m3u8
@@ -443,6 +420,26 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/443.m3u8
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/444.m3u8
 #EXTINF:-1 xui-id="445" tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForezLCBkU7uXEWqHtVDb41D-BwRIw4OiBei8TjTdhfVyo.png" group-title="🔵 SPORTS",Hub Premier 6
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/445.m3u8
+
+#=============KÊNH BÁO CHÍ================
+#EXTINF:0 tvg-id="antvhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/W6ChNPL/An-Ninh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",An Ninh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0 tvg-id="qpvnhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/N9zkzV2/Quoc-Phong-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Quốc Phòng TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0 tvg-id="quochoi"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/BCVcBPM/quochoi-cc.webp",Quốc Hội TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0 tvg-id="nhandan"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/RhrbpSR/Nhan-Dan-cc.webp",Nhân Dân TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8?cc
+#EXTINF:0 tvg-id="vovtvhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/tY8jbSB/VOV-cc.webp",VOV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mediatech.vncdn.vn/vovlive/tv1live.m3u8?cc
+#EXTINF:0 tvg-id="ttxvnhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/7trfq2x/V-NEWS.png",V.News TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #=============KÊNH PHIM=================
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
