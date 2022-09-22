@@ -349,6 +349,20 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
 #EXTINF:0 tvg-id="" type="stream" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/VmMz7md/cccab23.png",Golf News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8?cc
+
+#EXTINF:-1 tvg-id="vtvcab24hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg?auto=format&fit=max&w=256", VTVCab 24 - ON VFF
+https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab25hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720X405/19717a3c-6ae7-412d-8dc8-9a5b50a4f4dd.jpg?auto=format&fit=max&w=384", VTVCab 25 - ON VOLLEYBALL
+https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab26hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png?auto=format&fit=max&w=384", VTVCab 26 - ON Sport Eng
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab27hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png?auto=format&fit=max&w=256", VTVCab 27 - ON Football Eng
+https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab28hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png?auto=format&fit=max&w=384", VTVCab 28 - ON Sport News Eng
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab29hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg?auto=format&fit=max&w=384", VTVCab 29 - ON Golf Eng
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
+
 ----------------------
 #EXTINF:-1 group-title="🟡 KÊNH THỂ THAO",Eleven Sports 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/299897060
