@@ -358,13 +358,13 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1450997750
 http://live-sg.cvacetv.ga:8080/stream/channelid/2075446000
 ============================
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="" group-title="🔵 SPORTS",beIN SPORTS Premium 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="🔵 SPORTS",beIN SPORTS Premium 1 FHD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101931
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="" group-title="🔵 SPORTS",beIN SPORTS Premium 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="🔵 SPORTS",beIN SPORTS Premium 2 FHD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="" group-title="🔵 SPORTS",beIN Sports Premium 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="🔵 SPORTS",beIN Sports Premium 3 FHD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD" tvg-logo="" group-title="🔵 SPORTS",beIN SPORTS Premium 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="🔵 SPORTS",beIN SPORTS Premium 3 FHD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101930
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="🔵 SPORTS",beIN SPORT FHD 1
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90154
