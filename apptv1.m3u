@@ -366,17 +366,17 @@ http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD" tvg-logo="" group-title="🔵 SPORTS",beIN SPORTS Premium 3 FHD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101930
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="🔵 SPORTS",beIN SPORT FHD 1
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90154
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 2" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="🔵 SPORTS",beIN SPORT FHD 2
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90155
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 3" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="🔵 SPORTS",beIN SPORT FHD 3
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90156
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 4" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="🔵 SPORTS",beIN SPORT FHD 4
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90157
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 5" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 5" tvg-logo="https://www.nadirsat.com/Packages_files/HD5-1.png" group-title="🔵 SPORTS",beIN SPORT FHD 5
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90158
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 6" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 6
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="🔵 SPORTS",beIN SPORT FHD 6
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90159
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 7" tvg-logo="" group-title="🔵 SPORTS",beIN SPORT FHD 7
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90160
@@ -410,21 +410,6 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/79.m3u8
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/324.ts
 #EXTINF:-1 xui-id="222" tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5 HD" tvg-logo="https://stream.sugustv.tk:443/images/qBTBBplw7KneB3R2TSwgvJnfWcIHFA4g9WEG9rn5y6qOpVlTfMqpLfXaxgOtSD7PDBshfyhm1QMRebwlZ_bfXFgJnPfBGeDEYpalsxCHK0I.png" group-title="🔵 SPORTS",Astro SuperSport 5 HD
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/222.m3u8
-
-#EXTINF:-1 xui-id="326" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 UHD" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GFori5zSOjkorfJ63t8wTqJmkPDng06H-UFWS4pKwo5wwrM.png" group-title="🔵 SPORTS",Hub Premier 2 UHD
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/326.ts
-#EXTINF:-1 xui-id="329" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForgRFEmwji3fy00UFW5aXv4emOqEILE4nDiqhMeb6jZVM.png" group-title="🔵 SPORTS",Hub Premier 1
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/329.m3u8
-#EXTINF:-1 xui-id="330" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GFori5zSOjkorfJ63t8wTqJmkPDng06H-UFWS4pKwo5wwrM.png" group-title="🔵 SPORTS",Hub Premier 2
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/330.m3u8
-#EXTINF:-1 xui-id="331" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForRB6kaCZGH47kcJFcEHTbUqz3yYdetY9anPX7t2LbXcU.png" group-title="🔵 SPORTS",Hub Premier 3
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/331.m3u8
-#EXTINF:-1 xui-id="443" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GFor6T0eKiFHfpsjgZozaKdHychMzmlJoGozv39zNa34OKE.png" group-title="🔵 SPORTS",Hub Premier 4
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/443.m3u8
-#EXTINF:-1 xui-id="444" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForOX7JB74Qe-Tn_jO32kla4iDUcuySB7XiiqKYHx-ftlw.png" group-title="🔵 SPORTS",Hub Premier 5
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/444.m3u8
-#EXTINF:-1 xui-id="445" tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6" tvg-logo="https://stream.sugustv.tk:443/images/VjbEwf1_xIEQfODrTtleRIy_fU2LTs6aZV5X6FVEFl9h7JAsQYYAf5-wTV24GForezLCBkU7uXEWqHtVDb41D-BwRIw4OiBei8TjTdhfVyo.png" group-title="🔵 SPORTS",Hub Premier 6
-https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/445.m3u8
 
 #=============KÊNH BÁO CHÍ================
 #EXTINF:0 tvg-id="antvhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/W6ChNPL/An-Ninh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",An Ninh TV
