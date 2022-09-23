@@ -426,7 +426,8 @@ https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="vovtvhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/tY8jbSB/VOV-cc.webp",VOV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://103.90.220.236/vovlive/tv1live.m3u8
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/202.m3u8
+
 #EXTINF:0 tvg-id="ttxvnhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/7trfq2x/V-NEWS.png",V.News TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
