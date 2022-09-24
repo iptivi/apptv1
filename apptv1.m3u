@@ -30,17 +30,17 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="klive1hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/TwvTpW2/klive1.jpg", K+ LIVE 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive1hd=2e27d1896322c22a19dc67c9af96961dcae63fd0
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=apptv
 https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
 #EXTINF:-1 tvg-id="klive2hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/tY3kY8h/klive2.jpg", K+ LIVE 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive2hd=5fa54e447874eb661cc257e3d62ae62035a48f63
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=apptv
 https://sglivevega.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
 #EXTINF:-1 tvg-id="klive3hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/hBMSVZD/klive3.jpg", K+ LIVE 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive3hd=2caac8ef6f38c783651964759e65fe615ce0e27f
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=apptv
 https://sglivevega.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 
 =======================k+cab================
@@ -67,7 +67,6 @@ https://live-on-mobi.gviet.vn/manifest/k-plus-pm/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1a79868a7cbc4472b789e342b2473bf9&key=86c9a57a279ba2c75971a62415c17a4b
 https://live-on-mobi.gviet.vn/manifest/k-plus-pc/master.mpd
-
 
 #=========================VTV==============================================
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp"  catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV1
