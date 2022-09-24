@@ -348,14 +348,14 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/34.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🟡 ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=apptv
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8#|Referer=http://sctvonline.vn/
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/19.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🟡 ON SPORTS" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg",ON Sports+ HD
-https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/22.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🟡 ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/${start}/${offset}", ON Football HD
 #EXTVLCOPT:http-user-agent=apptv
-http://live.vthanhtivi.pw:8080/vtvcab16
+https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/32.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab24hd" group-title="🟡 ON SPORTS" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg?auto=format&fit=max&w=256", ON VFF
 https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAQ/m30_index.m3u8
