@@ -593,6 +593,10 @@ http://live.vthanhtivi.pw:8080/history
 #EXTVLCOPT:http-user-agent=apptv
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/Adventure-Sports-TV-live-vipotv.png",Adventure Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
+https://tbientv.xyz/getlink/?url=https://vipotv.com/adventure-sports-tv/
+
 #EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png",Viasat Explorer
 http://live-sg.cvacetv.ga/ViaEx
 
