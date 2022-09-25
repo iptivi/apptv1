@@ -388,6 +388,21 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1078788079
 http://live-sg.cvacetv.ga:8080/stream/channelid/1450997750
 #EXTINF:-1 group-title="🔵 SPORTS",Eleven Sports 4
 http://live-sg.cvacetv.ga:8080/stream/channelid/2075446000
+
+#EXTINF:-1 group-title="🔵 SPORTS" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1 group-title="🔵 SPORTS" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1 group-title="🔵 SPORTS" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1 group-title="🔵 SPORTS" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
+#EXTINF:-1 group-title="🔵 SPORTS" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 ============================
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="🔵 SPORTS",beIN SPORTS Premium 1 FHD
