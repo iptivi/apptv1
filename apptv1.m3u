@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml,https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/International/bein.net.channels.xml,https://github.com/Fazzani/grab/blob/master/ar_bein.xmltv" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml,http://live-sg.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:8880/xmltv/channels" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #linhTM
 
 ===========K+ HD==============
@@ -1418,3 +1418,323 @@ https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 10
 #EXTVLCOPT:http-user-agent=apptv1
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
+
+/////////////////////////////////////////////////////////
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="" group-title="➡️ BEIN SPORTS",BEIN SPORTS NEWS HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/68682
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 1 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101931
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 2 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 3 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 3 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101930
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90154
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90155
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 3" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 3
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90156
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 4" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 4
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90157
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 5" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 5
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90158
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 6" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 6
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90159
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 7" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 7
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90160
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115559
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 2 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115560
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 3 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115561
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Xtra 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sport Xtra 1 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101942
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Xtra 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sport Xtra 2 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101943
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports MAX 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110542
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Max 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110543
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101926
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101925
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101932
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS HD 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90164
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS HD 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90165
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 4" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 4
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90167
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 3" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 3
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90166
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 5" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 5
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90168
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 6" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 6
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90169
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 7" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 7
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90170
+
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101939
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101944
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101945
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101946
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS French 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101947
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS French 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101948
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS French 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101949
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Turkce 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Turkce 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101951
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Turkce 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Turkce 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101952
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Turkce 4 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Turkce 4 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101954
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX Turkce 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS MAX Turkce 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101955
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX Turkce 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS MAX Turkce 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101956
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS NBA
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/108151
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110195
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110196
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110197
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 4 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110198
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 5 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110199
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 6 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 6 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110200
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 7 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 7 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110201
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="" group-title="➡️ BEIN SPORTS",BEIN SPORTS
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97119
+#EXTINF:-1 tvg-id="" tvg-name="Al Kaas 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",Al Kaas 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115564
+#EXTINF:-1 tvg-id="" tvg-name="Al Kaas 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",Al Kaas 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115562
+#EXTINF:-1 tvg-id="" tvg-name="Al Kaas 4 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",Al Kaas 4 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115563
+#EXTINF:-1 tvg-id="" tvg-name="beIN 4K" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN 4K
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119132
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 1 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119133
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",KSA Sports 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119299
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",KSA Sports 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119300
+#EXTINF:-1 tvg-id="" tvg-name="beIN FCB" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN FCB
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119846
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports Premium 1" tvg-logo="" group-title="➡️ BEIN SPORTS",Abu Dhabi Sports Premium 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/120185
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports Premium Asia 1" tvg-logo="" group-title="➡️ BEIN SPORTS",Abu Dhabi Sports Premium Asia 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/121268
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports Premium Asia 2" tvg-logo="" group-title="➡️ BEIN SPORTS",Abu Dhabi Sports Premium Asia 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/121269
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 FHD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORT 1 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118340
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 FHD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORT 2 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118341
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 FHD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORT 3 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118342
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118343
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118344
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118345
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 4 SD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118346
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 5 SD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118347
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 6 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 6 SD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118348
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 7 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 7 SD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118349
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 8 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 8 SD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118350
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 9 SD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118351
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORT 1 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORT 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97929
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HD+" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS HD+
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97933
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97934
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97937
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 4 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97939
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS MAX 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97953
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS MAX 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97954
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports US HD" tvg-logo="" group-title="➡️ TURKISH TV",US: beIN Sports US HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/100352
+
+#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport Top Event
+http://live-sg.cvacetv.ga:8080/stream/channelid/2137345979
+#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport Tennis
+http://live-sg.cvacetv.ga:8080/stream/channelid/663332596
+#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport F1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1043073498
+#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",DAZN 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1380895879
+#EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports UA
+http://live-sg.cvacetv.ga:8080/stream/channelid/1268394914
+#EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports UA Plus
+http://live-sg.cvacetv.ga:8080/stream/channelid/1149052188
+#EXTINF:-1 group-title="➡️ MATCH TV",Маtch ТV
+http://live-sg.cvacetv.ga:8080/stream/channelid/301731277
+#EXTINF:-1 group-title="➡️ MATCH TV",Маtch Futbol 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1472356433
+#EXTINF:-1 group-title="➡️ MATCH TV",Маtch Futbol 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/571322026
+#EXTINF:-1 group-title="➡️ MATCH TV",Маtch Futbol 3
+http://live-sg.cvacetv.ga:8080/stream/channelid/1017563489
+#EXTINF:-1 group-title="➡️ MATCH TV",Маtch Premier
+http://live-sg.cvacetv.ga:8080/stream/channelid/647006126
+#EXTINF:-1 group-title="➡️ MATCH TV",Маtch Arena
+http://live-sg.cvacetv.ga:8080/stream/channelid/61532855
+#EXTINF:-1 group-title="➡️ SPORT TV",Sport TV 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1642444086
+#EXTINF:-1 group-title="➡️ SPORT TV",Sport TV 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/236846167
+#EXTINF:-1 group-title="➡️ SPORT TV",Sport TV 3
+http://live-sg.cvacetv.ga:8080/stream/channelid/228395618
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT",Eleven Sports 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/299897060
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT",Eleven Sports 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/1078788079
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT",Eleven Sports 3
+http://live-sg.cvacetv.ga:8080/stream/channelid/1450997750
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT",Eleven Sports 4
+http://live-sg.cvacetv.ga:8080/stream/channelid/2075446000
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 2
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 4
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
+#EXTINF:-1 group-title="➡️ ELEVEN SPORT" tvg-logo="https://i.imgur.com/D1siNUo_d.jpg", Elven Sport 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+
+#EXTINF:-1 group-title="➡️ CANAL SPORT",Canal+ Sport 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1343237403
+#EXTINF:-1 group-title="➡️ CANAL SPORT",Canal+ Sport 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/1187390163
+#EXTINF:-1 group-title="➡️ CANAL SPORT",Canal+ Sport 5
+http://live-sg.cvacetv.ga:8080/stream/channelid/1139937268
+#EXTINF:-1 group-title="➡️ CANAL SPORT",Canal+ Premium
+http://live-sg.cvacetv.ga:8080/stream/channelid/1688052141
+#EXTINF:-1 group-title="➡️ CANAL SPORT",Canal+ Family
+http://live-sg.cvacetv.ga:8080/stream/channelid/1947371474
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Premium 1
+http://live-vn.cvacetv.ga:8080/PolsatPre1
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Premium 2
+http://live-vn.cvacetv.ga:8080/PolsatPre2
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Premium 3
+http://live-vn.cvacetv.ga:8080/PPV3
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Premium 4
+http://live-vn.cvacetv.ga:8080/PPV4
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Premium 5
+http://live-vn.cvacetv.ga:8080/PPV5
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Premium 6
+http://live-vn.cvacetv.ga:8080/PPV6
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport
+http://live-sg.cvacetv.ga:8080/stream/channelid/139858583
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Extra
+http://live-sg.cvacetv.ga:8080/stream/channelid/530202586
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport News
+http://live-sg.cvacetv.ga:8080/stream/channelid/2042110647
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Polsat Sport Fight
+http://live-sg.cvacetv.ga:8080/stream/channelid/1466823828
+#EXTINF:-1 group-title="➡️ POLSAT SPORT",Fightbox
+http://live-sg.cvacetv.ga:8080/stream/channelid/1901205159
+#EXTINF:-1 group-title="➡️ EUROSPORT",Eurosport 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/374522740
+#EXTINF:-1 group-title="➡️ EUROSPORT",Eurosport 2
+http://live-sg.cvacetv.ga:8080/stream/channelid/675423042
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT",Ziggo Sport Select
+http://live-sg.cvacetv.ga:8080/stream/channelid/506668637
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT",Ziggo Sport Voetbal
+http://live-sg.cvacetv.ga:8080/stream/channelid/662775560
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT",Ziggo Sport Tennis
+http://live-sg.cvacetv.ga:8080/stream/channelid/1142956792
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT",Ziggo Sport Golf
+http://live-sg.cvacetv.ga:8080/stream/channelid/393249276
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT",Ziggo Sport Docu
+http://live-sg.cvacetv.ga:8080/stream/channelid/426150340
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT",Ziggo Sport Racing
+http://live-sg.cvacetv.ga:8080/stream/channelid/237052313
+#EXTINF:-1 group-title="➡️ DIEMA SPORT",DIEMA SPORT 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/418149162
+#EXTINF:-1 group-title="➡️ DIEMA SPORT",DIEMA SPORT 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/2091298131
+#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/1864220751
+#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/1685646518
+#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 3
+http://live-vn.cvacetv.ga:8880/stream/channelid/1301013760
+#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 1
+http://live-vn.cvacetv.ga:8880/stream/channelid/243723073
+#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 2
+http://live-vn.cvacetv.ga:8880/stream/channelid/158920698
+#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 3
+http://live-vn.cvacetv.ga:8880/stream/channelid/360322672
+#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 4
+http://live-vn.cvacetv.ga:8880/stream/channelid/336701474
+#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 5
+http://live-vn.cvacetv.ga:8880/stream/channelid/565907360
+#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 6
+http://live-vn.cvacetv.ga:8880/stream/channelid/1901481986
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",ESPN US
+http://live-vn.cvacetv.ga:8080/ESPN
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",ESPN2 US
+http://live-vn.cvacetv.ga:8080/ESPN2
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",USA Network
+http://live-vn.cvacetv.ga:8080/USA
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",NBC Golf
+http://live-vn.cvacetv.ga:8880/stream/channelid/170191107
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",FS1
+http://live-vn.cvacetv.ga:8080/FS1
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",FS2
+http://live-vn.cvacetv.ga:8080/FS2
+#EXTINF:-1 group-title="➡️ THỂ THAO MỸ",TNT HD
+http://live-vn.cvacetv.ga:8080/TNT
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Mexico
+http://live-vn.cvacetv.ga:8880/stream/channelid/615972325
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN2 Mexico
+http://live-vn.cvacetv.ga:8880/stream/channelid/343755710
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN3 Mexico
+http://live-vn.cvacetv.ga:8880/stream/channelid/1089603504
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Extra
+http://live-vn.cvacetv.ga:8880/stream/channelid/234981937
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Argentina
+http://live-vn.cvacetv.ga:8880/stream/channelid/537486924
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN2 Argentina
+http://live-vn.cvacetv.ga:8880/stream/channelid/734221819
+#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN3 Argentina
+http://live-vn.cvacetv.ga:8880/stream/channelid/1993420465
