@@ -611,7 +611,7 @@ https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-https://tbientv.xyz/channel/?1662656400bh5b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+https://tbientv.xyz/channel/?1662656400bhca3512f4dfa95a03169c5a670a4c91a19b3077b4/m3u8
 
 #EXTINF:0 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
