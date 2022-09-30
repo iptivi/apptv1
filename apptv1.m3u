@@ -1460,6 +1460,16 @@ http://live-sg.cvacetv.ga/Rai2
 http://live-sg.cvacetv.ga/Rai3
 #EXTINF:-1 group-title="🇮🇹 | Ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1024px-Canale_5_-_2018_logo.svg.png",Mediaset Canale 5
 
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="🇮🇹 | Ý",Rakuten Action Movies Italy (720p)
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy Movies
+https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.it" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="🇮🇹 | Ý",Rakuten Comedy Movies Italy (720p)
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightItaly.it" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="🇮🇹 | Ý",Rakuten Spotlight Italy (720p)
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopFreeItaly.it" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="🇮🇹 | Ý",Rakuten Top Free Italy (720p)
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 
 #----------------Turkey-----------------
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
