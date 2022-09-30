@@ -1752,13 +1752,34 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #--------------china -----------------------
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="China",CCTV-1 (1080p)
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="🇨🇳 | China",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="China",CCTV-2 (1080p)
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="🇨🇳 | China",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="China",CCTV-3 (1080p)
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="🇨🇳 | China",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-4ä¸­æ–‡å›½é™… (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="🇨🇳 | China",CCTV-5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="🇨🇳 | China",CCTV-6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="🇨🇳 | China",CCTV-7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="🇨🇳 | China",CCTV-8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="🇨🇳 | China",CCTV-9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="🇨🇳 | China",CCTV-10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="🇨🇳 | China",CCTV-11
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="🇨🇳 | China",CCTV-12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="🇨🇳 | China",CCTV-13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/512px-CCTV-17_Logo.png" group-title="🇨🇳 | China",CCTV-17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 
 #----------------News-----------------
