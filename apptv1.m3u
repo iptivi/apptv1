@@ -363,17 +363,18 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/202.m3u8
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #=============KÊNH PHIM=================
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
-https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
+http://live.vthanhtivi.pw:8081/inthebox/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-https://tbientv.xyz/channel/?1662656400bhca3512f4dfa95a03169c5a670a4c91a19b3077b4/m3u8
+http://live.television4you.xyz/boxhits/mpegts
 
 #EXTINF:0 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -531,14 +532,15 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
 https://tbientv.xyz/channel/?dmax
 
 #===============KÊNH QUỐC TẾ================
+
 #EXTINF:-1 tvg-id="man" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
+http://live.vthanhtivi.pw:8081/man/index.m3u8
 												
 #EXTINF:-1 tvg-id="woman" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
-https://code.television4you.xyz/getlink/nethubtv?id=9335&itb=1		
+http://live.vthanhtivi.pw:8081/drfit/index.m3u8
 	
 #EXTINF:0 tvg-id="tlchd" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/rfZZNGc/tlc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -664,14 +666,8 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="🔵 AUTO",El Garage TV (480p) [Not 24/7]
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVFullCustomGarage.us" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="🔵 AUTO",Pluto TV Full Custom Garage (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8
-
 #EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/SbCaP6F.png" group-title="🔵 AUTO",Pluto TV Auto Motor Sport (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="BumblebeeTVMotorCyclist.us" tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="🔵 AUTO",Bumblebee TV MotorCyclist (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 
 #================= MUZIC ===============
 #EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
@@ -1316,73 +1312,6 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/393249276
 http://live-sg.cvacetv.ga:8080/stream/channelid/426150340
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
 http://live-sg.cvacetv.ga:8080/stream/channelid/237052313
-#EXTINF:-1 group-title="➡️ DIEMA SPORT",DIEMA SPORT 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/418149162
-#EXTINF:-1 group-title="➡️ DIEMA SPORT",DIEMA SPORT 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/2091298131
-#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/1864220751
-#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/1685646518
-#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 3
-http://live-vn.cvacetv.ga:8880/stream/channelid/1301013760
-#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/243723073
-#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/158920698
-#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 3
-http://live-vn.cvacetv.ga:8880/stream/channelid/360322672
-#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 4
-http://live-vn.cvacetv.ga:8880/stream/channelid/336701474
-#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 5
-http://live-vn.cvacetv.ga:8880/stream/channelid/565907360
-#EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 6
-http://live-vn.cvacetv.ga:8880/stream/channelid/1901481986
-#EXTINF:-1 group-title="➡️ SONY TEN - ẤN ĐỘ",Sony Ten 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/381547322
-#EXTINF:-1 group-title="➡️ SONY TEN - ẤN ĐỘ",Sony Ten 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/1237991412
-#EXTINF:-1 group-title="➡️ SONY TEN - ẤN ĐỘ",Sony Six
-http://live-vn.cvacetv.ga:8880/stream/channelid/1369141727
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",ESPN US
-http://live-vn.cvacetv.ga:8080/ESPN
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",ESPN2 US
-http://live-vn.cvacetv.ga:8080/ESPN2
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",USA Network
-http://live-vn.cvacetv.ga:8080/USA
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",NBC Golf
-http://live-vn.cvacetv.ga:8080/golf
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",FS1
-http://live-vn.cvacetv.ga:8080/FS1
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",FS2
-http://live-vn.cvacetv.ga:8080/FS2
-#EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA",TNT HD
-http://live-vn.cvacetv.ga:8080/TNT
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Mexico
-http://live-vn.cvacetv.ga:8880/stream/channelid/615972325
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN2 Mexico
-http://live-vn.cvacetv.ga:8880/stream/channelid/343755710
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN3 Mexico
-http://live-vn.cvacetv.ga:8880/stream/channelid/1089603504
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Extra
-http://live-vn.cvacetv.ga:8880/stream/channelid/234981937
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Argentina
-http://live-vn.cvacetv.ga:8880/stream/channelid/537486924
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN2 Argentina
-http://live-vn.cvacetv.ga:8880/stream/channelid/734221819
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN3 Argentina
-http://live-vn.cvacetv.ga:8880/stream/channelid/1993420465
-
-#EXTINF:-1 group-title="➡️ THỂ THAO KHÁC",CBC Sport Azerbaijan
-http://live-sg.cvacetv.ga:8080/stream/channelid/11175738
-#EXTINF:-1 group-title="➡️ THỂ THAO KHÁC",bTV Action
-http://live-sg.cvacetv.ga:8080/stream/channelid/1218263110
-#EXTINF:-1 group-title="➡️ THỂ THAO KHÁC",Canal 11
-http://live-sg.cvacetv.ga:8080/stream/channelid/264345559
-#EXTINF:-1 group-title="➡️ THỂ THAO KHÁC",TVP Sport
-http://live-sg.cvacetv.ga:8080/stream/channelid/1343010492
-#EXTINF:-1 group-title="➡️ THỂ THAO KHÁC",PTV Sports Pakistan
-http://live-vn.cvacetv.ga:8880/stream/channelid/2005935093
 
 ///////////////////////////////////
 
@@ -1462,7 +1391,7 @@ http://live-sg.cvacetv.ga/Rai3
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="🇮🇹 | Ý",Rakuten Action Movies Italy (720p)
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇮🇹 | Ý",Rakuten Comedy Movies
 https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.it" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="🇮🇹 | Ý",Rakuten Comedy Movies Italy (720p)
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1558,69 +1487,131 @@ http://live-vn.cvacetv.ga:9981/stream/channelid/1641481619
 http://live-vn.cvacetv.ga:9981/stream/channelid/779372179
 
 #----------------Thailand-----------------
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",CH3
+#EXTINF:-1 tvg-id="Channel3.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",CH5
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
 https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png",CH7
+#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD
 https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",PPTV36
+#EXTINF:-1 tvg-id="Channel8.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png", CH8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT2HD.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png", NBT
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0", PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ONE31
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",GMM25
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Workpoint_TV_Logo.png",Workpoint TV
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Logo_kenh_9_mcot_thai_lan.png",MCOT30
+#EXTINF:-1 tvg-id="MCOTHD.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Logo_kenh_9_mcot_thai_lan.png", MCOT HD
 https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png",Thairath TV
+#EXTINF:-1 tvg-id="One31.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png", ONE31
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png", Thairath TV HD
 https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 | THÁI LAN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",MONO29
+#EXTINF:-1 tvg-id="GMM25.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png", GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png", MONO29
 https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://i.imgur.com/uKEFgGh.png", New TV
+https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png", Nation TV
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 tvg-id="Workpoint23.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wp-white.png", Workpoint TV
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 tvg-id="True4U.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png", True 4U
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 tvg-id="Amarin34HD.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://www.amarintv.com/assets/images/logo.png", Amarin TV
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+
 
 #----------------Korea-----------------
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
-http://live-sg.cvacetv.ga/SBS
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
-http://live-sg.cvacetv.ga/KBS1
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
-http://live-sg.cvacetv.ga/KBS2
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
-http://live-sg.cvacetv.ga/MBC
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png",EBS1
-https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png",EBS2
+#EXTINF:-1 tvg-id="KBS1TV.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KBS 1
+http://itskoi.dothome.co.kr/kbs.php?id=11
+#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KBS 2
+http://itskoi.dothome.co.kr/kbs.php?id=12
+#EXTINF:-1 tvg-id="MBCTV.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="JTBC.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://6.vikiplatform.com/image/dd32095cfb9e46ab8358b31792e1e8f9.png?x=b&s=843x474&q=h&cb=1", JTBC
+http://mytv.dothome.co.kr/ch/catv/211.php
+#EXTINF:-1 tvg-id="SBSTV.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
+http://itskoi.dothome.co.kr/sbs.php?id=S01
+#EXTINF:-1 tvg-id="EBS1TV.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png", EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png", EBS 2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png",TV Chosun
-#EXTVLCOPT:http-user-agent=broadcast.tvchosun/19.2.1 (Linux;Android 8.1.0) ExoPlayerLib/2.11.8
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/800px-EBS_KIDS.svg.png", EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png", EBS Plus 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png", EBS Plus 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://obj-kr.thewiki.kr/data/4542535f456e676c6973682e706e67.png", EBS E
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="Mnet.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png", MNet
+http://mytv.dothome.co.kr/ch/catv/224.php
+#EXTINF:-1 tvg-id="tvN.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", tvN
+http://mytv.dothome.co.kr/ch/catv/221.php
+#EXTINF:-1 tvg-id="Aniplus.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png", Aniplus
+https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
+#EXTINF:-1 tvg-id="Animax.kr" group-title="🇰🇷 | HÀN QUỐC" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
+https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
+
 
 #----------------JAPAN-----------------
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G
 https://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8", NHK E
 https://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png",NHK BS1
+#EXTINF:-1 tvg-id="NHKBS1.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8", NHK BS1
 https://code.television4you.xyz/getlink/yoitv?id=f-uLAeVdSWp9bd1XFM3Pzw==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png",NHK BS Premium
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8", NHK BS Premium
 https://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/440px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 tvg-id="TVAsahi.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/440px-TV_Asahi_Logo.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8", TV Asahi
 https://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
+#EXTINF:-1 tvg-id="TVAsahiChannel1.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png", TV Asahi Ch.1
+https://code.television4you.xyz/getlink/yoitv?id=-KcK0oRN-MHmABr2tu77zg==
+#EXTINF:-1 tvg-id="JOTXDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8", TV Tokyo
 https://code.television4you.xyz/getlink/yoitv?id=dRNhWs1DLdcWq_ufN6fElg==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png",Nippon TV
+#EXTINF:-1 tvg-id="NipponTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8", Nippon TV
 https://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png",Fuji TV
+#EXTINF:-1 tvg-id="JOCXDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", Fuji TV
 https://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+#EXTINF:-1 tvg-id="JORXDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
 https://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/640px-AT-X_logo.svg.png",AT-X
-https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1 group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://kuma-video.com/wp-content/uploads/2020/04/prime.jpg",WOWOW Prime
+#EXTINF:-1 tvg-id="JOOYDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+https://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
+#EXTINF:-1 tvg-id="JOMXDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX1
+https://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
+#EXTINF:-1 tvg-id="JOAYDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png", ABC
+https://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
+#EXTINF:-1 tvg-id="JOIXDTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/220px-Yomiuri_Telecasting_Corporation_Logo.svg.png", YTV
+https://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+#EXTINF:-1 tvg-id="BSNipponTV.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2105021154150-L.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1311/video-${start}-${offset}.m3u8", BS-NTV
+https://code.television4you.xyz/getlink/yoitv?id=9GYVLtOWedFVhurDZOtidw==
+#EXTINF:-1 tvg-id="BSAsahi.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/BS%E6%9C%9D%E6%97%A5.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1312/video-${start}-${offset}.m3u8", BS Asahi
+https://code.television4you.xyz/getlink/yoitv?id=CDf67JD0vmiC74DDaND-XA==
+#EXTINF:-1 tvg-id="BSTBS.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1280px-BS-TBS_2020.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1313/video-${start}-${offset}.m3u8", BS-TBS
+https://code.television4you.xyz/getlink/yoitv?id=JKQRufMevFV7GDKYePYwBQ==
+#EXTINF:-1 tvg-id="BSFuji.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
+https://code.television4you.xyz/getlink/yoitv?id=1WFDcS4-Lv_4Qsnx8TQtgg==
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
+https://code.television4you.xyz/getlink/yoitv?id=y288Dc5aSplzqGsFpCvm-g==
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://kuma-video.com/wp-content/uploads/2020/04/prime.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1501/video-${start}-${offset}.m3u8", WOWOW Prime
 https://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
+#EXTINF:-1 tvg-id="WOWOWLive.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://www.ztv.co.jp/assets/img/pages/service/tv/digital/channel/10/10-02.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1503/video-${start}-${offset}.m3u8", WOWOW Live
+https://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8", WOWOW Cinema
+https://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
+#EXTINF:-1 tvg-id="Star1.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1504/video-${start}-${offset}.m3u8", Star 1
+https://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
+#EXTINF:-1 tvg-id="Star2.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1505/video-${start}-${offset}.m3u8", Star 2
+https://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
+#EXTINF:-1 tvg-id="Star3.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1506/video-${start}-${offset}.m3u8", Star 3
+https://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
+#EXTINF:-1 tvg-id="ATX.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/640px-AT-X_logo.svg.png", AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" group-title="🇯🇵 | NHẬT BẢN" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
+https://code.television4you.xyz/getlink/yoitv?id=M9b8YoeShhTsfaXXoNZJDw==
 
 #----------------Russia/Ukraine-----------------
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
@@ -1631,9 +1622,9 @@ http://live-sg.cvacetv.ga/Russia1
 
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1200px-NTV_logo_2003.svg.png",NTV
 http://live-sg.cvacetv.ga/NTV
-#EXTINF:-1 group-title="🇷🇺 🇺🇦 | NGA - UKRAINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine TV
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine TV
 
-#EXTINF:-1 group-title="🇷🇺 🇺🇦 | NGA - UKRAINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine 24
+#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine 24
 
 
 #----------------Netherlands-----------------
@@ -1842,18 +1833,6 @@ http://live-sg.cvacetv.ga/F24Fre
 #EXTINF:-1 group-title="📰 | TIN TỨC" tvg-logo="https://static.wikia.nocookie.net/youtube/images/a/ae/Euronews_%28in_English%29_icon.jpg/revision/latest?cb=20220201070912",Euronews
 http://live-sg.cvacetv.ga/Euronews
 
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews en EspaÃ±ol (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
-#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews German
-https://euronews.alteox.app/hls/de_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews Hungary (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsHungarian/live
-#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews Italian
-https://euronews.alteox.app/hls/it_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 
 #EXTINF:-1 group-title="📰 | TIN TỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png",TRT World
 http://live-sg.cvacetv.ga/TRTWorld
