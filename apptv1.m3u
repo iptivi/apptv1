@@ -368,7 +368,7 @@ http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
 https://vtsstr6.tv24.vn/livesctv/smil:BOX_MOVIE_HD.smil/chunklist_w486795867_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjY0NjQwNzIxJndvd3phdG9rZW5lbmR0aW1lPTE2NjQ2NDgyMjEmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD11STdxUlBXek9zZmdmM05aMG8xVWFyMHVMZVRwR2RObHU4UWo5aUtnRE9BPQ==.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
+https://vtsstr6.tv24.vn/livesctv/smil:Hollywood.smil/chunklist_w1963854643_b2692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjY0NjQxMTMwJndvd3phdG9rZW5lbmR0aW1lPTE2NjQ2NDg2MzAmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD11MUpQZ1BLeU5JOUw3M256TUctcndYRk9VOVdMNEhINHFSTUZaVk1zQlZZPQ==.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 http://live.vthanhtivi.pw:8081/inthebox/index.m3u8
