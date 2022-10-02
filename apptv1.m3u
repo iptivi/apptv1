@@ -336,10 +336,6 @@ https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
 #EXTVLCOPT:http-user-agent=apptv
 https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
 
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🟡 ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
-
 
 #=============KÊNH BÁO CHÍ================
 #EXTINF:0 tvg-id="antvhd"  group-title="⭕ KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/W6ChNPL/An-Ninh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",An Ninh TV
@@ -1315,6 +1311,25 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/237052313
 
 ///////////////////////////////////
 
+#----------------India-----------------
+
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="🇮🇳 | ẤN ĐỘ",3 Tamil TV (720p) [Not 24/7]
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MultiTV" group-title="🇮🇳 | ẤN ĐỘ", MultiTV
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", Inshort (India)
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+
+
+#----------------Anh-----------------
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
 http://live-sg.cvacetv.ga:8080/stream/channelid/125030560
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
@@ -1833,6 +1848,14 @@ http://live-sg.cvacetv.ga/F24Fre
 #EXTINF:-1 group-title="📰 | TIN TỨC" tvg-logo="https://static.wikia.nocookie.net/youtube/images/a/ae/Euronews_%28in_English%29_icon.jpg/revision/latest?cb=20220201070912",Euronews
 http://live-sg.cvacetv.ga/Euronews
 
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews Italian
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews Portuguese
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="📰 | TIN TỨC",Euronews Russian
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 
 #EXTINF:-1 group-title="📰 | TIN TỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png",TRT World
 http://live-sg.cvacetv.ga/TRTWorld
