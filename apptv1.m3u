@@ -1852,12 +1852,13 @@ http://live-sg.cvacetv.ga/NTV
 #----------------Netherlands - hà Lan -----------------
 #EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="🇳🇱 | HÀ LAN",RT News (1080p) [Geo-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="🇳🇱 | HÀ LAN" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVAmstelveen.nl" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/71/17115/1/c175.png" group-title="🇳🇱 | HÀ LAN",RTV Amstelveen (720p) [Not 24/7]
 https://live.rtva.nl/live/zender.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTV Arnhem (480p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇱 | HÀ LAN",RTV Arnhem (480p)
 https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVConnectTV.nl" tvg-logo="https://www.rtvconnect.nl/templates/localgrid/omroep/rtvconnect/images/rtvconnect.png" group-title="🇳🇱 | HÀ LAN",RTV Connect TV (480p)
 https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
@@ -1943,41 +1944,41 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #--------------china -----------------------
 #EXTINF:-1 tvg-id="cctv1" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="cctv2" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD
+#EXTINF:-1 tvg-id="cctv2" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="cctv3" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/RvBLDLc/CCTV-3-BEARTV.png", CCTV3 HD
+#EXTINF:-1 tvg-id="cctv3" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/RvBLDLc/CCTV-3-BEARTV.png", CCTV3 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-id="cctv4" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/XYw5T45/cctv4-BEARTV.png", CCTV4 HD
+#EXTINF:-1 tvg-id="cctv4" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/XYw5T45/cctv4-BEARTV.png", CCTV4 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="cctv5" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CCTV5 - Thá»ƒ Thao
+#EXTINF:-1 tvg-id="cctv5" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CCTV5 - Thá»ƒ Thao
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CCTV5+ Thá»ƒ Thao
+#EXTINF:-1 tvg-id="cctv5plus" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CCTV5+ Thá»ƒ Thao
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="cctv6" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/ScBcnDG/cctv6-BEARTV.png", CCTV6 HD
+#EXTINF:-1 tvg-id="cctv6" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/ScBcnDG/cctv6-BEARTV.png", CCTV6 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-id="cctv7" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/FBgLD25/cctv7-BEARTV.png", CCTV7 HD
+#EXTINF:-1 tvg-id="cctv7" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/FBgLD25/cctv7-BEARTV.png", CCTV7 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/QYQHt0H/cctv8-BEARTV.png", CCTV8 HD
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/QYQHt0H/cctv8-BEARTV.png", CCTV8 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-id="cctvjilu" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/YjTHXp1/cctv9-BEARTV.png", CCTV9 HD
+#EXTINF:-1 tvg-id="cctvjilu" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/YjTHXp1/cctv9-BEARTV.png", CCTV9 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="cctv10" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/F83Z3dL/cctv10-BEARTV.png", CCTV10 HD
+#EXTINF:-1 tvg-id="cctv10" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/F83Z3dL/cctv10-BEARTV.png", CCTV10 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-id="cctv11" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/F6MNqQn/cctv11-BEARTV.png", CCTV11 HD
+#EXTINF:-1 tvg-id="cctv11" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/F6MNqQn/cctv11-BEARTV.png", CCTV11 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="cctv12" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/q5FCZCc/cctv12-BEARTV.png", CCTV12 HD
+#EXTINF:-1 tvg-id="cctv12" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/q5FCZCc/cctv12-BEARTV.png", CCTV12 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="cctv13" group-title="TRUNG QUá»C" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
+#EXTINF:-1 tvg-id="cctv13" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/HtWFFfx/cctv14-BEARTV.png", CCTV14 HD
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/HtWFFfx/cctv14-BEARTV.png", CCTV14 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/s3PMJvW/cctv15-BEARTV.png", CCTV15 HD
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/s3PMJvW/cctv15-BEARTV.png", CCTV15 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/ykcwTcW/CCTV-16-BEARTV.png", CCTV16 HD
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/ykcwTcW/CCTV-16-BEARTV.png", CCTV16 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/YRS2MXt/CCTV17-BEARTV.webp", CCTV17 HD
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/YRS2MXt/CCTV17-BEARTV.webp", CCTV17 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/30WVvnd/CHC-BEARTV.png",CHC Phim hành động
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="https://i.ibb.co/30WVvnd/CHC-BEARTV.png",CHC Phim hành động
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🇳 | TRUNG QUỐC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC Phim chiếu rạp
+#EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC Phim chiếu rạp
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
