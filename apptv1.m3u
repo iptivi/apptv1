@@ -362,10 +362,10 @@ http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
 #=============KÊNH PHIM=================
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
-http://live.vthanhtivi.pw:8081/boxmovie1/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-http://live.vthanhtivi.pw:8081/hollywood/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 http://live.vthanhtivi.pw:8081/inthebox/index.m3u8
@@ -732,7 +732,7 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8?cc
 #EXTINF:0 tvg-id="baclieu" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/prKmHxt/Bac-Lieu-cc.webp",Bạc Liêu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows N; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8?cc
 
 #EXTINF:-1 tvg-id="bacgiang" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", Bắc Giang
@@ -1429,7 +1429,7 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BelmediaTV.ca" tvg-logo="https://i.imgur.com/xEbQsdj.png" group-title="🇨🇦 | CANADA",Belmedia TV (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
-#EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="🇦 | CANADA",BeritaSatu World (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="🇨🇦 | CANADA",BeritaSatu World (720p) [Not 24/7]
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="🇨🇦 | CANADA",Canada One (720p) [Not 24/7]
