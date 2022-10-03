@@ -1419,24 +1419,39 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="📰 | TIN TỨC",DW EspaÃ±ol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#----------------Canada-----------------
 
-#----------------India-----------------
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇦 | CANADA",Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="🇮🇳 | ẤN ĐỘ",3 Tamil TV (720p) [Not 24/7]
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-logo="https://i.imgur.com/xMABkOU.png" group-title="🇨🇦 | CANADA",Prime Canada TV (720p) [Not 24/7]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", Aathavan TV
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BelmediaTV.ca" tvg-logo="https://i.imgur.com/xEbQsdj.png" group-title="🇨🇦 | CANADA",Belmedia TV (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
+#EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="🇦 | CANADA",BeritaSatu World (720p) [Not 24/7]
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-id="MultiTV" group-title="🇮🇳 | ẤN ĐỘ", MultiTV
-https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="🇨🇦 | CANADA",Canada One (720p) [Not 24/7]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="🇨🇦 | CANADA",Canada Star TV (720p)
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadianArabTV.ca" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="🇨🇦 | CANADA",Canadian Arab TV (720p) [Not 24/7]
+http://live.catvmedia.ca:8080/hls/catv/index.m3u8
+#EXTINF:-1 tvg-id="CFTUDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png" group-title="🇨🇦 | CANADA",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="DegrassiTheNextGenerationCanada.ca" tvg-logo="https://i.imgur.com/mRBQKp3.png" group-title="🇨🇦 | CANADA",Degrassi The Next Generation (Canada) (720p)
+http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", Inshort (India)
-https://inshort-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇨🇦 | CANADA",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="🇨🇦 | CANADA",Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇦 | CANADA",Mav TV
+https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
 #----------------Anh-----------------
 #EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
@@ -1637,6 +1652,23 @@ http://live-vn.cvacetv.ga:9981/stream/channelid/472821240
 http://live-vn.cvacetv.ga:9981/stream/channelid/1641481619
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://live-vn.cvacetv.ga:9981/stream/channelid/779372179
+
+#----------------India-----------------
+
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="🇮🇳 | ẤN ĐỘ",3 Tamil TV (720p) [Not 24/7]
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MultiTV" group-title="🇮🇳 | ẤN ĐỘ", MultiTV
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="India Today" group-title="🇮🇳 | ẤN ĐỘ", Inshort (India)
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
 
 #----------------Thailand-----------------
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
