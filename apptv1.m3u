@@ -371,7 +371,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 http://live.vthanhtivi.pw:8081/inthebox/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://live.television4you.xyz/boxhits/mpegts
+https://tbientv.xyz/channel/?1665334800bhaf3e133428b9e25c55bc59fe534248e6a0c0f17b/m3u8
 
 #EXTINF:0 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1057,16 +1057,6 @@ https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m
 
 /////////////////////////////////////////////////////////
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="" group-title="➡️ BEIN SPORTS",BEIN SPORTS NEWS HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/68682
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 1 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101931
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 2 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 3 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 3 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101930
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 1
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90154
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 2
@@ -1081,6 +1071,16 @@ http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90158
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90159
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 7" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 7
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90160
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="" group-title="➡️ BEIN SPORTS",BEIN SPORTS NEWS HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/68682
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 1 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101931
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 2 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 3 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC FHD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115559
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 2 FHD
