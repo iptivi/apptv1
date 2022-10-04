@@ -2074,3 +2074,21 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇨🇳 | TRUNG QUỐC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC Phim chiếu rạp
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+-----------KHÁC -----------------------
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇺🇳 | INTERNATIONAL",Korça + (1080p) - Albania
+http://32.shqiptv.org/korca/albplus/index.m3u8
+
+#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="🇺🇳 | INTERNATIONAL",MavTV Select - Albania
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="🇺🇳 | INTERNATIONAL",teleSUR - Cuba
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+
+
+
+
+
+
+
+
