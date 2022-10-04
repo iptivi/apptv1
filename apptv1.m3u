@@ -384,7 +384,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://live.vthanhtivi.pw:8081/inthebox/index.m3u8
+https://tbientv.xyz/channel/?1665334800bcaf3e133428b9e25c55bc59fe534248e6a0c0f17b/m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://tbientv.xyz/channel/?1665334800bhaf3e133428b9e25c55bc59fe534248e6a0c0f17b/m3u8
