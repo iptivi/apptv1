@@ -26,6 +26,23 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d36f3ca0ceb44a0881a34876a7bd2e68&key=94b553e8ddc197ac29e87a65559703cb
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
+#EXTINF:-1 tvg-id="klive1hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/TwvTpW2/klive1.jpg", K+ LIVE 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive1hd=ff4d683b6273df316f6a0a8995ff68c37aa26ef2
+https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
+#EXTINF:-1 tvg-id="klive2hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/tY3kY8h/klive2.jpg", K+ LIVE 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive2hd=e363e26f81ef377de27f291a86b2f50b29029f95
+https://sglivevega.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
+#EXTINF:-1 tvg-id="klive3hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/hBMSVZD/klive3.jpg", K+ LIVE 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive3hd=119f00a226845ed0f002babc72c90db3ef318464
+https://sglivevega.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
+
+
 
 #=========================VTV==============================================
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp"  catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV1
