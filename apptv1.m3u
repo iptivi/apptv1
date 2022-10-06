@@ -31,6 +31,12 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_key=https://tbientv.xyz/kplus/clearkey.php?klive1hd=ff4d683b6273df316f6a0a8995ff68c37aa26ef2
 https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/TwvTpW2/klive1.jpg", K+ LIVE 1 HD XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
+
 #EXTINF:-1 tvg-id="klive2hd" group-title="🟣 K+" tvg-logo="https://i.ibb.co/tY3kY8h/klive2.jpg", K+ LIVE 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
