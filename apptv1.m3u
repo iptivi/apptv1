@@ -2015,6 +2015,57 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 group-title="🇲🇾 | MALAYSIA" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="https://i.imgur.com/HFAsuLQ.png" group-title="🇲🇾 | MALAYSIA",Astro AEC (720p)
+http://172.96.160.37:9138/stream/live/c20418.m3u8
+#EXTINF:-1 tvg-id="AstroAOD311.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="🇲🇾 | MALAYSIA",Astro AOD 311 (720p)
+http://172.96.140.34:9138/stream/live/c20419.m3u8
+#EXTINF:-1 tvg-id="AstroAOD354.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="🇲🇾 | MALAYSIA",Astro AOD 354 (720p)
+http://104.238.221.63:9138/stream/live/c21010.m3u8
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="🇲🇾 | MALAYSIA",Astro Arena 2 (720p)
+http://104.238.221.63:9138/stream/live/c20562.m3u8
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="🇲🇾 | MALAYSIA",Astro Arena (720p)
+http://104.238.221.63:9138/stream/live/c20422.m3u8
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-logo="https://i.imgur.com/oBOZVFJ.png" group-title="🇲🇾 | MALAYSIA",Astro Aura (720p)
+http://172.96.160.37:9138/stream/live/c21034.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="🇲🇾 | MALAYSIA",Astro Awani (720p)
+http://172.96.140.34:9138/stream/live/c20467.m3u8
+#EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="🇲🇾 | MALAYSIA",Astro BollyOne (720p)
+http://172.96.160.37:9138/stream/live/c21016.m3u8
+#EXTINF:-1 tvg-id="AstroBoxOfficeThangathirai.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="🇲🇾 | MALAYSIA",Astro Box Office Movies Thangathirai (720p)
+http://104.238.221.63:9138/stream/live/c20517.m3u8
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/wPfAA5K.png" group-title="🇲🇾 | MALAYSIA",Astro Ceria (720p)
+http://172.96.160.37:9138/stream/live/c20494.m3u8
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="🇲🇾 | MALAYSIA",Astro Citra (720p)
+http://104.238.221.63:9138/stream/live/c20425.m3u8
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/VNvggtc.png" group-title="🇲🇾 | MALAYSIA",Astro Cricket (720p)
+http://104.238.221.63:9138/stream/live/c20470.m3u8
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" group-title="🇲🇾 | MALAYSIA",Astro Oasis (720p)
+http://172.96.140.34:9138/stream/live/c20471.m3u8
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.imgur.com/JAoPGSe.png" group-title="🇲🇾 | MALAYSIA",Astro Prima (720p)
+http://172.96.140.34:9138/stream/live/c20477.m3u8
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-logo="https://i.imgur.com/uPBY9fF.png" group-title="🇲🇾 | MALAYSIA",Astro Rania (720p)
+http://172.96.140.34:9138/stream/live/c21068.m3u8
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.imgur.com/CqngRIb.png" group-title="🇲🇾 | MALAYSIA",Astro Ria (720p)
+http://172.96.160.37:9138/stream/live/c20421.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="🇲🇾 | MALAYSIA",Astro SuperSport 5 (720p)
+http://172.96.160.37:9138/stream/live/c20561.m3u8
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png" group-title="🇲🇾 | MALAYSIA",Astro Vaanavil (720p)
+http://172.96.140.34:9138/stream/live/c21065.m3u8
+#EXTINF:-1 tvg-id="AstroVinmeenHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png" group-title="🇲🇾 | MALAYSIA",Astro Vinmeen (720p)
+http://172.96.160.37:9138/stream/live/c21066.m3u8
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" group-title="🇲🇾 | MALAYSIA",Astro Warna HD (720p)
+http://172.96.160.37:9138/stream/live/c20424.m3u8
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Astro_Quan_Jia_HD.png" group-title="🇲🇾 | MALAYSIA",Astro 全佳 HD (720p)
+http://104.238.221.63:9138/stream/live/c20408.m3u8
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-logo="https://i.imgur.com/CRVICku.png" group-title="🇲🇾 | MALAYSIA",Astro 双星 HD (720p)
+http://104.238.221.63:9138/stream/live/c20409.m3u8
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-logo="https://i.imgur.com/UYZgm7l.png" group-title="🇲🇾 | MALAYSIA",Astro 小太阳 (720p)
+http://172.96.140.34:9138/stream/live/c20401.m3u8
+#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png" group-title="🇲🇾 | MALAYSIA",Astro 欢喜台 HD (720p)
+http://104.238.221.63:9138/stream/live/c20411.m3u8
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-logo="https://i.imgur.com/x90U1Bf.png" group-title="🇲🇾 | MALAYSIA",Awesome TV (720p)
+http://172.96.140.34:9138/stream/live/c20620.m3u8
+
 #----------------Indonesia-----------------
 #EXTINF:-1 group-title="🇮🇩 | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI (DRM)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
