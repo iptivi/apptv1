@@ -26,11 +26,20 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d36f3ca0ceb44a0881a34876a7bd2e68&key=94b553e8ddc197ac29e87a65559703cb
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+ LIVE 1
+#EXTINF:-1 tvg-id="k live 1 hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+ Live 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2a6dc5b7e9c24a7396fd6a8926e01b20&key=0048701f074e501648b6758eb254e8bd
-https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2aad0e26dc92499c8dee0e4e417de176&key=ab269ff07364322c8a69f41d14d63bee
+https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
 
+#EXTINF:-1 tvg-id="k live 2 hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+ Live 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb53863f76fa47ffba8c0e2d3a2c9e09&key=66caecac92fd2a967e98e36a661907e1
+https://sglive.akamaized.net/bpk-tv/prod_klive2/default/index.mpd
+
+#EXTINF:-1 tvg-id="k live 3 hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+ Live 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b0502a994574e5c8cc789e1d7f24fc5&key=f0fa5ed38424906e9c1298e47d6a6f72
+https://sglive.akamaized.net/bpk-tv/prod_klive3/default/index.mpd
 
 
 #=========================VTV==============================================
@@ -2089,9 +2098,6 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 
 #EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="🇺🇳 | INTERNATIONAL",MavTV Select - Albania
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="🇺🇳 | INTERNATIONAL",teleSUR - Cuba
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 
 
 
