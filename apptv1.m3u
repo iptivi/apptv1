@@ -1488,6 +1488,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TimeLineAustralia.au" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="🇦🇺 | ÚC",Time Line Australia (720p)
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="🇦🇺 | ÚC",Three Angels Broadcasting Network International (3ABN) (720p)
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 
 #EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
 http://live-vn.cvacetv.ga:9981/stream/channelid/382592713
@@ -2503,6 +2505,9 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 
 #EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="🇺🇳 | INTERNATIONAL",MavTV Select - Albania
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.imgur.com/3SDlImf.png" group-title="🇺🇳 | INTERNATIONAL",La Télé (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
 
 
 
