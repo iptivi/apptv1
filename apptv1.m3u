@@ -1435,6 +1435,33 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="📰 | TIN TỨC",DW EspaÃ±ol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#----------------Anh-----------------
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
+http://live-sg.cvacetv.ga:8080/stream/channelid/125030560
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
+http://live-sg.cvacetv.ga/channel4
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
+http://live-sg.cvacetv.ga/channel5
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png",CBBC
+http://live-sg.cvacetv.ga/CBBC
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+http://live-sg.cvacetv.ga/bbcnews
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png",BBC RB 1
+http://live-sg.cvacetv.ga:8080/stream/channelid/600364533
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1200px-BBC_Parliament_Logo.svg.png",BBC Parliament
+http://live-sg.cvacetv.ga/BBCPar
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png",ITV2
+http://live-sg.cvacetv.ga/ITV2
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png",ITV3
+http://live-sg.cvacetv.ga/ITV3
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",ITV4
+http://live-sg.cvacetv.ga:8080/stream/channelid/390713253
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png",STV
+http://live-sg.cvacetv.ga/STV
+#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+http://live-sg.cvacetv.ga/SkyNews
+
+
 #----------------Argentina-----------------
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/NXIG1He.png" group-title="🇦🇷 | ARGENTINA",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -1456,6 +1483,46 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="🇦🇷 | ARGENTINA",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
+#----------------Australia-----------------
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
+http://live-vn.cvacetv.ga:9981/stream/channelid/382592713
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold (Ten Bold)
+http://live-vn.cvacetv.ga:9981/stream/channelid/283667476
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 (Network Seven)
+http://live-vn.cvacetv.ga:9981/stream/channelid/602775737
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
+http://live-vn.cvacetv.ga:9981/stream/channelid/472821240
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
+http://live-vn.cvacetv.ga:9981/stream/channelid/1641481619
+#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
+http://live-vn.cvacetv.ga:9981/stream/channelid/779372179
+
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="🇦🇺 | ÚC",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/ABC_ME_logo.svg/512px-ABC_ME_logo.svg.png" group-title="🇦🇺 | ÚC",ABC ME (720p)
+https://c.mjh.nz/101002210224
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/laB0kug.png" group-title="🇦🇺 | ÚC",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="🇦🇺 | ÚC",ABC TV (720p)
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png" group-title="🇦🇺 | ÚC",ABC TV Plus (720p)
+https://c.mjh.nz/abc2
+
+#EXTINF:-1 tvg-id="AusbizTV.au" tvg-logo="https://images.squarespace-cdn.com/content/v1/5e5091548bf5a551ea5d9dea/1582338795914-L4KPLRPXI13617OWE4T9/Logo%26Mark_White_Transparent%401x+%281%29.png?format=1500w" group-title="🇦🇺 | ÚC",ausbiz TV (720p) [Geo-blocked]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="GustoTV.au" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="🇦🇺 | ÚC",Gusto TV (1080p)
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.au" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="🇦🇺 | ÚC",Horse and Country (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KordiaTV.nz" tvg-logo="https://i.imgur.com/7FCjq7C.png" group-title="🇦🇺 | ÚC",Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="M4TVMalayalam.au" tvg-logo="https://i.imgur.com/2fbxRsU.png" group-title="🇦🇺 | ÚC",M4TV Malayalam (1080p) [Not 24/7]
+https://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 tvg-id="MISTelevizija.rs" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="🇦🇺 | ÚC",MIS Televizija (720p) [Not 24/7]
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png" group-title="🇦🇺 | ÚC",MNB world
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 
 #----------------Canada-----------------
 
@@ -1491,31 +1558,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇦 | CANADA",Mav TV
 https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
 
-#----------------Anh-----------------
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
-http://live-sg.cvacetv.ga:8080/stream/channelid/125030560
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
-http://live-sg.cvacetv.ga/channel4
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
-http://live-sg.cvacetv.ga/channel5
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png",CBBC
-http://live-sg.cvacetv.ga/CBBC
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
-http://live-sg.cvacetv.ga/bbcnews
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png",BBC RB 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/600364533
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1200px-BBC_Parliament_Logo.svg.png",BBC Parliament
-http://live-sg.cvacetv.ga/BBCPar
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png",ITV2
-http://live-sg.cvacetv.ga/ITV2
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png",ITV3
-http://live-sg.cvacetv.ga/ITV3
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",ITV4
-http://live-sg.cvacetv.ga:8080/stream/channelid/390713253
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png",STV
-http://live-sg.cvacetv.ga/STV
-#EXTINF:-1 group-title="🇬🇧 | ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
-http://live-sg.cvacetv.ga/SkyNews
 
 #----------------Germany-----------------
 #EXTINF:-1 group-title="🇩🇪 | ĐỨC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
@@ -1615,11 +1657,6 @@ http://live-sg.cvacetv.ga/TRT_Haber
 #EXTINF:-1 group-title="🇹🇷 | THỔ NHĨ KỲ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
 http://live-sg.cvacetv.ga/TRT_Turk
 
-#----------------Austria-----------------
-#EXTINF:-1 group-title="🇦🇹 | ÁO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1200px-ORF1_logo.svg.png",ORF 1
-
-#EXTINF:-1 group-title="🇦🇹 | ÁO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png",ORF 2
-
 
 #----------------Portugal-----------------
 #EXTINF:-1 group-title="🇵🇹 | BỒ ĐÀO NHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png",RTP 1
@@ -1677,19 +1714,6 @@ http://live-sg.cvacetv.ga/Unimas
 #EXTINF:-1 group-title="🇺🇸 | MỸ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",Univision
 http://live-sg.cvacetv.ga/Univision
 
-#----------------Australia-----------------
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 (Network Ten)
-http://live-vn.cvacetv.ga:9981/stream/channelid/382592713
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold (Ten Bold)
-http://live-vn.cvacetv.ga:9981/stream/channelid/283667476
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 (Network Seven)
-http://live-vn.cvacetv.ga:9981/stream/channelid/602775737
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 (Network Nine WWOS)
-http://live-vn.cvacetv.ga:9981/stream/channelid/472821240
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem (Network Nine WWOS)
-http://live-vn.cvacetv.ga:9981/stream/channelid/1641481619
-#EXTINF:-1 group-title="🇦🇺 | ÚC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
-http://live-vn.cvacetv.ga:9981/stream/channelid/779372179
 
 #----------------India-----------------
 
