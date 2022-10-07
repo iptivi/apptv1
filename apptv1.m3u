@@ -2130,7 +2130,7 @@ http://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua.m3u8
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel4K.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="🇷🇺 | NGA",Первый Музыкальный Канал 4K (2160p)
 http://rtmp.one.by:1499
-#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="M🇷🇺 | NGA",Первый Музыкальный Канал (576p)
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="🇷🇺 | NGA",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannelHD.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="🇷🇺 | NGA",Первый Музыкальный Канал HD (1080p)
 http://rtmp.one.by:1300
