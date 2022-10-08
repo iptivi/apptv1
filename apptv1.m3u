@@ -547,7 +547,7 @@ https://tbientv.xyz/channel/?dmax
 #===============KÊNH QUỐC TẾ================
 
 #EXTINF:-1 tvg-id="man" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-http://live.vthanhtivi.pw:8081/man/index.m3u8
+https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 												
 #EXTINF:-1 tvg-id="woman" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
