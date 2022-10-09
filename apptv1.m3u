@@ -58,7 +58,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8?cc
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8?cc									
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/J2CnW50/VTV6-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="http://vietanhtv.pw/ic/vtvcantho.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8?cc												
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
@@ -86,7 +86,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8?cc
 #EXTINF:0 tvg-id="vtv5hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/DbkpP7Z/VTV5fhd-cc.png",VTV5 ¹⁰⁸⁰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8?cc																 ㅤ
-#EXTINF:0 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/qpgnZYq/VTV6fhd-cc.png",VTV6 ¹⁰⁸⁰
+#EXTINF:0 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/qpgnZYq/VTV6fhd-cc.png",VTV Cần Thơ ¹⁰⁸⁰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8?cc
 #EXTINF:0 tvg-id="vtv7hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/CMyX4Yp/VTV7fhd-cc.png",VTV7 ¹⁰⁸⁰
