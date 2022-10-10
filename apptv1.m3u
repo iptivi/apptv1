@@ -384,10 +384,10 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://tbientv.xyz/channel/?1665334800bcaf3e133428b9e25c55bc59fe534248e6a0c0f17b/m3u8
+http://123host.television4you.xyz/cliptv.php?id=838
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-https://tbientv.xyz/channel/?1665334800bhaf3e133428b9e25c55bc59fe534248e6a0c0f17b/m3u8
+http://live.vthanhtivi.pw:8080/bh
 
 #EXTINF:0 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -547,13 +547,13 @@ https://tbientv.xyz/channel/?dmax
 #===============KÊNH QUỐC TẾ================
 
 #EXTINF:-1 tvg-id="man" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
+http://123host.television4you.xyz/cliptv.php?id=837
 												
 #EXTINF:-1 tvg-id="woman" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
-http://live.vthanhtivi.pw:8081/drfit/index.m3u8
+http://123host.television4you.xyz/cliptv.php?id=823
 	
 #EXTINF:0 tvg-id="tlchd" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/rfZZNGc/tlc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
