@@ -1,72 +1,31 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml,http://live-sg.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:8880/xmltv/channels, http://live-eu.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:9981/xmltv/channels" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 ===========K+ HD==============
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🟣 K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi", K+ Sport1 FHD (MyTV)
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🟣 K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi", K+ Sport1 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg7uQQiQhrgT1o2mK7zrZQ","kid":"nvYskK3FSi2zHauRKp969Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ipn0YeqV3oXHPb3FDr5bMg","kid":"VLYBxQF7RZ2nFz9l31baew"}],"type":"temporary"}
 https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🟣 K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/K%2B_Sport_2_HD_2021.png/revision/latest?cb=20220127022246&path-prefix=vi", K+ Sport2 FHD (MyTV)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🟣 K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/K%2B_Sport_2_HD_2021.png/revision/latest?cb=20220127022246&path-prefix=vi", K+ Sport2 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"whJHodVpf5XTYvXjQ2+drA","kid":"b+PX0DLnRee1pTjXkJMXQw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VXYD7r/GxMLy0VQQLLtHaQ","kid":"nR4NTucSQ/ybZkXxprFQhA"}],"type":"temporary"}
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/1424?cb=20220127020355&path-prefix=vi" group-title="🟣 K+",K+ Cine HD (MyTV)
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/1424?cb=20220127020355&path-prefix=vi" group-title="🟣 K+",K+ Cine HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uGoKlIfM6NIOdWEcJUCoxQ","kid":"yOUoQZApQqKB3M+q8s4X0A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"arlLFkt63ZNYlQ/HBZ4+nw","kid":"5u2EHNeuSom1UthrxDdAjQ"}],"type":"temporary"}
 http://s1288.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🟣 K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/K%2B_Life_HD_2021.png/revision/latest/scale-to-width-down/1473?cb=20220127022229&path-prefix=vi", K+ Life HD (MyTV)
+#EXTINF:-1 tvg-id="klifehd" group-title="🟣 K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/K%2B_Life_HD_2021.png/revision/latest/scale-to-width-down/1473?cb=20220127022229&path-prefix=vi", K+ Life HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aZ0vLNd5ej7L7Ul11q8nkA","kid":"MWYKQgyLStKkxA24vReiBQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PazVmqLvSkxWVpWaJUzUhQ","kid":"uH/RQ2PzQraDH+BEpKWzMg"}],"type":"temporary"}
 http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
--------------------------
-
-
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2a6dc5b7e9c24a7396fd6a8926e01b20&key=0048701f074e501648b6758eb254e8bd
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Klifehd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7938d1baaf98461a9fbccfc173a3a96d&key=071e9075c543eb6b2fe18260fca282b0
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/0wjvLz2.png", K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=906e9041a9a147bd82acfcf8ed79e223&key=4fc131916459580a4b74f77ff79c6911
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/sxWq2PE.png", K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=55f943b35444428090b5578789ebb813&key=a5219b6d6b8d0914ec6bf27cffd3bbaa
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ Kids HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d36f3ca0ceb44a0881a34876a7bd2e68&key=94b553e8ddc197ac29e87a65559703cb
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
-#EXTINF:-1 tvg-id="k live 1 hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+ Live 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2aad0e26dc92499c8dee0e4e417de176&key=ab269ff07364322c8a69f41d14d63bee
-https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
-
-#EXTINF:-1 tvg-id="k live 2 hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+ Live 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb53863f76fa47ffba8c0e2d3a2c9e09&key=66caecac92fd2a967e98e36a661907e1
-https://sglive.akamaized.net/bpk-tv/prod_klive2/default/index.mpd
-
-#EXTINF:-1 tvg-id="k live 3 hd" group-title="🟣 K+" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+ Live 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b0502a994574e5c8cc789e1d7f24fc5&key=f0fa5ed38424906e9c1298e47d6a6f72
-https://sglive.akamaized.net/bpk-tv/prod_klive3/default/index.mpd
 
 
 #=========================VTV==============================================
@@ -1096,172 +1055,6 @@ https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=apptv1
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
 
-/////////////////////////////////////////////////////////
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 1
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90154
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 2
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90155
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 3" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 3
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90156
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 4" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 4
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90157
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 5" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 5
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90158
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 6" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 6
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90159
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 7" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT FHD 7
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90160
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="" group-title="➡️ BEIN SPORTS",BEIN SPORTS NEWS HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/68682
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 1 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101931
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 2 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 3 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115559
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 2 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115560
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 3 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115561
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Xtra 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sport Xtra 1 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101942
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Xtra 2 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sport Xtra 2 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101943
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports MAX 1
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110542
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Max 2
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110543
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101926
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports Premium 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101925
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101932
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS HD 1
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90164
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 2" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS HD 2
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90165
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 4" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 4
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90167
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 3" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 3
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90166
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 5" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 5
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90168
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 6" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 6
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90169
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 7" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 7
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90170
-
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101939
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101944
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101945
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101946
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS French 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101947
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS French 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101948
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS French 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101949
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Turkce 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Turkce 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101951
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Turkce 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Turkce 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101952
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Turkce 4 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Turkce 4 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101954
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX Turkce 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS MAX Turkce 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101955
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX Turkce 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS MAX Turkce 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101956
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS NBA
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/108151
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110195
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110196
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110197
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 4 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110198
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 5 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110199
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 6 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 6 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110200
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 7 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",SSC SPORTS 7 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/110201
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="" group-title="➡️ BEIN SPORTS",BEIN SPORTS
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97119
-#EXTINF:-1 tvg-id="" tvg-name="Al Kaas 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",Al Kaas 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115564
-#EXTINF:-1 tvg-id="" tvg-name="Al Kaas 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",Al Kaas 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115562
-#EXTINF:-1 tvg-id="" tvg-name="Al Kaas 4 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",Al Kaas 4 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/115563
-#EXTINF:-1 tvg-id="" tvg-name="beIN 4K" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN 4K
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119132
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 FHD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN Sports AFC 1 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119133
-#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",KSA Sports 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119299
-#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 2 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",KSA Sports 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119300
-#EXTINF:-1 tvg-id="" tvg-name="beIN FCB" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN FCB
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119846
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports Premium 1" tvg-logo="" group-title="➡️ BEIN SPORTS",Abu Dhabi Sports Premium 1
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/120185
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports Premium Asia 1" tvg-logo="" group-title="➡️ BEIN SPORTS",Abu Dhabi Sports Premium Asia 1
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/121268
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports Premium Asia 2" tvg-logo="" group-title="➡️ BEIN SPORTS",Abu Dhabi Sports Premium Asia 2
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/121269
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 FHD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORT 1 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118340
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 FHD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORT 2 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118341
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 FHD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORT 3 FHD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118342
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118343
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118344
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118345
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 4 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 4 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118346
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 5 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 5 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118347
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 6 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 6 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118348
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 7 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 7 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118349
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 8 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 8 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118350
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 9 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118351
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORT 1 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORT 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97929
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HD+" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS HD+
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97933
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97934
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 3 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97937
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 4 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97939
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS MAX 1 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97953
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS MAX 2 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97954
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports US HD" tvg-logo="" group-title="➡️ TURKISH TV",US: beIN Sports US HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/100352
 
 /////////////////////////////////////////////
 
