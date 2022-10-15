@@ -51,17 +51,8 @@ https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/338b08e8726beaa5161ed542788057a5/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C1m6hYwbfPIkTFdtonYsgg","kid":"PGQuhgq+PfqKyJcA93BvqA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="🍭| Kplus - VieON",K+Sport2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
 https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/64fb99e10e5da603f6d94040fd175fac/1665885199612/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_android.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfGFuZHJvaWR8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnwyNjYxM0F8NzVlODc4ZDVmZDViODM4OTM1NzVhMDhjOTc3OTc5NGM=
-#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png" group-title="🍭| Kplus - VieON",K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iSOD8bCwY3T3RvqF4fFifg","kid":"X9rAUYedMDep0jmGFR5xbw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/03d28866c8d7875448b4d16a4a0ede83/1665885199790/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_android.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfGFuZHJvaWR8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnwyNjYxM0J8OWMyNTkyODE0Y2YwMzc5ZjE1MTdkZDQ0YjkyODYzNTk=
 
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="KIDS : DISNEY JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="KIDS TV",KIDS : DISNEY JR
-http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/13566
 
 
 
