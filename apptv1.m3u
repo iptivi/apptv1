@@ -283,16 +283,16 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
 #=============KÊNH THỂ THAO===============
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab3hd", ON Sports HD
+#EXTINF:-1 group-title="🟡 ON SPORTS" tvg-id="vtvcab3hd", ON Sports HD
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_HD/m30_index.m3u8
 
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab6hd", ON Sports+ HD
+#EXTINF:-1 group-title="🟡 ON SPORTS" tvg-id="vtvcab6hd", ON Sports+ HD
 https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
 
 https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab16hd", ON Football HD
+#EXTINF:-1 group-title="🟡 ON SPORTS" tvg-id="vtvcab16hd", ON Football HD
 
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab18hd", ON Sports News HD
+#EXTINF:-1 group-title="🟡 ON SPORTS" tvg-id="vtvcab18hd", ON Sports News HD
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_TINTUC_HD/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab24hd" group-title="🟡 ON SPORTS" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg?auto=format&fit=max&w=256", ON VFF
@@ -310,7 +310,7 @@ https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAQ/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab29hd" group-title="🟡 ON SPORTS" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg?auto=format&fit=max&w=384", ON Golf Eng
 https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
 
-#EXTINF:-1 group-title="🟡 VTVcab" tvg-id="vtvcab23hd", ON Golf HD
+#EXTINF:-1 group-title="🟡 ON SPORTS" tvg-id="vtvcab23hd", ON Golf HD
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
 
 
