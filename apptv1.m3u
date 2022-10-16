@@ -469,20 +469,12 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8?cc
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/Viasat-History-izle-vipotv-turkey-english.png",History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/getlink/?url=https://vipotv.com/viasat-history/
-
-#EXTINF:-1 tvg-id="historyhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-http://live.vthanhtivi.pw:8080/history
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/CwLD1vf/img.png" group-title="⚪ KÊNH KHOA HỌC",History HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=apptv
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/Adventure-Sports-TV-live-vipotv.png",Adventure Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/getlink/?url=https://vipotv.com/adventure-sports-tv/
 
 #EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png",Viasat Explorer
 http://live-sg.cvacetv.ga/ViaEx
@@ -493,24 +485,19 @@ http://live-sg.cvacetv.ga/ViaNature
 #EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png",Viasat History
 http://live-sg.cvacetv.ga/ViaHistory
 
-#EXTINF:-1 tvg-id="hgtv" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
-
 #EXTINF:0 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/vsfZxbw/nasa.png",Nasa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
 
-#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-id="dmaxhd" tvg-logo="https://i.ibb.co/hRkjVnt/dmaxtv.png",Dmax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?dmax
 
 #===============KÊNH QUỐC TẾ================
 
 #EXTINF:-1 tvg-id="man" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 http://123host.television4you.xyz/cliptv.php?id=837
 												
-#EXTINF:-1 tvg-id="woman" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
-http://vaiptv.duckdns.org/ClipTV.php?id=827
+#EXTINF:0  tvg-id="woman" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
+#EXTVLCOPT:http-user-agent="BearTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 http://123host.television4you.xyz/cliptv.php?id=823
@@ -675,20 +662,6 @@ http://103.90.220.236/hntvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD
 http://103.90.220.236/hntvlive/tv2live.m3u8
-		
-#EXTINF:0 tvg-id="youtv"  group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F56qqZV/Hanoicab2.png",Hanoicab2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:0 tvg-id="antg"  group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zXKc1tD/ANTG-cc.webp",Hanoicab3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/vlj5d5tukhpi5fv/													
-#https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="hanoicab4"  group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4mH7P3Y/Hanoicab4-cc.webp",Hanoicab4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/cvl7eckpen95hxx/																						 ㅤ
-#EXTINF:0 tvg-id="hanoicab5"  group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/82LYM0G/cchanoicab5.webp",Hanoicab5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3FZpCTw/thvl1.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -709,7 +682,7 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8?cc
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8?cc
 #EXTINF:0 tvg-id="baclieu" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/prKmHxt/Bac-Lieu-cc.webp",Bạc Liêu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows N; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8?cc
+https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="bacgiang" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", Bắc Giang
 https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8?cc
@@ -719,7 +692,7 @@ https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8?c
 https://vips-livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="bacninh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/yRMbt4z/Bac-Ninh-cc.webp",Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8?cc
+http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:0 tvg-id="bentre" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fYgHP0R/Ben-Tre-cc.webp",Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8?cc
@@ -754,9 +727,7 @@ http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qnPPP8n/Binh-Phuoc2-cc.webp",Bình Phước 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:0 tvg-id="binhphuoc3" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Sy6pvw5/Binh-Phuoc3-cc.webp",Bình Phước 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://dl.dropboxusercontent.com/s/z9t5e9moa2hznw1/																				 ㅤ
+																		 ㅤ
 #EXTINF:0 tvg-id="binhdinh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jk5ZrMJ/Binh-Dinh-cc.webp",Bình Định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8?cc
@@ -773,7 +744,7 @@ https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8?cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:-1 tvg-id="cantho" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ
-https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 													 ㅤ
 #EXTINF:-1 tvg-id="danang1" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png", Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
@@ -784,8 +755,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="daknong" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LDyqXCJ/Dak-Nong-cc.webp",Đắk Nông
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://drm-livecdn.hplus.com.vn/htvonline/daknong.480p.nimble.tms/chunks.m3u8?cc
-http://gg.gg/ccdaknong
+https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #EXTINF:0 tvg-id="dienbien" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4JmFvsr/Dien-Bien-cc.webp",Điện Biên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8?cc
@@ -795,23 +765,17 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="dongnai2" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/yn3vxpT/Dong-Nai2-cc.webp",Đồng Nai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8?cc
-#EXTINF:0 tvg-id="dongnai3" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/WtV65qz/Dong-Nai3-cc.webp",Đồng Nai 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://gg.gg/ccdongnai3
-#EXTINF:0 tvg-id="dongnai9" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://static.skyshoptv.vn/catalog/logo.png",Đồng Nai 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 tvg-id="dongthap" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/B2PZmjc/Dong-Thap1-cc.webp",Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="dongthap2" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/G26K7wn/Dong-Thap2-cc.webp",Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/sdc/dongthaphd_hls.smil/chunklist_b2500000.m3u8?cc
-#http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8?cc
+http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
 														 ㅤ
 #EXTINF:0 tvg-id="gialai" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/rdbT1Hm/Gia-Lai-cc.webp",Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8?cc
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 													 ㅤ
 #EXTINF:0 tvg-id="hagiang" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pbjvG0n/Ha-Giang-cc.webp",Hà Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -827,7 +791,7 @@ https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8?cc
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="haiphong" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VpD5fr7/Hai-Phong-cc.webp",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8?cc
+https://live.thhp.vn/thp/index.m3u8
 #EXTINF:0 tvg-id="haiphongplus" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fHPrX6Y/Hai-Phong-Plus-cc.webp",Hải Phòng+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.thhp.vn/hls/thpplus/index.m3u8?cc
@@ -852,7 +816,7 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8?cc
 https://vips-livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="kontum" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/CVWzDhX/Kon-Tum-cc.png",Kon Tum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8?cc
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 																		 ㅤ
 #EXTINF:0 tvg-id="laichau" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pZpCfH2/Lai-Chau-cc.webp",Lai Châu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -868,7 +832,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8?cc
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="longan" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/427pwdr/Long-An-cc.webp",Long An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8?cc
+https://la34.vncdn.vn/live/LA34AAA/chunklist_w462621088.m3u8
 															 ㅤ
 #EXTINF:0 tvg-id="namdinh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QMYgTNK/Nam-Dinh-cc.webp",Nam Định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -882,14 +846,14 @@ http://103.90.220.236/nbtvlive/tv1live.m3u8
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="nghean" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/djFmVN5/Nghe-An-cc.webp",Nghệ An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8?cc
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 																				 ㅤ
 #EXTINF:0 tvg-id="phutho" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L0Z4X5p/Phu-Tho-cc.webp",Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="phuyen" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/hDXxvkw/Phu-Yen-cc.webp",Phú Yên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8?cc
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 																		 ㅤ
 #EXTINF:0 tvg-id="quangbinh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LS7Zvgq/Quang-Binh-cc.webp",Quảng Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -908,7 +872,7 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 
 #EXTINF:0 tvg-id="quangtri" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/T27Ctqj/Quang-Tri-cc.webp",Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8?cc
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 																				 ㅤ
 #EXTINF:0 tvg-id="soctrang" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L8hRDNS/Soc-Trang1-cc.webp",Sóc Trăng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -918,18 +882,16 @@ https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8?cc
 http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8?cc
 #EXTINF:0 tvg-id="sonla" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QNMkZrn/SonLa-cc.webp",Sơn La
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8?cc
+https://lms-public-ingest.swiftfederation.com/sltvlive/tv1live-transmux.m3u8
 												 ㅤ
 #EXTINF:0 tvg-id="tayninh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/dgp5ddq/Tay-Ninh-cc.webp",Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8?cc
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="thaibinh" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/175.png", Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="thainguyen" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/176.png", Thái Nguyên 1
+#EXTINF:-1 tvg-id="thainguyen" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/176.png", Thái Nguyên
 http://103.90.220.236/tntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="thainguyen" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/177.png", TThái Nguyên 2
-https://code.television4you.xyz/getlink/nethubtv?id=5969&cl=1&b=1
 																					 ㅤ
 #EXTINF:0 tvg-id="thanhhoa" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Rvnk01G/Thanh-Hoa-cc.webp",Thanh Hóa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -942,14 +904,14 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8?cc
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="tuyenquang" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jLGd1cD/Tuyen-Quang-cc.webp",Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8?cc
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 																	 ㅤ
 #EXTINF:0 tvg-id="vinhphuc" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/PY6GdSG/Vinh-Phuc-cc.webp",Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8?cc
 #EXTINF:0 tvg-id="vungtau" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Wc3DfL2/Vung-Tau-cc.webp",Vũng Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8?cc
+https://stream.brt.vn:8081/live/tv2.stream_record/chunklist_w419871790.m3u8
 																		 ㅤ
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
