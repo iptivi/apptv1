@@ -183,14 +183,19 @@ https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 #=============SCTV================
 #EXTINF:0 tvg-id="sctv1hd"group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 HD - Hài
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="sctv2hd"group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png" ,SCTV2
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="sctv3hd"group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png" ,SCTV 3 HD - SEE TV
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="sctv4hd"group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/2N5hVDx/sctv4-hd-BEARTV.png" ,SCTV 4 HD - Giải trí tổng hợp
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/rZTRD44/FIM360-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 - Fim 360
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="sctv7hd"group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7 HD - Sân Khấu
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="sctv8hd"group-title="🔵 SCTV" tvg-logo="https://i.ibb.co/0tVLK8b/sctv8-BEARTV.png" ,SCTV8-VITV - Kinh Tế Tài Chính
