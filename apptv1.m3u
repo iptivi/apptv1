@@ -1,30 +1,35 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml,http://live-sg.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:8880/xmltv/channels, http://live-eu.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:9981/xmltv/channels,http://web-iptv-online.000webhostapp.com/epg.php" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 ===========K+ HD==============
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🟣 Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/K%2B_Sport_1_HD_2021.png/revision/latest/scale-to-width-down/2021?cb=20220127022232&path-prefix=vi", K+ Sport1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5/bna0DxKWrezITpxJFwDA","kid":"kG4QCKmhR72CrPz47XniIw"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🟣 Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fc/K%2B_Sport_2_HD_2021.png/revision/latest?cb=20220127022246&path-prefix=vi", K+ Sport2 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="kcinehd" group-title="🟣 Kênh K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qB9ZL7EDZJ0y9/SzPViVnw","kid":"CCTMsjFsTz2IIProC0nQUA"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=840d4ba9916544a9bbf4f62371b7e116&key=86ccc8f30da09264fddd16aa9f60a21a
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🟣 Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/1424?cb=20220127020355&path-prefix=vi", K+ Cine FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="klifehd" group-title="🟣 Kênh K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gia7LBs0wYFsFRu2pmW3Lw","kid":"Km3F7enCSnOW/WqJJuAbIA"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=182ab470703544cf8cc2c451e57b08ce&key=6b03284a1edf58fbd442afdc2fa4e4c7
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🟣 Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/K%2B_Life_HD_2021.png/revision/latest/scale-to-width-down/1473?cb=20220127022229&path-prefix=vi", K+ Life FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🟣 Kênh K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XBwLbD68/WFYiMU8fOMHWg","kid":"eTixka+YRhqfvM/Bc6OpbQ"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=004ed66b5a9943758b45bd8c8a20f893&key=e296a851bd5737fedd7c4027e08a23a3
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🟣 Kênh K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/Kplus_Kids_2021.png/revision/latest?cb=20220127022015&path-prefix=vi", K+ Kids FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🟣 Kênh K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M6sr+iTkmlih4LxZgZGFgA","kid":"Hq/LU9sARTKLYMzQjnpezw"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=d5a3b2fc25024dc689d39e2e599b5b31&key=111d5e64ef2963de5c533ac12560af39
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🟣 Kênh K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.television4you.xyz/key.php?kid=1eafcb53db0045328b60ccd08e7a5ecf&key=33ab2bfa24e49a58a1e0bc5981918580
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
 #=========================VTV==============================================
