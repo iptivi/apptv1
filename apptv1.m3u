@@ -1019,29 +1019,11 @@ https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
 
 ---------------------------
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="➡️ BEIN SPORT",BEIN SPORT 1 (Pháp)
+http://51.178.65.238:80/Bein1/mpegts
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="➡️ BEIN SPORT",BEIN SPORT 2 (Pháp)
+http://51.178.65.238:80/Bein2/mpegts
 
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="➡️ BEIN SPORT",BEIN SPORTS 1HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191848
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="➡️ BEIN SPORT",BEIN SPORTS 2HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191849
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="➡️ BEIN SPORT",BEIN SPORTS 3HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191850
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="➡️ BEIN SPORT",BEIN SPORTS 4HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191851
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7HD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/27/beIN-MAX7.png" group-title="➡️ BEIN SPORT",BEIN SPORTS 7HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191854
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN Sports English 1" tvg-logo="https://iptv4free.net/assets/images/channel/channel_featured_1565972989.png" group-title="➡️ BEIN SPORT",beIN Sports English 1
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191858
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN Sports English 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="➡️ BEIN SPORT",beIN Sports English 2
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/191859
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="Bein Sports 5HD" tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="➡️ BEIN SPORT",Bein Sports 5HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/270029
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="Bein Sports 6HD" tvg-logo="https://4.bp.blogspot.com/-1dPQNlxlceA/WlPXHfNatgI/AAAAAAAAAcg/qi8He1MCorIajq3clE6MYD1oLAy90ig6ACLcBGAs/s1600/6-HD.png" group-title="➡️ BEIN SPORT",Bein Sports 6HD
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/270030
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA" tvg-logo="" group-title="➡️ BEIN SPORT",Bein Sport NBA
-http://teeveetv.one:2052/GfTvTeStLiNe882610/n6pJUr5BkwKL/270038
-
-/////////////////////////////////////////////
 #EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
 #EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports 2
