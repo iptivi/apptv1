@@ -1027,6 +1027,17 @@ http://51.178.65.238:80/Bein1/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="➡️ BEIN SPORT",BEIN SPORT 2 (Pháp)
 http://51.178.65.238:80/Bein2/mpegts
 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 1" tvg-logo="" group-title="➡️ ASTRO SUPERSPORT",ASTRO SUPERSPORT 1
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121198&extension=ts&play_token=BOAeBoOX3V
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 2" tvg-logo="" group-title="➡️ ASTRO SUPERSPORT",ASTRO SUPERSPORT 2
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 3" tvg-logo="" group-title="➡️ ASTRO SUPERSPORT",ASTRO SUPERSPORT 3
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121200&extension=ts&play_token=O5Nw5KvFJ4
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 4" tvg-logo="" group-title="➡️ ASTRO SUPERSPORT",ASTRO SUPERSPORT 4
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121201&extension=ts&play_token=Qf3Pe4Yuep
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 5" tvg-logo="" group-title="➡️ ASTRO SUPERSPORT",ASTRO SUPERSPORT 5
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
+
 #EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
 #EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports 2
