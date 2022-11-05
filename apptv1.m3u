@@ -352,6 +352,9 @@ https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
 #EXTINF:-1 group-title="🟡 ON SPORTS" tvg-id="vtvcab23hd", ON Golf HD
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
 
+#EXTINF:-1 group-title="🟡 ON SPORTS" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
 
 #=============KÊNH BÁO CHÍ================
 #EXTINF:0 tvg-id="antvhd"  group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.ibb.co/W6ChNPL/An-Ninh-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",An Ninh TV
