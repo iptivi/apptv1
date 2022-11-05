@@ -432,9 +432,8 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0  tvg-id="warnertvhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/xJ6MN0M/warner.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",WBTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:0  tvg-id="paramouthd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/n0FqTt8/Paramount-cc.png",Paramount
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/tfmg6lkvm7reoq9/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4
+#EXTINF:-1 tvg-id="paramouthd" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/266.png", Paramount Channel
+http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 
 #EXTINF:0 tvg-id="axnhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
