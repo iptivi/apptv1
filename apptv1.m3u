@@ -1625,10 +1625,10 @@ https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://www.amarintv.com/assets/images/logo.png", Amarin TV
 https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="🇹🇭 | THÁI LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #----------------Korea-----------------
-
 
 #EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBS_%EB%B6%88%EA%B5%90%EB%B0%A9%EC%86%A1.svg/512px-BBS_%EB%B6%88%EA%B5%90%EB%B0%A9%EC%86%A1.svg.png" group-title="🇰🇷 | HÀN QUỐC",BBS Buddhist Broadcasting (1080p) [Not 24/7]
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -1650,19 +1650,12 @@ http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="🇰🇷 | HÀN QUỐC",EBS e (400p)
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="🇰🇷 | HÀN QUỐC",EBS kids (400p)
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/ImUHRG2.png" group-title="🇰🇷 | HÀN QUỐC",EBS+ 1 (400p)
-http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png" group-title="🇰🇷 | HÀN QUỐC",EBS+ 2 (400p)
-http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EdailyTV.kr" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="🇰🇷 | HÀN QUỐC",Edaily TV (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg/live
+
 #EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="🇰🇷 | HÀN QUỐC",GCN24 Korean (480p) [Not 24/7]
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 #EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/jB4fUid.png" group-title="🇰🇷 | HÀN QUỐC",GS My Shop (1080p)
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="🇰🇷 | HÀN QUỐC",GugakTV êµ­ì•…ë°©ì†¡ (1080p)
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="🇰🇷 | HÀN QUỐC",GugakTV (1080p)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="🇰🇷 | HÀN QUỐC",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
