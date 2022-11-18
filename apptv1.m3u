@@ -2354,5 +2354,83 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.imgur.com/3SDlImf.png" group-title="🇺🇳 | INTERNATIONAL",La Télé (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
 
+---------------
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CB7tFpw.png" group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG",Ð Ð°Ð¼ÐµÐ½ÑÐºÐ¾Ðµ Ð¢Ð’
+https://rtv.facecast.io/rtv/0.m3u8
+
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Õ€Õ¡ÕµÕ¡Õ½Õ¿Õ¡Õ¶ 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Õ€Õ¡ÕµÕ¡Õ½Õ¿Õ¡Õ¶ 1 HD
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/fMOopjK.png",H2 - Õ€2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Shant - Õ‡Õ¡Õ¶Õ©
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/EqkF0O8.jpg",Armenia TV - Ô±Ö€Õ´Õ¥Õ¶Õ«Õ¡
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/SrHncfk.png",Center - Ô¿Õ¥Õ¶Õ¿Ö€Õ¸Õ¶
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/TejnGpV.jpg",Channel 5 - 5-Ö€Õ¤ Õ¡Õ¬Õ«Ö„
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/FKpxkVH.png",Country Media - ÔµÖ€Õ¯Õ«Ö€ Õ„Õ¥Õ¤Õ«Õ¡
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/hDYsq04.png",5 TV Plus (AR TV)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/NV6ZeW9.png",21TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/0vrFGY5.png",ARM News - Ô±Ö€Õ´Õ¶ÕµÕ¸Ö‚Õ¦
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/AMUR14B.png",H3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/e4VxCnn.png",Shine - Õ‡Õ¸Õ²Õ¡Õ¯Õ¡Õ©
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/XwbLfqd.png",Armenian Cinema - Õ€Õ¡Õµ Ô¿Õ«Õ¶Õ¸
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia Dear - Õ‹Õ¡Õ¶ TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/fRfGuQg.png",Armenia Cinemax - ÕÕ«Õ¶Õ¥Õ´Õ¡Ö„Õ½
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/XjhkUXy.png",Armenia Home Tunic - ÕÕ¸Ö‚Õ¶ Ô¹Õ¸Ö‚Õ¶Õ«Õ¯
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/pvF7dGN.png",Armenia Comedy - Õ”Õ¸Õ´Õ¥Õ¤Õ«
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Pan - Ô¹Õ¡Õ¾Õ¡ TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV Game Channel - Ô½Õ¡Õ²Ô±Õ¬Õ«Ö„ TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/lidNHkH.png",ATV The cinema - Ô¿Õ«Õ¶Õ¸Õ´Õ¡Õ¶ TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Armenian - Õ€Õ¡Õµ TV 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Filmzone - Õ–Õ«Õ¬Õ´Õ¦Õ¸Õ¶
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s48/index.m3u8
 
