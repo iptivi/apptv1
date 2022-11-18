@@ -562,20 +562,12 @@ https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8?cc
 
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
-http://live-sg.cvacetv.ga:8080/stream/channelid/85918302
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
-http://live-sg.cvacetv.ga:8080/stream/channelid/483394653
-
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png",BBC RB 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/600364533
-
 #EXTINF:0 tvg-id="cnn" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PwrKBwy/cnn.webp",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
-http://live-sg.cvacetv.ga/OPT1
+http://sg.cvacetv.ga/OPT1
 
 #EXTINF:0 tvg-id="cna" group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1787,17 +1779,16 @@ https://code.television4you.xyz/getlink/yoitv?id=M9b8YoeShhTsfaXXoNZJDw==
 
 #----------------Russia/Ukraine-----------------
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/512?cb=20220217141930&path-prefix=vi",OPT1
-http://live-sg.cvacetv.ga/OPT1
+http://sg.cvacetv.ga/OPT1
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1920px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Russia 1
-http://live-sg.cvacetv.ga/Russia1
+http://sg.cvacetv.ga/Russia1
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Russia 24
 
 #EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1200px-NTV_logo_2003.svg.png",NTV
-http://live-sg.cvacetv.ga/NTV
-#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine TV
+http://sg.cvacetv.ga/NTV
+#EXTINF:-1 group-title="🇷🇺 🇺🇦 | NGA - UKRAINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine TV
 
-#EXTINF:-1 group-title="🇷🇺 | NGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine 24
-
+#EXTINF:-1 group-title="🇷🇺 🇺🇦 | NGA - UKRAINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ukraina_%28TV_channel%2C_logo%29.svg/800px-Ukraina_%28TV_channel%2C_logo%29.svg.png",Ukraine 24
 #EXTINF:-1 tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/DyJw1Pi.png" group-title="🇷🇺 | NGA",Кавказ 24 (720p) [Geo-blocked]
 https://strm.yandex.ru/kal/kavkaz24_supres/kavkaz24_supres0.m3u8
 #EXTINF:-1 tvg-id="Kaleydskop.ru" tvg-logo="https://i.imgur.com/sgDCVyG.png" group-title="🇷🇺 | NGA",Калейдскоп (480p) [Geo-blocked]
