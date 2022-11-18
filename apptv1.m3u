@@ -1041,124 +1041,90 @@ http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=1
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORT 5" tvg-logo="" group-title="➡️ ASTRO SUPERSPORT",ASTRO SUPERSPORT 5
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
 ----------------
-#EXTINF:-1 group-title="➡️ STAR SPORTS - ẤN ĐỘ",Star Sports Select 1
-http://live3.cvacetv.ga:8080/stream/channelid/892537098
-#EXTINF:-1 group-title="➡️ STAR SPORTS - ẤN ĐỘ",Star Sports Select 2
-http://live3.cvacetv.ga:8080/stream/channelid/118393712
-#EXTINF:-1 group-title="➡️ CANAL+ SPORT - CH SÉC",Canal+ Sport CZ
-http://live3.cvacetv.ga:8080/stream/channelid/1513217624
-#EXTINF:-1 group-title="➡️ CANAL+ SPORT - CH SÉC",Canal+ Sport 2 CZ
-http://live3.cvacetv.ga:8080/stream/channelid/140459395
+#EXTINF:-1 group-title="➡️ SKY SPORT - ĐỨC",Sky Sport Tennis
+http://sg.cvacetv.ga:8080/stream/channelid/1273348011
+#EXTINF:-1 group-title="➡️ SKY SPORT - ĐỨC",Sky Sport F1
+http://sg.cvacetv.ga:8080/stream/channelid/1163928052
 #EXTINF:-1 group-title="➡️ MATCH TV - NGA" tvg-id="Match.ru",Маtch ТV
-http://live3.cvacetv.ga:8080/stream/channelid/1218027869
+http://sg.cvacetv.ga:8080/stream/channelid/1218027869
 #EXTINF:-1 group-title="➡️ MATCH TV - NGA" tvg-id="MatchFutbol1.ru",Маtch Futbol 1
-http://live3.cvacetv.ga:8080/stream/channelid/1423012514
+http://sg.cvacetv.ga:8080/stream/channelid/1423012514
 #EXTINF:-1 group-title="➡️ MATCH TV - NGA" tvg-id="MatchFutbol2.ru",Маtch Futbol 2
-http://live3.cvacetv.ga:8080/stream/channelid/273211888
+http://sg.cvacetv.ga:8080/stream/channelid/273211888
 #EXTINF:-1 group-title="➡️ MATCH TV - NGA" tvg-id="MatchFutbol3.ru",Маtch Futbol 3
-http://live3.cvacetv.ga:8080/stream/channelid/1245579723
+http://sg.cvacetv.ga:8080/stream/channelid/1245579723
 #EXTINF:-1 group-title="➡️ MATCH TV - NGA",Маtch Premier
-http://live3.cvacetv.ga:8080/stream/channelid/1011319346
-#EXTINF:-1 group-title="➡️ MOVISTAR - TÂY BAN NHA (TEST)",Movistar LC
-http://live3.cvacetv.ga:8080/stream/channelid/1712804443
-#EXTINF:-1 group-title="➡️ MOVISTAR - TÂY BAN NHA (TEST)",Movistar LC2
-http://live3.cvacetv.ga:8080/stream/channelid/1480432687
-#EXTINF:-1 group-title="➡️ MOVISTAR - TÂY BAN NHA (TEST)",Movistar Deportes
-http://live3.cvacetv.ga:8080/stream/channelid/1756982388
-#EXTINF:-1 group-title="➡️ MOVISTAR - TÂY BAN NHA (TEST)",DAZN F1
-http://live3.cvacetv.ga:8080/stream/channelid/1064269715
+http://sg.cvacetv.ga:8080/stream/channelid/1011319346
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 1
-http://live3.cvacetv.ga:8080/stream/channelid/836061641
+http://sg.cvacetv.ga:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 2
-http://live3.cvacetv.ga:8080/stream/channelid/1604309142
+http://sg.cvacetv.ga:8080/stream/channelid/1604309142
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 3
-http://live3.cvacetv.ga:8080/stream/channelid/1655748057
+http://sg.cvacetv.ga:8080/stream/channelid/1655748057
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 4
-http://live3.cvacetv.ga:8080/stream/channelid/1958327260
+http://sg.cvacetv.ga:8080/stream/channelid/1958327260
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Sport 1
-http://live3.cvacetv.ga:8080/stream/channelid/684151253
+http://sg.cvacetv.ga:8080/stream/channelid/684151253
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Sport 2
-http://live3.cvacetv.ga:8080/stream/channelid/1705267767
+http://sg.cvacetv.ga:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Sport 5
-http://live3.cvacetv.ga:8080/stream/channelid/1048689498
+http://sg.cvacetv.ga:8080/stream/channelid/1048689498
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Premium
-http://live3.cvacetv.ga:8080/stream/channelid/881008572
+http://sg.cvacetv.ga:8080/stream/channelid/881008572
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Family
-http://live3.cvacetv.ga:8080/stream/channelid/1732441088
+http://sg.cvacetv.ga:8080/stream/channelid/1732441088
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Select
-http://live3.cvacetv.ga:8080/stream/channelid/1500720339
+http://sg.cvacetv.ga:8080/stream/channelid/1500720339
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Voetbal
-http://live3.cvacetv.ga:8080/stream/channelid/414989288
+http://sg.cvacetv.ga:8080/stream/channelid/414989288
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Tennis
-http://live3.cvacetv.ga:8080/stream/channelid/1547463735
+http://sg.cvacetv.ga:8080/stream/channelid/1547463735
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Golf
-http://live3.cvacetv.ga:8080/stream/channelid/1127618614
+http://sg.cvacetv.ga:8080/stream/channelid/1127618614
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Docu
-http://live3.cvacetv.ga:8080/stream/channelid/1403710339
+http://sg.cvacetv.ga:8080/stream/channelid/1403710339
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
-http://live3.cvacetv.ga:8080/stream/channelid/891465161
+http://sg.cvacetv.ga:8080/stream/channelid/891465161
 #EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN" tvg-id="PolsatSport.pl",Polsat Sport
-http://live3.cvacetv.ga:8080/stream/channelid/701074256
+http://sg.cvacetv.ga:8080/stream/channelid/701074256
 #EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN",Polsat Sport Extra
-http://live3.cvacetv.ga:8080/stream/channelid/842661572
+http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN",Polsat Sport News
-http://live3.cvacetv.ga:8080/stream/channelid/1209045940
-#EXTINF:-1 group-title="➡️ DIGI SPORT - ROMANIA",Digi Sport 1
-http://live3.cvacetv.ga:8080/stream/channelid/1229260875
-#EXTINF:-1 group-title="➡️ DIGI SPORT - ROMANIA",Digi Sport 2
-http://live3.cvacetv.ga:8080/stream/channelid/1466833630
+http://sg.cvacetv.ga:8080/stream/channelid/1209045940
 #EXTINF:-1 group-title="➡️ SPORT TV - BỒ ĐÀO NHA",Sport TV 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
+http://vn1.cvacetv.ga:8880/stream/channelid/49994801
 #EXTINF:-1 group-title="➡️ SPORT TV - BỒ ĐÀO NHA",Sport TV 3
-http://live-vn.cvacetv.ga:8880/stream/channelid/1597536732
+http://vn1.cvacetv.ga:8880/stream/channelid/599677544
 #EXTINF:-1 group-title="➡️ EUROSPORT" tvg-id="Eurosport1Poland.pl",Eurosport 1
-http://live3.cvacetv.ga:8080/stream/channelid/1437693007
+http://sg.cvacetv.ga:8080/stream/channelid/1437693007
 #EXTINF:-1 group-title="➡️ EUROSPORT" tvg-id="Eurosport2Poland.pl",Eurosport 2
-http://live3.cvacetv.ga:8080/stream/channelid/714002887
-#EXTINF:-1 group-title="➡️ DIEMA SPORT",Diema Sport
-http://live-vn.cvacetv.ga:8880/stream/channelid/2011491260
-#EXTINF:-1 group-title="➡️ DIEMA SPORT" tvg-id="DiemaSport2.bg",Diema Sport 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/1451071581
-#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/78844952
-#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA",MAX Sport 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
-#EXTINF:-1 group-title="➡️ MAX SPORT - BULGARIA" tvg-id="MaxSport3.bg",MAX Sport 3
-http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
+http://sg.cvacetv.ga:8080/stream/channelid/714002887
 #EXTINF:-1 group-title="➡️ SPORT KLUB" tvg-id="SportKlub1Croatia.hr",Sport Klub 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/505085128
+http://vn1.cvacetv.ga:8880/stream/channelid/694277486
 #EXTINF:-1 group-title="➡️ SPORT KLUB" tvg-id="SportKlub2Serbia.rs",Sport Klub 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/2127436116
+http://vn1.cvacetv.ga:8880/stream/channelid/1911842429
 #EXTINF:-1 group-title="➡️ SPORT KLUB",Sport Klub 3
-http://live-vn.cvacetv.ga:8880/stream/channelid/1597892582
+http://vn1.cvacetv.ga:8880/stream/channelid/1505308510
 #EXTINF:-1 group-title="➡️ SPORT KLUB" tvg-id="SportKlub4.rs",Sport Klub 4
-http://live-vn.cvacetv.ga:8880/stream/channelid/346963988
+http://vn1.cvacetv.ga:8880/stream/channelid/1802040370
 #EXTINF:-1 group-title="➡️ SPORT KLUB" tvg-id="SportKlub5.rs",Sport Klub 5
-http://live-vn.cvacetv.ga:8880/stream/channelid/271301652
+http://vn1.cvacetv.ga:8880/stream/channelid/637218869
 #EXTINF:-1 group-title="➡️ SPORT KLUB" tvg-id="SportKlub6.rs",Sport Klub 6
-http://live-vn.cvacetv.ga:8880/stream/channelid/393979445
+http://vn1.cvacetv.ga:8880/stream/channelid/1098593197
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA" tvg-id="ESPN.us",ESPN US
-http://live-vn.cvacetv.ga:8080/ESPN
+http://vn1.cvacetv.ga:8080/ESPN
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA" tvg-id="ESPN2.us",ESPN2 US
-http://live-vn.cvacetv.ga:8080/ESPN2
+http://vn1.cvacetv.ga:8080/ESPN2
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA" tvg-id="USANetworkEast.us",USA Network
-http://live-vn.cvacetv.ga:8080/USA
+http://vn1.cvacetv.ga:8080/USA
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA" tvg-id="GolfChannel.us",NBC Golf
-http://live-vn.cvacetv.ga:8080/golf
+http://vn1.cvacetv.ga:8080/golf
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA" tvg-id="FoxSports1.us",FS1
-http://live-vn.cvacetv.ga:8080/FS1
+http://vn1.cvacetv.ga:8080/FS1
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA" tvg-id="FoxSports2.us",FS2
-http://live-vn.cvacetv.ga:8080/FS2
+http://vn1.cvacetv.ga:8080/FS2
 #EXTINF:-1 group-title="➡️ THỂ THAO MỸ - CANADA"tvg-id="TNTEast.us",TNT HD
-http://live-vn.cvacetv.ga:8080/TNT
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Mexico
-http://live-vn.cvacetv.ga:8880/stream/channelid/1685833075
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN2 Mexico
-http://live-vn.cvacetv.ga:8880/stream/channelid/999113581
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN3 Mexico
-http://live-vn.cvacetv.ga:8880/stream/channelid/2099117513
-#EXTINF:-1 group-title="➡️ ESPN NAM MỸ",ESPN Extra
-http://live-vn.cvacetv.ga:8880/stream/channelid/1592146672
+http://vn1.cvacetv.ga:8080/TNT
 
 ------------
 #EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports 1
@@ -2353,84 +2319,4 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-logo="https://i.imgur.com/3SDlImf.png" group-title="🇺🇳 | INTERNATIONAL",La Télé (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
-
----------------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CB7tFpw.png" group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG",Ð Ð°Ð¼ÐµÐ½ÑÐºÐ¾Ðµ Ð¢Ð’
-https://rtv.facecast.io/rtv/0.m3u8
-
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Õ€Õ¡ÕµÕ¡Õ½Õ¿Õ¡Õ¶ 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s1/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Õ€Õ¡ÕµÕ¡Õ½Õ¿Õ¡Õ¶ 1 HD
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/fMOopjK.png",H2 - Õ€2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Shant - Õ‡Õ¡Õ¶Õ©
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/EqkF0O8.jpg",Armenia TV - Ô±Ö€Õ´Õ¥Õ¶Õ«Õ¡
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/SrHncfk.png",Center - Ô¿Õ¥Õ¶Õ¿Ö€Õ¸Õ¶
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/TejnGpV.jpg",Channel 5 - 5-Ö€Õ¤ Õ¡Õ¬Õ«Ö„
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/FKpxkVH.png",Country Media - ÔµÖ€Õ¯Õ«Ö€ Õ„Õ¥Õ¤Õ«Õ¡
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/hDYsq04.png",5 TV Plus (AR TV)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s9/04.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/NV6ZeW9.png",21TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/0vrFGY5.png",ARM News - Ô±Ö€Õ´Õ¶ÕµÕ¸Ö‚Õ¦
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/AMUR14B.png",H3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/e4VxCnn.png",Shine - Õ‡Õ¸Õ²Õ¡Õ¯Õ¡Õ©
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/XwbLfqd.png",Armenian Cinema - Õ€Õ¡Õµ Ô¿Õ«Õ¶Õ¸
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia Dear - Õ‹Õ¡Õ¶ TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/fRfGuQg.png",Armenia Cinemax - ÕÕ«Õ¶Õ¥Õ´Õ¡Ö„Õ½
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/XjhkUXy.png",Armenia Home Tunic - ÕÕ¸Ö‚Õ¶ Ô¹Õ¸Ö‚Õ¶Õ«Õ¯
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/pvF7dGN.png",Armenia Comedy - Õ”Õ¸Õ´Õ¥Õ¤Õ«
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Pan - Ô¹Õ¡Õ¾Õ¡ TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV Game Channel - Ô½Õ¡Õ²Ô±Õ¬Õ«Ö„ TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/lidNHkH.png",ATV The cinema - Ô¿Õ«Õ¶Õ¸Õ´Õ¡Õ¶ TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Armenian - Õ€Õ¡Õµ TV 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 group-title="ðŸ‡·ðŸ‡º| Nga vÃ  khá»‘i SNG" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Filmzone - Õ–Õ«Õ¬Õ´Õ¦Õ¸Õ¶
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s48/index.m3u8
 
