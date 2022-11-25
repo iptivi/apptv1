@@ -1133,6 +1133,20 @@ http://vn1.cvacetv.ga:8080/stream/channelid/637218869
 #EXTINF:-1 group-title="🌀 SPORT KLUB" tvg-id="SportKlub6.rs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SK_6.png/revision/latest?cb=20200415224810",Sport Klub 6
 http://vn1.cvacetv.ga:8080/stream/channelid/1098593197
 
+#EXTINF: 0 tvg-id="" group-title="🌀 BEIN" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png", ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF: 0 tvg-id="" group-title="🌀 BEIN" tvg-logo="https://i.ibb.co/HBdHsFq/bein-sports-1-BEARTV.png", beIN SPORTS 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF: 0 tvg-id="" group-title="🌀 BEIN" tvg-logo="https://i.ibb.co/zHSHF3L/bein-sports-2-BEARTV.png", beIN SPORTS 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF: 0 tvg-id="" group-title="🌀 BEIN" tvg-logo="https://i.ibb.co/q7Yz8Qm/WWE-Network-BEARTV.png", WWE Network
+http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="🌀 BEIN", FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="🌀 BEIN", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="🌀 BEIN", KOK UFC
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 ///////////////////////////////////
 
