@@ -667,10 +667,10 @@ https://hls.pmchd.live/hls/stream.m3u8
 
 #==============ĐỊA PHƯƠNG=================
 #EXTINF:-1 tvg-id="hanoi1" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png", HanoiTV1 HD
-http://103.90.220.236/hntvlive/tv1live.m3u8
+https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD
-http://103.90.220.236/hntvlive/tv2live.m3u8
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3FZpCTw/thvl1.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
