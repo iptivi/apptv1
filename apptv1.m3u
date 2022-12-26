@@ -112,10 +112,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8?cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8?cc
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🟢 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 HD Tây Nam Bộ
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🟢 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 ------------
 #EXTINF:0 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/sCvdQgs/VTV1fhd-cc.png",VTV1 ¹⁰⁸⁰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
