@@ -416,10 +416,10 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://vagroup.pw/cliptv.php?id=838
+https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://vagroup.pw/cliptv.php?id=839
+https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
