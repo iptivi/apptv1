@@ -89,10 +89,10 @@ https://livecdn.fptplay.net/sevent/vtv3hd_4000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8?cc
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5/vtv5@high.m3u8								
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8							
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8												
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8											
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8?cc
@@ -651,29 +651,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 
 
-#================= MUZIC ===============
-#EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png",MTV Poland
-http://live-sg.cvacetv.ga/MTV
-#EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1024px-MTV_Hits_2021.svg.png",MTV Hits
-http://live-sg.cvacetv.ga/MTVHits
-#EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",MTV Live
-http://live-sg.cvacetv.ga/MTVLive
-#EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1200px-NickMusic.svg.png",NickMusic
-
-#EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban
-http://live-sg.cvacetv.ga/TraceUrban
-
-#EXTINF:-1 group-title="🟤 MUZIC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png",tvN Asia (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="🟤 MUZIC",Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-#EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/o8vx6FG.png" group-title="🟤 MUZIC",PMC (1080p)
-https://hls.pmchd.live/hls/stream.m3u8
-
 #==============ĐỊA PHƯƠNG=================
 #EXTINF:-1 tvg-id="hanoi1" group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png", HanoiTV1 HD
 https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
@@ -1026,56 +1003,25 @@ http://sg.cvacetv.ga:8080/stream/channelid/842661572
 #EXTINF:-1 group-title="❄️ POLSAT SPORT - BA LAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
 http://sg.cvacetv.ga:8080/stream/channelid/1209045940
 
+======================
 
-===========EVENT FPT===================
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Pladio
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 1
-#EXTVLCOPT:http-user-agent=apptv1
-https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 2
-#EXTVLCOPT:http-user-agent=apptv1
-https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 3
-#EXTVLCOPT:http-user-agent=apptv1
-https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 4
-#EXTVLCOPT:http-user-agent=apptv1
-https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 1
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 2
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 3
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 4
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 5
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 6
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 7
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 8
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 9
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="▶️ Events" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Sports 10
-#EXTVLCOPT:http-user-agent=apptv1
-https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/VOVGT_1.png", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/VOVGT_1.png", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 
 
-
-
+#EXTINF:-1 group-title="Radio" tvg-logo="https://voh.com.vn/images/icons/icon-small-1.png", VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://voh.com.vn/images/icons/icon-small-4.png", VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png", VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://voh.com.vn/images/icons/icon-small-2.png", VOH AM 610Khz
