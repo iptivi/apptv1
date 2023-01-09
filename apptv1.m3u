@@ -130,7 +130,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8?cc
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8?cc
 #EXTINF:0 tvg-id="vtv9hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/MBsSYvb/VTV9fhd-cc.png",VTV9 ¹⁰⁸⁰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8?cc
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #===========================VTC==============================
 #EXTINF:0 tvg-id="vtc1hd" group-title="🔴 VTC" tvg-logo="https://i.ibb.co/2S7N7Ns/VTC1-cc.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTC1
