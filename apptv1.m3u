@@ -53,25 +53,25 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 -----------------------
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍏 K+ MyTV" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 (MyTV)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍏 K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aGxJZNOGNL7KIhmoFWvYsA", "kid":"tDb77N2GTHC+6TU3J9P6Zw" } ], "type":"temporary" }
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍏 K+ MyTV" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 (MyTV)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍏 K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍏 K+ MyTV" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍏 K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WkykZFUyaXCmD3+etZdjyA", "kid":"iMGTvc0yTNWrVl8edSo+ag" } ], "type":"temporary" }
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍏 K+ MyTV" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍏 K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fIzVbJIf6GC+F2syGmloOQ", "kid":"rHT6h1x/RfCGi4SDJVUXZQ" } ], "type":"temporary" }
