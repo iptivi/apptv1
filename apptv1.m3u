@@ -1,58 +1,18 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml,http://live-sg.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:8880/xmltv/channels, http://live-eu.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:9981/xmltv/channels,http://web-iptv-online.000webhostapp.com/epg.php" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 ===========K+ HD==============
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔴 K+ MyK+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyK+)
+#EXTINF:-1 tvg-id="klifehd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"idujgHe54YlRNXKcJ2X8nQ", "kid":"79heDyqnQXC313NafOz7JA" } ], "type":"temporary" }
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🔴 K+ MyK+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyK+)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qZcXfixOhYzhI6wKbbazfQ", "kid":"GtFeItf4rBrluqM0iRnHBg" },{ "kty":"oct", "k":"H0/TaW2rIvak7xb2Z1M6Mw", "kid":"YhVeItf4rBrluqM0iRnHBg" },{ "kty":"oct", "k":"fKqaSoo4Y7p9RkYPDS6eSQ", "kid":"Wyaiayb4rBrluqM0iRnHBg" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"roOM/RPYtLRL9JY6eHhfUA", "kid":"DibC3DM+R0id4kExw7noHw" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🔴 K+ MyK+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XREBzs6nAVXnRd8Dbpaa/g", "kid":"WNINPKAA8+3TKv/mVKYfMA" },{ "kty":"oct", "k":"QbjiCMbVuONs8mnNFC8upw", "kid":"oBYNPKAA8+3TKv/mVKYfMA" },{ "kty":"oct", "k":"GGJE918e6CuIvxAOvV0rNw", "kid":"mSdRhe8A8+3TKv/mVKYfMA" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🔴 K+ MyK+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+nV3D6svmb4u9uKl+6gB5g", "kid":"TmsQLJgJKc6b4+jtYQn2YQ" },{ "kty":"oct", "k":"C81rdDpie8VjW821YEtEMA", "kid":"lq8QLJgJKc6b4+jtYQn2YQ" },{ "kty":"oct", "k":"Kd2gXaPXMM9dzT5HbKr0sA", "kid":"j8BUdecJKc6b4+jtYQn2YQ" } ], "type":"temporary" }
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="🔴 K+ MyK+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QXddgT791BAPPRH80yTpfw", "kid":"HSSaRm5Odgw+TLekqSr9Vw" },{ "kty":"oct", "k":"LrJSamZxDIR9Zo+CUt5Nbg", "kid":"ZWiaRm5Odgw+TLekqSr9Vw" },{ "kty":"oct", "k":"hJHD8OJvq7u6ccYSJ5NEWg", "kid":"Xnnej71Odgw+TLekqSr9Vw" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-
--------------------------
-EXTINF:-1 tvg-id="kcinehd" group-title="🔴 K+ FPT" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" }
-https://vagroup.pw/code/fpt/kcinehd/manifest.mpd
-
-EXTINF:-1 tvg-id="klifehd" group-title="🔴 K+ FPT" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (FPTPlay)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }
-https://vagroup.pw/code/fpt/klifehd/manifest.mpd
-
-EXTINF:-1 tvg-id="ksport1hd" group-title="🔴 K+ FPT" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qpnqBTd+NIVrcceSB505CQ", "kid":"hKjRAXlxOemL1HeBOpmEqw" } ], "type":"temporary" }
-https://vagroup.pw/code/fpt/ksport1hd/manifest.mpd
-
-EXTINF:-1 tvg-id="ksport2hd" group-title="🔴 K+ FPT" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SvlPnUyLVR7SkhxNo7NzxQ", "kid":"DhptJ1mNMc26fD10/jEVag" } ], "type":"temporary" }
-https://vagroup.pw/code/fpt/ksport2hd/manifest.mpd
-
-EXTINF:-1 tvg-id="kkidshd" group-title="🔴 K+ FPT" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (FPTPlay)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRr+P9nbE2pB18cF7TA/pQ", "kid":"2td5+/VDOIWgkU5gOZx23w" } ], "type":"temporary" }
-https://vagroup.pw/code/fpt/kkidshd/manifest.mpd
---------------------------
 
 #=========================VTV==============================================
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp"  catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",VTV1
