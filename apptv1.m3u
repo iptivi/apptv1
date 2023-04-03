@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://trada.info/epg.xml,http://live-sg.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:8880/xmltv/channels, http://live-eu.cvacetv.ga:8080/xmltv/channels,http://live-vn.cvacetv.ga:9981/xmltv/channels,http://web-iptv-online.000webhostapp.com/epg.php" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 ===========K+ HD==============
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyK+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FJpYdcJDPcy+k1pfa+hdYw", "kid":"/a6ehAGyQWOgLHdsFJp+mw" },{ "kty":"oct", "k":"JyOkaLDBZ3Ws+5qtDGeD+w", "kid":"RfKehAGyQWOgLHdsFJp+mw" },{ "kty":"oct", "k":"dtunhRSskitrLXVGJdc+5Q", "kid":"PgPizVCyQWOgLHdsFJp+mw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FHzl9PDu5Ox6aw+tTwq5aA", "kid":"afHLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"1bymmG4iORa8ldNItdxueQ", "kid":"sTXLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+https://vagroup.pw/code/mykplus/ksport1hd/manifest.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyK+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wYbNdHzo6V3pf+Qh7RHTZA", "kid":"djbkzVVCF2cUms317e+zpg" },{ "kty":"oct", "k":"bl22h+BQTn8MFLVI1Ml10w", "kid":"vnrkzVVCF2cUms317e+zpg" },{ "kty":"oct", "k":"7PY4FR2B9XZyEEvmTAUq4w", "kid":"t4soFqRCF2cUms317e+zpg" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xKzj7uL6RFt+1RRWJQNklA", "kid":"3wpUgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"W0Hp+nRQc83SDUwyKpeowg", "kid":"J05UgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"ESL2000fKIFE11IQR1KIow", "kid":"IF+YylLqGRnkDnoyastNFw" } ], "type":"temporary" }
+https://vagroup.pw/code/mykplus/ksport2hd/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🔴 K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
