@@ -727,3 +727,73 @@ https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png", VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+
+========================
+
+EXTINF:-1 group-title="〇 EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://stream.cvmtv.site/ES1?token=live
+#EXTINF:-1 group-title="〇 EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://stream.cvmtv.site/ES2?token=live
+
+#EXTINF:-1 group-title="〇 THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
+http://stream.cvmtv.site/ZiggoS?token=live
+#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
+http://stream.cvmtv.site/ZiggoV?token=live
+#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tennis.png",Ziggo Sport Tennis
+http://stream.cvmtv.site/ZiggoT?token=live
+#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/golf.png",Ziggo Sport Golf
+http://stream.cvmtv.site/ZiggoG?token=live
+#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/racing.png",Ziggo Sport Racing
+http://stream.cvmtv.site/ZiggoR?token=live
+#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/docu.png",Ziggo Sport Docu
+http://stream.cvmtv.site/ZiggoD?token=live
+
+#EXTINF:-1 group-title="〇 CANAL+ SPORT" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://stream.cvmtv.site/canal1?token=live
+#EXTINF:-1 group-title="〇 CANAL+ SPORT" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://stream.cvmtv.site/canal2?token=live
+#EXTINF:-1 group-title="〇 CANAL+ SPORT" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://stream.cvmtv.site/canalpre?token=live
+
+#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://stream.cvmtv.site/E1?token=live
+#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://stream.cvmtv.site/E2?token=live
+#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://stream.cvmtv.site/E3?token=live
+#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://stream.cvmtv.site/E4?token=live
+
+#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://stream.cvmtv.site/Match?token=live
+#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://stream.cvmtv.site/MF1?token=live
+#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://stream.cvmtv.site/MF2?token=live
+#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://stream.cvmtv.site/MF3?token=live
+
+#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://stream.cvmtv.site/Polsat?token=live
+#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://stream.cvmtv.site/PolsatE?token=live
+#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+http://stream.cvmtv.site/PolsatN?token=live
+#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/768px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
+
+#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/768px-Polsat_Sport_Premium_2_2021_gradient.svg.png",Polsat Sport Premium 2
+
+#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TVP Sport
+http://stream.cvmtv.site/TVPS?token=live
+
+#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
+http://stream.cvmtv.site/ESPN?token=live
+#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2
+http://stream.cvmtv.site/ESPN2?token=live
+#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/768px-ESPN3_logo.svg.png",ESPN3
+http://stream.cvmtv.site/ESPN3?token=live
+#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
+http://stream.cvmtv.site/ESPNE?token=live
+
+
+
