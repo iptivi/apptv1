@@ -1,37 +1,37 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #=========================VTV==============================================
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/G0PXW8r/VTV2-cc.webp",VTV2 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/G0PXW8r/VTV2-cc.webp",VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/VNHdbry/VTV3-cc.png",VTV3 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/VNHdbry/VTV3-cc.png",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/VCBW4W8/VTV4-cc.webp",VTV4 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/VCBW4W8/VTV4-cc.webp",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp",VTV5 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV Cần Thơ (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV Cần Thơ
 udp://@225.1.2.245:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp",VTV7 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp",VTV7 
 udp://@225.1.2.96:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/RyBxx0F/VTV8-cc.webp",VTV8 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/RyBxx0F/VTV8-cc.webp",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp",VTV9 (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp",VTV9
 udp://@225.1.1.128:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
-#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.imgur.com/JDN8GJC.png",VTV5 Tây Nguyên (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.imgur.com/JDN8GJC.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
 
 #===========================VTC==============================
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD 
 udp://@225.1.2.254:30120
 #EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD 
 udp://@225.1.2.251:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD 
 udp://@225.1.2.200:30120
 #EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
 udp://@225.1.2.199:30120
@@ -41,19 +41,19 @@ udp://@225.1.2.198:30120
 udp://@225.1.2.197:30120
 #EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD 
 udp://@225.1.2.195:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD 
 udp://@225.1.2.194:30120
 #EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
 udp://@225.1.2.193:30120
 #EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD 
 udp://@225.1.2.250:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD 
 udp://@225.1.2.88:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD 
 udp://@225.1.2.190:30120
 #EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
@@ -205,54 +205,44 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http:
 #=============HO CHI MINH TV================
 #EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel 
 udp://@225.1.1.193:30120
 #EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD 
 udp://@225.1.1.192:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD 
 udp://@225.1.1.190:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO 
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc 
 udp://@225.1.1.185:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình 
 udp://@225.1.1.170:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim 
 udp://@225.1.1.184:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ 
 udp://@225.1.1.171:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt 
 udp://@225.1.1.186:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 8Mbps)
+#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ 
 udp://@225.1.1.181:30120
 #EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 udp://@225.1.1.177:30120
 
 #=============KÊNH BÁO CHÍ================
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD 
 udp://@225.1.2.169:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8Mbps)
+#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV 
 udp://@225.1.1.91:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 8Mbps)
+#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD 
 udp://@225.1.2.148:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 8Mbps)
+#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN 
 udp://@225.1.2.217:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8Mbps)
+#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS 
 udp://@225.1.1.167:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 4Mbps)
-udp://@225.1.4.221:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 4Mbps)
-udp://@225.1.4.98:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 4Mbps)
-udp://@225.1.4.148:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 4Mbps)
-udp://@225.1.4.170:30120
-#EXTINF:-1 group-title="🔘 KÊNH BÁO CHÍ" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 4Mbps)
-udp://@225.1.4.219:30120
 
 
 #=============KÊNH PHIM=================
@@ -307,45 +297,43 @@ udp://@225.1.1.211:30120
 
 
 #===============KÊNH QUỐC TẾ================
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC AUSTRALIA (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC AUSTRALIA 
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",Asian Food Network (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",Asian Food Network 
 udp://@225.1.1.198:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png",BBC Lifestyle (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png",BBC Lifestyle
 udp://@225.1.2.52:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png",BBC News (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png",BBC News
 udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/W5cZHZz/Bloomberg.png",Bloomberg (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/W5cZHZz/Bloomberg.png",Bloomberg
 udp://@225.1.2.91:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",BOOMERANG (HD 8Mbps)
-udp://@225.1.1.138:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA 
 udp://@225.1.1.202:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PwrKBwy/cnn.webp",CNN (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PwrKBwy/cnn.webp",CNN 
 udp://@225.1.1.242:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Da Vinci (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Da Vinci 
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW 
 udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Fashion TV (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Fashion TV 
 udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zfH3LG4/France24-cc.png",FRANCE 24 (English) (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zfH3LG4/France24-cc.png",FRANCE 24 (English) 
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Dz3Vtqd/KBSWorld-cc.png",KBS WORLD (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Dz3Vtqd/KBSWorld-cc.png",KBS WORLD 
 udp://@225.1.1.196:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",KIX (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",KIX 
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",NATIONAL GEOGRAPHIC HD 
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",NAT GEO WILD (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",NAT GEO WILD 
 udp://@225.1.1.211:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK WORLD JAPAN (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK WORLD JAPAN 
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Outdoor Channel (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Outdoor Channel 
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",TLC (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",TV5 MONDE ASIE (HD 8Mbps)
+#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",TV5 MONDE ASIE 
 udp://@225.1.1.200:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/09JHvmY/arirang.png",Arirang
 udp://@225.1.1.201:30120
@@ -353,16 +341,18 @@ udp://@225.1.1.201:30120
 udp://@225.1.1.227:30120
 
 #===============KÊNH THIẾU NHI================
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Animax (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Animax 
 udp://@225.1.1.135:30120
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Baby TV (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Baby TV 
 udp://@225.1.2.146:30120
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",BBC CbeeBies (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",BBC CbeeBies 
 udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",CARTOON NETWORK (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",CARTOON NETWORK 
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Dreamworks (HD 8Mbps)
+#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Dreamworks 
 udp://@225.1.1.136:30120
+#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",BOOMERANG 
+udp://@225.1.1.138:30120
 
 #===============AUTO=================
 #EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-logo="https://i.imgur.com/Se1a8Mm.png" group-title="🔵 AUTO",Bumblebee TV AutoMoto (720p)
