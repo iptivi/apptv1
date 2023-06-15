@@ -730,12 +730,7 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 ========================
 
-EXTINF:-1 group-title="〇 EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://stream.cvmtv.site/ES1?token=live
-#EXTINF:-1 group-title="〇 EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://stream.cvmtv.site/ES2?token=live
-
-#EXTINF:-1 group-title="〇 THỂ THAO TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
+#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
 http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
 http://stream.cvmtv.site/ZiggoV?token=live
@@ -794,6 +789,3 @@ http://stream.cvmtv.site/ESPN2?token=live
 http://stream.cvmtv.site/ESPN3?token=live
 #EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
 http://stream.cvmtv.site/ESPNE?token=live
-
-
-
