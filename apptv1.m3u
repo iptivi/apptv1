@@ -110,79 +110,97 @@ https://livevlive.vtvcab.vn/ONVFFTV/m30_index.m3u8
 https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 
 #=============SCTV================
-
-#EXTINF:-1 tvg-id="sctv1hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv2hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv3hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv4hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/KqXMPzc/ccsctv1.webp",SCTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/92YZY2r/ccsctv2.webp",SCTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp",SCTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/j4VVdqw/ccsctv4.webp",SCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv5hd" tvg-logo="https://i.ibb.co/gWFjqpV/ccsctv5.webp",SCTV5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/3NRzyxG/ccsctv6.webp",SCTV6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
-http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="sctv7hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv8hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv9hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv10/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv11hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv12hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv13hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv14hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv15hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv16hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv17hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv18hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv19hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv20hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv21hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv22hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="btv5hd" group-title="🔵 SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
-https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
-
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/k9Jzkbw/ccsctv7.webp",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/r7dgp4P/ccsctv8.webp",SCTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/Vt8Kwdr/ccsctv9.webp",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/ft0mgx9tngq1nid/     					    ㅤ     |Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv10hd" tvg-logo="https://i.ibb.co/4sN9Rnm/ccsctv10.webp",SCTV10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/Y34fcYr/ccsctv11.webp",SCTV11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/R7pf1yP/ccsctv12.webp",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/cY8cvmn/ccsctv13.webp",SCTV13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/SBh0RGm/ccsctv14.webp",SCTV14
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/PDhcf74/ccsctv16.webp",SCTV16
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bv5J3hr/ccsctv17.webp",SCTV17
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/3Ss3ng4/ccsctv18.webp",SCTV18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/JKLDCDd/ccsctv19.webp",SCTV19
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/ZGjbN3r/ccsctv20.webp",SCTV20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/k1gY4R8/ccsctv21.webp",SCTV21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/HtK3MyT/ccsctv22.webp",SCTV22
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/wQdDQXn/ccsctvpth.webp",SCTV •PTH
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 
 #=============HO CHI MINH TV================
 #EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
