@@ -248,6 +248,9 @@ udp://@225.1.4.219:30120
 
 
 #=============KÊNH PHIM=================
+#EXTINF:0 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.112:30120
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
@@ -255,105 +258,48 @@ https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="inthebox" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
-
-#EXTINF:-1 tvg-id="boxhits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
-
-#EXTINF:0 tvg-id="cinemaxhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax
+#EXTINF:0 tvg-id="axnhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?cc
-
-#EXTINF:0 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?cc
+udp://@225.1.2.225:30120
 
 #EXTINF:0  tvg-id="cinemaworldhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/ss7qbgg/Cinema-World-cc.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/cinemaworld_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8?cc
+udp://@225.1.1.142:30120
 
-#EXTINF:0  tvg-id="warnertvhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/xJ6MN0M/warner.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",WBTV
-http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8?cc
-
-#EXTINF:-1 tvg-id="paramouthd" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/266.png", Paramount Channel
-http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
-
-#EXTINF:0 tvg-id="axnhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",AXN
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8?cc
-
-#EXTINF:0 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/ZMfWqqm/ccbluestar.gif",Hollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
-
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp",CineLife 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8?cc
-
-#EXTINF:-1 tvg-id="hits" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/2
-
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-id="kix" tvg-logo="https://i.ibb.co/WnJBkC1/kix-hd-vtvcab.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/bL6JKrb/filmbox.png",FILMBOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-http://94.230.240.17:8080/film_box/index.m3u8
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-id=""  tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/film-plus-vipotv.png",Film+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#EXTINF:0 group-title="🟢 KÊNH PHIM" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/CCM_logo.png/revision/latest/scale-to-width-down/491?cb=20220404094646&path-prefix=vi",Celestial Classic (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#EXTINF:0 group-title="🟢 KÊNH PHIM" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/380?cb=20220330083514&path-prefix=vi",Celestial Movies (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+udp://@225.1.2.86:30120
 
 
 #============KÊNH KHOA HỌC==================
-#EXTINF:0  tvg-id="planetearthhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="animalhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/7CQLFc3/animalplanet.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=http://sctvonline.vn/
+udp://@225.1.1.231:30120
 
 #EXTINF:0 tvg-id="bbcearth" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8?cc
+udp://@225.1.2.24:30120
 
 #EXTINF:0 tvg-id="discoveryhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/xzpWHLm/Discovery-Channel.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sctvonline.vn/
+udp://@225.1.1.238:30120
 
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8|Referer=http://sctvonline.vn/
+udp://@225.1.2.223:30120
 
 #EXTINF:-1 tvg-id="ngchd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 #EXTVLCOPT:http-user-agent=apptv
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0  tvg-id="ngwhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/207.png",WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8?cc
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8?cc
+udp://@225.1.2.235:30120
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=apptv
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+udp://@225.1.2.215:30120
+
+#EXTINF:0  tvg-id="ngwhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/207.png",WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.211:30120
 
 
 #===============KÊNH QUỐC TẾ================
