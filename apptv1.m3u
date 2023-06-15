@@ -1,4 +1,31 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+==================K+==============
+#EXTINF:-1 tvg-id="ksport1hd" group-title="〇 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keysport1.php
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="〇 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keysport2.php
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="〇 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keycine.php
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="〇 K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ LIFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keylife.php
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="〇 K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keykids.php
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
 
 #=========================VTV==============================================
 #EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1
