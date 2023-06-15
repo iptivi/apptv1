@@ -335,15 +335,15 @@ udp://@225.1.1.201:30120
 udp://@225.1.1.227:30120
 
 #===============KÊNH THIẾU NHI================
-#EXTINF:-1 group-title="🌐 KÊNH THIẾU NHI",Animax (HD 8Mbps)
+#EXTINF:-1 group-title="🔵 KÊNH THIẾU NHI",Animax (HD 8Mbps)
 udp://@225.1.1.135:30120
-#EXTINF:-1 group-title="🌐 KÊNH THIẾU NHI)",Baby TV (HD 8Mbps)
+#EXTINF:-1 group-title="🔵 KÊNH THIẾU NHI)",Baby TV (HD 8Mbps)
 udp://@225.1.2.146:30120
-#EXTINF:-1 group-title="🌐 KÊNH THIẾU NHI",BBC CbeeBies (HD 8Mbps)
+#EXTINF:-1 group-title="🔵 KÊNH THIẾU NHI",BBC CbeeBies (HD 8Mbps)
 udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="🌐 KÊNH THIẾU NHI",CARTOON NETWORK (HD 8Mbps)
+#EXTINF:-1 group-title="🔵 KÊNH THIẾU NHI",CARTOON NETWORK (HD 8Mbps)
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="🌐 KÊNH THIẾU NHI",Dreamworks (HD 8Mbps)
+#EXTINF:-1 group-title="🔵 KÊNH THIẾU NHI",Dreamworks (HD 8Mbps)
 udp://@225.1.1.136:30120
 
 #===============AUTO=================
