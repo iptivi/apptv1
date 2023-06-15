@@ -809,62 +809,39 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 ========================
 
-#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/select.png",Ziggo Sport Select
-http://stream.cvmtv.site/ZiggoS?token=live
-#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/voetbal.png",Ziggo Sport Voetbal
-http://stream.cvmtv.site/ZiggoV?token=live
-#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tennis.png",Ziggo Sport Tennis
-http://stream.cvmtv.site/ZiggoT?token=live
-#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/golf.png",Ziggo Sport Golf
-http://stream.cvmtv.site/ZiggoG?token=live
-#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/racing.png",Ziggo Sport Racing
-http://stream.cvmtv.site/ZiggoR?token=live
-#EXTINF:-1 group-title="〇 ZIGGO SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/docu.png",Ziggo Sport Docu
-http://stream.cvmtv.site/ZiggoD?token=live
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canal-kkk",1.Canal+ 4K
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canal-kkk",2.Canal+ 4K
+http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=526135&extension=ts&play_token=NZ6PiTpvaY
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canal-kkk",3.Canal+ 4K
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=629068&extension=ts&play_token=OEiR4nVIUu
 
-#EXTINF:-1 group-title="〇 CANAL+ SPORT" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
-http://stream.cvmtv.site/canal1?token=live
-#EXTINF:-1 group-title="〇 CANAL+ SPORT" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
-http://stream.cvmtv.site/canal2?token=live
-#EXTINF:-1 group-title="〇 CANAL+ SPORT" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
-http://stream.cvmtv.site/canalpre?token=live
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",1.Canal+ LDC Champions League UHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9605
 
-#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
-http://stream.cvmtv.site/E1?token=live
-#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
-http://stream.cvmtv.site/E2?token=live
-#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
-http://stream.cvmtv.site/E3?token=live
-#EXTINF:-1 group-title="〇 ELEVEN SPORTS" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
-http://stream.cvmtv.site/E4?token=live
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports UHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",2.Canal+ Sports UHD
+http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=526130&extension=ts&play_token=TNmh41WhmE
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",3.Canal+ Sports UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526130&extension=ts&play_token=Jz8FXj0Ich
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",4.Canal+ Sports UHD
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=IgqOpPdKEo
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",5.Canal+ Sports UHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",6.Canal+ Sports UHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=PMDxvyVPzW
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",7.Canal+ Sports UHD
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",8.Canal+ Sports UHD
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",9.Canal+ Sports UHD
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",10.Canal+ Sports UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",11.Canal+ Sports UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101206&extension=ts&play_token=2usQAUALPd
+#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",12.Canal+ Sports UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=101206&extension=ts&play_token=r8KPrFON28
 
-#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
-http://stream.cvmtv.site/Match?token=live
-#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
-http://stream.cvmtv.site/MF1?token=live
-#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
-http://stream.cvmtv.site/MF2?token=live
-#EXTINF:-1 group-title="〇 MATCH TV" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
-http://stream.cvmtv.site/MF3?token=live
 
-#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
-http://stream.cvmtv.site/Polsat?token=live
-#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
-http://stream.cvmtv.site/PolsatE?token=live
-#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
-http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/768px-Polsat_Sport_Premium_1_2021_gradient.svg.png",Polsat Sport Premium 1
-
-#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/768px-Polsat_Sport_Premium_2_2021_gradient.svg.png",Polsat Sport Premium 2
-
-#EXTINF:-1 group-title="〇 POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TVP Sport
-http://stream.cvmtv.site/TVPS?token=live
-
-#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
-http://stream.cvmtv.site/ESPN?token=live
-#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2
-http://stream.cvmtv.site/ESPN2?token=live
-#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/768px-ESPN3_logo.svg.png",ESPN3
-http://stream.cvmtv.site/ESPN3?token=live
-#EXTINF:-1 group-title="〇 ESPN MX" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
-http://stream.cvmtv.site/ESPNE?token=live
