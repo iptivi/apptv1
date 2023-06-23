@@ -11,8 +11,6 @@ udp://@225.1.1.77:30120
 #EXTINF:-1 group-title="〇 K+" tvg-logo="https://imgur.com/M1WQfVE.jpg",K+ Kids (DRM)
 udp://@225.1.1.76:30120
 
-
-
 #=========================VTV==============================================
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1
 udp://@225.1.2.249:30120
@@ -38,37 +36,37 @@ udp://@225.1.2.236:30120
 udp://@225.1.1.108:30120
 
 #===========================VTC==============================
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD 
+#EXTINF:-1 tvg-id="vtc1" group-title="🔴 VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD 
 udp://@225.1.2.254:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="🔴 VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD 
+#EXTINF:-1 tvg-id="vtc3hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD 
 udp://@225.1.2.251:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD 
+#EXTINF:-1 tvg-id="vtc4hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD 
 udp://@225.1.2.200:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
+#EXTINF:-1 tvg-id="vtc7hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
 udp://@225.1.2.197:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
+#EXTINF:-1 tvg-id="vtc8hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD 
+#EXTINF:-1 tvg-id="vtc9hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD 
 udp://@225.1.2.195:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD 
+#EXTINF:-1 tvg-id="vtc10hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD 
 udp://@225.1.2.194:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
+#EXTINF:-1 tvg-id="vtc11hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
 udp://@225.1.2.193:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
+#EXTINF:-1 tvg-id="vtc12hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD 
+#EXTINF:-1 tvg-id="vtc13hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD 
 udp://@225.1.2.250:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD 
+#EXTINF:-1 tvg-id="vtc14hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD 
 udp://@225.1.2.88:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD 
+#EXTINF:-1 tvg-id="vtc16hd" group-title="🔴 VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD 
 udp://@225.1.2.190:30120
-#EXTINF:-1 group-title="🔴 VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+#EXTINF:-1 tvg-id="vottv"group-title="🔴 VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
 
 
