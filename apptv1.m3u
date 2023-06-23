@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 ==================K+==============
+#EXTINF:-1 group-title="〇 K+" tvg-logo="https://imgur.com/diHhSPR.jpg",K+ Cine (DRM)
+udp://@225.1.1.5:30120
+#EXTINF:-1 group-title="〇 K+" tvg-logo="https://imgur.com/cjb5geD.jpg",K+ Life (DRM)
+udp://@225.1.1.6:30120
+#EXTINF:-1 group-title="〇 K+" tvg-logo="https://imgur.com/mEhtHgM.jpg",K+ Sports 1 (DRM)
+udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="〇 K+" tvg-logo="https://imgur.com/QwYp41Y.jpg",K+ Sports 2 (DRM)
+udp://@225.1.1.77:30120
+#EXTINF:-1 group-title="〇 K+" tvg-logo="https://imgur.com/M1WQfVE.jpg",K+ Kids (DRM)
+udp://@225.1.1.76:30120
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="〇 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
