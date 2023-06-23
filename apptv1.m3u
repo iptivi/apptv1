@@ -34,6 +34,10 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=16794
 
 
 #=========================VTV==============================================
+#EXTINF:-1 tvg-id="sctv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1.1
+udp://@225.1.2.249:30120
+
+
 #EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1
 udp://@225.1.2.249:30120
 #EXTINF:-1 group-title="🟢 VTV" tvg-logo="https://i.ibb.co/G0PXW8r/VTV2-cc.webp",VTV2
