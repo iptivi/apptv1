@@ -106,7 +106,7 @@ https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/189/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🟡 VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine
 https://code.vthanhtivi.pw/getlink/tv360/176/0.m3u8
-#EXTINF:-1 group-title="📺 VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220416/2022041602/Logo_ON_150x901_1675158866.webp",VTVCab 11 - VGS Shop
+#EXTINF:-1 group-title="🟡 VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220416/2022041602/Logo_ON_150x901_1675158866.webp",VTVCab 11 - VGS Shop
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn-vthn-vnw.vieon.vn/vtc_staging/live/sd_vtvcab_11/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🟡 VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", ON Style
@@ -231,33 +231,33 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http:
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 
 #=============HO CHI MINH TV================
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="🟣 HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel 
+#EXTINF:-1 tvg-id="htv2hd" group-title="🟣 HTV" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel 
 udp://@225.1.1.193:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="🟣 HTV" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD 
+#EXTINF:-1 tvg-id="htv7hd" group-title="🟣 HTV" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD 
 udp://@225.1.1.192:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD 
+#EXTINF:-1 tvg-id="htv9hd" group-title="🟣 HTV" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD 
 udp://@225.1.1.190:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO 
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO 
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc 
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc 
 udp://@225.1.1.185:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình 
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình 
 udp://@225.1.1.170:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim 
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim 
 udp://@225.1.1.184:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ 
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ 
 udp://@225.1.1.171:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt 
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="🟣 HTV" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt 
 udp://@225.1.1.186:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ 
+#EXTINF:-1 tvg-id="htvcplushd" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ 
 udp://@225.1.1.181:30120
-#EXTINF:-1 group-title="🟣 HTV" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
+#EXTINF:-1 tvg-id="htv4" group-title="🟣 HTV" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 udp://@225.1.1.177:30120
 
 #=============KÊNH BÁO CHÍ================
