@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 ==================K+==============
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/kpluscine/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kpluscine/master.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://i.imgur.com/Eg76sU1.jpg",K+ACTION
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/kpluslife/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kpluslife/master.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/kplus1/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kplus1/master.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/kplus2/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kplus2/master.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+ KIDS
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/kids/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kids/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/klive1/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/klive1/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE2
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/klive2/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/klive2/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE3
-https://code.antmediatv.xyz/getplay/78e241e50ff1bc7afbbfac6e2d253bbc448c9254c55e26a3f243b1bb9d5e07f41a/stream/klive3/master.m3u8
+https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/klive3/master.m3u8
 
 #=========================VTV==============================================
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1
@@ -277,12 +277,6 @@ udp://@225.1.2.171:30120
 #=============KÊNH PHIM=================
 #EXTINF:-1 tvg-id="hbohd" group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/3Bt20YR/HBO-cc.png",HBO
 udp://@225.1.1.112:30120
-
-#EXTINF:-1 tvg-id="boxmovie" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png",Box Movie
-http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🟢 KÊNH PHIM" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 
 #EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",AXN
 udp://@225.1.2.225:30120
