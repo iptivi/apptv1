@@ -575,34 +575,6 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png", VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
-========================
-
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canal-kkk",1.Canal+ 4K
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
-
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
-
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",3.Canal+ Sports UHD
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526130&extension=ts&play_token=Jz8FXj0Ich
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",4.Canal+ Sports UHD
-http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=IgqOpPdKEo
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",5.Canal+ Sports UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",6.Canal+ Sports UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=PMDxvyVPzW
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",7.Canal+ Sports UHD
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",8.Canal+ Sports UHD
-http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",9.Canal+ Sports UHD
-http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",10.Canal+ Sports UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",11.Canal+ Sports UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101206&extension=ts&play_token=2usQAUALPd
-#EXTINF:-1 group-title="〇 CANAL+ " tvg-logo="http://gg.gg/canalkkk",12.Canal+ Sports UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=101206&extension=ts&play_token=r8KPrFON28
 
 ==================================
 #EXTINF:0 group-title="⚽ SPORTS" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
