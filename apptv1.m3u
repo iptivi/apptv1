@@ -1,28 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 ==================K+==============
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kpluscine/master.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://i.imgur.com/Eg76sU1.jpg",K+ACTION
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kpluslife/master.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kplus1/master.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT2
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kplus2/master.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+ KIDS
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/kids/master.m3u8
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/klive1/master.m3u8
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE2
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/klive2/master.m3u8
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE3
-https://code.antmediatv.xyz/getplay/f8d9b5e6a6023769efcbe1cf174489f2f8fedb88b80fc0cd7a4295e9af51560dc5/stream/klive3/master.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=2c0f4c2d0101390238159c1823c841c40d54cb65-8a43dd7f027c462b52d9df0e6e445fe4-1700627828-1700617028
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
+http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=423206cdc3b9814c00741ed37a0b4ece37a41c3a-b975cc4bd7f4945269d095f4b27a5f7a-1700627828-1700617028
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=9d5c181495940150a196f16cf8e09910070b3d1f-36415ea89dd3806e9396a06f528ac112-1700627828-1700617028
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=73e9d53505e82bb7708c9f0d321d738caee112d6-10968bf014d9b72491e7b8f5722d9aca-1700627828-1700617028
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=760efffb6d3d694f4571657be165d8575b2420bf-86e072df3a3fad911b2b3048493d9ab3-1700627828-1700617028
 
 #=========================VTV==============================================
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp",VTV1
