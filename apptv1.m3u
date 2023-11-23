@@ -637,3 +637,20 @@ https://webudit.cdnhks.lol/lb/premium36/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=38
 https://webudit.cdnhks.lol/lb/premium38/index.m3u8
+
+=======================================
+#-------------------K+-------------------#
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/diHhSPR.jpg",K+ Cine (HD 8Mbps)
+http://192.168.2.2:4025/udp/225.1.1.5:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/cjb5geD.jpg",K+ Life (HD 8Mbps)
+http://192.168.2.2:4025/udp/225.1.1.6:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/mEhtHgM.jpg",K+ Sports 1 (HD 8Mbps)
+http://192.168.2.2:4025/udp/225.1.1.73:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/QwYp41Y.jpg",K+ Sports 2 (HD 8Mbps)
+http://192.168.2.2:4025/udp/225.1.1.77:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/M1WQfVE.jpg",K+ Kids (HD 8Mbps)
+http://192.168.2.2:4025/udp/225.1.1.76:30120
+
+
+
+
