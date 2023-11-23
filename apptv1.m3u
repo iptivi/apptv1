@@ -651,6 +651,18 @@ http://192.168.2.2:4025/udp/225.1.1.77:30120
 #EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/M1WQfVE.jpg",K+ Kids (HD 8Mbps)
 http://192.168.2.2:4025/udp/225.1.1.76:30120
 
+--------------------------
 
+#-------------------K+-------------------#
+#EXTINF:-1 group-title="K+ FPT" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+udp://@225.1.1.6:30120
+#EXTINF:-1 group-title="K+ FPT" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+udp://@225.1.1.5:30120
+#EXTINF:-1 group-title="K+ FPT" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
+udp://@225.1.1.76:30120
+#EXTINF:-1 group-title="K+ FPT" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="K+ FPT" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+udp://@225.1.1.77:30120
 
 
