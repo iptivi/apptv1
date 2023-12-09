@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 ==================K+==============
 
-#Địa chỉ IP của người dùng là: 101.99.14.155
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭 K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://sub-livecdn.khanggtivi.xyz:1234/stream/kcine/multi.m3u8?u=khanggtivi&p=b0bfe78ff95c1ca21959569be5f6235a55ca820d170c92f92534f975ac8938d1
