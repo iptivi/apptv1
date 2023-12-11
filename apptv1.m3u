@@ -21,11 +21,6 @@ http://sub-livecdn.khanggtivi.xyz/ksport1_mytv/index.fmp4.m3u8?token=OTg5MmYzYzE
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭 K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/88.png", K+ SPORT2 HD - MyTV
 http://sub-livecdn.khanggtivi.xyz/ksport2_mytv/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭 K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD - FPT PLAY
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.khanggtivi.xyz/clearkey/?playlist&account=guest&password=652f92d4e1c31301e5f46cc9/deviceType=ZjllODk4ZDYwYmZiMWY2YTU3N2FjMDFhZWEwMWIxMWRhMzc5MjVhZA==&part=/widevine/key/rlkey=4OYEFOjX5aNY81JyA0FcMl7JqJsFle7rpu3GJJN5XF1c4wvH&Check_Ip_Agent=Yes&Block_Ip=No&Check_Location=Yes&Location=VN&timestamp=1701935185&token=6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY&channel_id=fpt-sports&ksports1
-http://sub-livecdn.khanggtivi.xyz/live/etc/9190de272a7337db2fa21d32b67b76f8/1701935185/kplus/manifest/kplus_sports1/manifest.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==
 
 
 #=========================VTV==============================================
