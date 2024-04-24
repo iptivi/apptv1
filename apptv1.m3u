@@ -476,36 +476,6 @@ http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/tv3
 #EXTINF:-1 tvg-id="woman" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/163/xemlai/${start}-${offset}", Woman
 http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/tv360/id/163
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/sctv/id/box-movie-1?#%7CReferer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/sctv/id/hollywood-classic?#%7CReferer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="drfithd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/sctv/id/dr-fit?#%7CReferer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="happykids" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/sctv/id/happy-kids?#%7CReferer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/sctv/id/planet-earth?#%7CReferer=https://sctvonline.vn
-
-#EXTINF:-1 tvg-id="woman" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/sctv/id/woman?#%7CReferer=https://sctvonline.vn
-
 #EXTINF:-1 tvg-id="axnhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/udp/id/axn
 
@@ -521,9 +491,6 @@ http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/tv3
 
 #EXTINF:-1 tvg-id="kix" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/fpt/id/kix/xemlai/${start}-${offset}", KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-id="tlchd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/udp/id/tlc
 
 
 #============KÊNH KHOA HỌC==================
