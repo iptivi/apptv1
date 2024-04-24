@@ -441,6 +441,93 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?
 
+-----------------------
+#EXTINF:-1 tvg-id="hbohd" group-title="📦 IN THE BOX" group-logo="https://play-lh.googleusercontent.com/yAW_sifnYnWP1RtZTrt1u5yrH-OjXFnO6AsIaYXEEppbzEsNxvFzc1Y46Z0ODKimyQ" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+http://ip168.homeip.net:8086/hbo.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/159
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/160
+
+#EXTINF:-1 tvg-id="inthebox" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/235
+
+#EXTINF:-1 tvg-id="boxhits" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/239
+
+#EXTINF:-1 tvg-id="man" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/237/xemlai/${start}-${offset}", Man
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/237
+
+#EXTINF:-1 tvg-id="drfithd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/162/xemlai/${start}-${offset}", Dr.Fit
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/162
+
+#EXTINF:-1 tvg-id="happykids" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/212/xemlai/${start}-${offset}", Happy Kids
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/212
+
+#EXTINF:-1 tvg-id="musicbox" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/box-music?#|Referer=https://sctvonline.vn
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/135/xemlai/${start}-${offset}", Planet Earth
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/135
+
+#EXTINF:-1 tvg-id="woman" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/163/xemlai/${start}-${offset}", Woman
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/163
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/box-movie-1?#|Referer=https://sctvonline.vn
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/hollywood-classic?#|Referer=https://sctvonline.vn
+
+#EXTINF:-1 tvg-id="drfithd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/dr-fit?#|Referer=https://sctvonline.vn
+
+#EXTINF:-1 tvg-id="happykids" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/happy-kids?#|Referer=https://sctvonline.vn
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/planet-earth?#|Referer=https://sctvonline.vn
+
+#EXTINF:-1 tvg-id="woman" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://sctvonline.vn
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/sctv/id/woman?#|Referer=https://sctvonline.vn
+
+
+#EXTINF:-1 tvg-id="axnhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/udp/id/axn
+
+#EXTINF:-1 tvg-id="dmax" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+
+#EXTINF:-1 tvg-id="hits" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
+
+#EXTINF:-1 tvg-id="hgtv" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/99
+
+#EXTINF:-1 tvg-id="kix" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/fpt/id/kix/xemlai/${start}-${offset}", KIX HD
+http://210.210.155.37/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-id="tlchd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
+http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/udp/id/tlc
 
 
 #============KÊNH KHOA HỌC==================
