@@ -412,31 +412,31 @@ udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png",Cinemax
 udp://@225.1.2.86:30120
 ================== PHIM =================
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦 In The Box" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦 IN THE BOX" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 IN THE BOX" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
-#EXTINF:-1 tvg-id="drfithd" group-title="📦 In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="📦 IN THE BOX" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?
-#EXTINF:-1 tvg-id="happykids" group-title="📦 In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="📦 IN THE BOX" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?
-#EXTINF:-1 tvg-id="musicbox" group-title="📦 In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="📦 IN THE BOX" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦 In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦 IN THE BOX" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
-#EXTINF:-1 tvg-id="woman" group-title="📦 In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="📦 IN THE BOX" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?
@@ -472,13 +472,6 @@ udp://@225.1.2.215:30120
 #EXTINF:0  tvg-id="ngwhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://cdn.hqth.me/logo/thumbs/207.png",WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.211:30120
-
-#EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-logo="https://i.imgur.com/Se1a8Mm.png" group-title="⚪ KÊNH KHOA HỌC",Bumblebee TV AutoMoto (720p)
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/QDZrBDi.png" group-title="⚪ KÊNH KHOA HỌC",Motorvision TV (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-
 
 
 #===============KÊNH QUỐC TẾ================
@@ -709,28 +702,6 @@ udp://@225.1.4.87:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
 udp://@225.1.4.176:30120
 
-
-======================
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/VOVGT_1.png", VOV Giao thông Hà Nội
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/VOVGT_1.png", VOV Giao thông Hồ Chí Minh
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
-https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-1.png", VOH FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-4.png", VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png", VOH FM 87.7Mhz
-https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-
-
 ==================================
 #EXTINF:-1 tvg-id="spotv1" group-title="⚽ THỂ THAO" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV ASIA
 http://202.150.161.68/spotv1/index.m3u8
@@ -762,9 +733,31 @@ http://stream01.vnet.am/Eurosport/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
-=======================================
 
-#-------------------FPT Play-------------------#
+ ============= CHINA===============
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| TRUNG QUỐC" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1
+https://edge1.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| TRUNG QUỐC" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2
+https://edge1.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="🇨🇳| TRUNG QUỐC" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3
+https://edge1.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| TRUNG QUỐC" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4
+https://ctrl.laotv.la/live/CCTV4A/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" group-title="🇨🇳| TRUNG QUỐC" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
+https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| TRUNG QUỐC",CCTV-7
+https://ctrl.laotv.la/live/CCTV7/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| TRUNG QUỐC",CCTV-8
+https://ctrl.laotv.la/live/CCTV8/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="🇨🇳| TRUNG QUỐC",CCTV-13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| TRUNG QUỐC",CCTV-14
+https://ctrl.laotv.la/live/CCTV14/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| TRUNG QUỐC",CCTV-15
+https://ctrl.laotv.la/live/CCTV15/index.m3u8
+
+==================FPT=====================
+
 #EXTINF:-1 group-title="🌈 FPT Service" tvg-logo="https://i.imgur.com/52GagQi.png",Pladio
 udp://@225.1.2.244:30120
 #EXTINF:-1 group-title="🌈 FPT Service" tvg-logo="https://i.imgur.com/52GagQi.png",Event
@@ -807,24 +800,24 @@ udp://@225.1.1.2:30120
 udp://@225.1.4.199:30120
 #EXTINF:-1 group-title="🌈 FPT Service" tvg-logo="https://i.imgur.com/52GagQi.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.4.200:30120
- ============= CHINA===============
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1
-https://edge1.laotv.la/live/CCTV1/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2
-https://edge1.laotv.la/live/CCTV2/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3
-https://edge1.laotv.la/live/CCTV3/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4
-https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
-https://ctrl.laotv.la/live/CCTV5+/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| Trung Quốc",CCTV-7
-https://ctrl.laotv.la/live/CCTV7/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| Trung Quốc",CCTV-8
-https://ctrl.laotv.la/live/CCTV8/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="🇨🇳| Trung Quốc",CCTV-13
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| Trung Quốc",CCTV-14
-https://ctrl.laotv.la/live/CCTV14/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| Trung Quốc",CCTV-15
-https://ctrl.laotv.la/live/CCTV15/index.m3u8
+
+
+===============RADIO================
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/VOVGT_1.png", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://vovgiaothong.vn/Data/Sites/1/logos/VOVGT_1.png", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-1.png", VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-4.png", VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 group-title="🎧 RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png", VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
