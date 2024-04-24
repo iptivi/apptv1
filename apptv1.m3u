@@ -131,7 +131,7 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 http://nossl.synguyen.net/api/token/2a0ac34a4025ba3bb8a425277902cb5e/getlink/onlive/id/viegiaitri
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🟡 VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/vieon/id/vtvcab2-on-phim-viet/xemlai/${start}-${offset}", ON Phim Việt
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/tv360/id/175
+http://nossl.synguyen.net/api/token/2a0ac34a4025ba3bb8a425277902cb5e/getlink/tv360/id/175
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🟡 VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/vieon/id/vtvcab3-on-sports/xemlai/${start}-${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
