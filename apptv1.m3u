@@ -449,7 +449,7 @@ http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/159
+http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/tv360/id/159
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦 IN THE BOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/tv360/id/160
