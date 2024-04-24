@@ -128,7 +128,7 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #======================VTVcab=======================
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🟡 VTVcab" group-logo="https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60a94231f8b0de7567547e358ac7d75a.jpeg" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/vieon/id/vie-giai-tri-hd/xemlai/${start}-${offset}", VTVcab 1 - Vie Giải trí HD
-http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/onlive/id/viegiaitri
+http://nossl.synguyen.net/api/token/2a0ac34a4025ba3bb8a425277902cb5e/getlink/onlive/id/viegiaitri
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🟡 VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup-type="default" catchup-days="2" catchup-source="http://nossl.synguyen.net/api/token/3b91463ab1a6f7e25370307a76f1bae9/getlink/vieon/id/vtvcab2-on-phim-viet/xemlai/${start}-${offset}", ON Phim Việt
 http://nossl.synguyen.net/api/token/8e12fa5b20baddd134aecee511608894/getlink/tv360/id/175
