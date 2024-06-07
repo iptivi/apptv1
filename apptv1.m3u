@@ -324,11 +324,7 @@ udp://@225.1.1.112:30120
 #EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",AXN
 udp://@225.1.2.225:30120
 
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/ss7qbgg/Cinema-World-cc.png",Cinema World
-udp://@225.1.1.142:30120
 
-#EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/C6npfxN/cc-Cinemax.png",Cinemax
-udp://@225.1.2.86:30120
 ================== PHIM =================
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦 IN THE BOX" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
