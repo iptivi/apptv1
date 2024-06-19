@@ -288,10 +288,10 @@ udp://@225.1.1.112:30120
 #EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",AXN
 udp://@225.1.2.225:30120
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="🟢 KÊNH PHIM" group-logo="https://i.imgur.com/leWw1zz.png",Box Movie
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.imgur.com/leWw1zz.png" group-title="🟢 KÊNH PHIM",Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="🟢 KÊNH PHIM" group-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.imgur.com/2EDOvcL.png" group-title="🟢 KÊNH PHIM",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 
 ================== PHIM =================
