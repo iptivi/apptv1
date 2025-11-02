@@ -67,6 +67,9 @@ udp://@225.1.1.112:30120
 #EXTINF:-1 group-title="🟢 KÊNH PHIM" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",AXN
 udp://@225.1.2.225:30120
 
+#EXTINF:-1 group-title="🟢 KÊNH PHIM",KIX 
+udp://@225.1.2.144:30120
+
 #============KÊNH KHOA HỌC==================
 
 #EXTINF:0 tvg-id="animalhd" group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/7CQLFc3/animalplanet.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",Animal Planet
@@ -115,12 +118,6 @@ udp://@225.1.2.227:30120
 udp://@225.1.2.211:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Dz3Vtqd/KBSWorld-cc.png",KBS WORLD 
 udp://@225.1.1.196:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",KIX 
-udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",NATIONAL GEOGRAPHIC HD 
-udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",NAT GEO WILD 
-udp://@225.1.1.211:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK WORLD JAPAN 
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Outdoor Channel 
@@ -135,10 +132,6 @@ udp://@225.1.1.201:30120
 udp://@225.1.1.227:30120
 
 #===============KÊNH THIẾU NHI================
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Animax 
-udp://@225.1.1.135:30120
-#EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",Baby TV 
-udp://@225.1.2.146:30120
 #EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",BBC CbeeBies 
 udp://@225.1.1.134:30120
 #EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",CARTOON NETWORK 
