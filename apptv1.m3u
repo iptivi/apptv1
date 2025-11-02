@@ -92,6 +92,23 @@ udp://@225.1.2.223:30120
 #EXTVLCOPT:http-user-agent=apptv
 udp://@225.1.2.215:30120
 
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC",Outdoor Channel 
+udp://@225.1.2.215:30120
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC",TLC
+udp://@225.1.1.236:30120
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC" tvg-logo="https://i.ibb.co/09JHvmY/arirang.png",Arirang
+udp://@225.1.1.201:30120
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC",CNBC
+udp://@225.1.1.227:30120
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC",Da Vinci 
+udp://@225.1.1.197:30120
+
+#EXTINF:-1 group-title="⚪ KÊNH KHOA HỌC",TV5 MONDE ASIE 
+udp://@225.1.1.200:30120
 
 #===============KÊNH QUỐC TẾ================
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC AUSTRALIA 
@@ -108,8 +125,6 @@ udp://@225.1.2.91:30120
 udp://@225.1.1.202:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PwrKBwy/cnn.webp",CNN 
 udp://@225.1.1.242:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Da Vinci 
-udp://@225.1.1.197:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW 
 udp://@225.1.1.46:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Fashion TV 
@@ -120,16 +135,6 @@ udp://@225.1.2.211:30120
 udp://@225.1.1.196:30120
 #EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK WORLD JAPAN 
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",Outdoor Channel 
-udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",TLC
-udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",TV5 MONDE ASIE 
-udp://@225.1.1.200:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/09JHvmY/arirang.png",Arirang
-udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="🌐 KÊNH QUỐC TẾ",CNBC
-udp://@225.1.1.227:30120
 
 #===============KÊNH THIẾU NHI================
 #EXTINF:-1 group-title="🟢 KÊNH THIẾU NHI",BBC CbeeBies 
