@@ -145,21 +145,23 @@ udp://@225.1.1.138:30120
 #==============ĐỊA PHƯƠNG=================
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png", HanoiTV1 HD
 udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD
-udp://@225.1.1.125:30120
+
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.4.202:30120
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.4.87:30120
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.4.176:30120
 
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",YTV HD _ TH Yên Bái (HD 8Mbps)
-udp://@225.1.1.39:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",ĐTV HD _ TH Điện Biên (HD 8Mbps)
 udp://@225.1.1.74:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",HBTV HD _ TH Hòa Bình (HD 8Mbps)
-udp://@225.1.2.168:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",LTV HD _ TH Lai Châu (HD 8Mbps)
 udp://@225.1.2.36:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",HGTV _ TH Hà Giang (HD 8Mbps)
-udp://@225.1.1.62:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TTV HD _ TH Tuyên Quang (HD 8Mbps)
 udp://@225.1.2.188:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
@@ -172,26 +174,20 @@ udp://@225.1.1.164:30120
 udp://@225.1.1.160:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",CRTV HD _ TH Cao Bằng (HD 8Mbps)
 udp://@225.1.1.102:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TBK HD _ TH Bắc Kạn (HD 8Mbps)
-udp://@225.1.1.126:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
 udp://@225.1.2.181:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV _ TH Bắc Ninh (HD 8Mbps)
-udp://@225.1.1.40:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",H1 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",H2 HD _ TH Hà Nội (HD 8Mbps)
-udp://@225.1.1.125:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
+
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THP HD _ TH Hải Phòng 1 (HD 8Mbps)
 udp://@225.1.1.44:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THP+ HD _ TH TP. Hải Phòng (HD 8Mbps)
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THP+ HD _ TH Hải Phòng 2 (HD 8Mbps)
 udp://@225.1.1.113:30120
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THD _ TH Hải Phòng 3
+udp://@225.1.1.158:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TBTV HD _ TH Thái Bình (HD 8Mbps)
-udp://@225.1.1.99:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
-udp://@225.1.2.99:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",NTV HD _ TH Nghệ An (HD 8Mbps)
 udp://@225.1.2.183:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
@@ -202,22 +198,19 @@ udp://@225.1.1.117:30120
 udp://@225.1.1.147:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
 udp://@225.1.1.146:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",QRT HD _ TH Quảng Nam (HD 8Mbps)
-udp://@225.1.2.50:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",PTQ _ TH Quảng Ngãi (HD 8Mbps)
 udp://@225.1.2.174:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV _ TH Bình Định (HD 8Mbps)
 udp://@225.1.1.145:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",PTP HD _ TH Phú Yên (HD 8Mbps)
-udp://@225.1.2.58:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",KTV HD _ TH Khánh Hòa (HD 8Mbps)
 udp://@225.1.1.133:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV HD _ TH Bình Thuận (HD 8Mbps)
 udp://@225.1.1.124:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",KRT _ TH Kon Tum (HD 8Mbps)
 udp://@225.1.1.36:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THGL HD _ TH Gia Lai (HD 8Mbps)
-udp://@225.1.2.176:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",DRT HD _ TH Đắk Lắk (HD 8Mbps)
 udp://@225.1.1.64:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",LTV HD _ TH Lâm Đồng (HD 8Mbps)
@@ -226,10 +219,7 @@ udp://@225.1.2.177:30120
 udp://@225.1.1.150:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV2 HD _ TH Bình Dương (HD 8Mbps)
 udp://@225.1.1.149:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV3 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.2.22:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV4 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.1.29:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV9 B Channel (HD 8Mbps)
 udp://@225.1.2.189:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
@@ -244,12 +234,10 @@ udp://@225.1.2.175:30120
 udp://@225.1.1.163:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THĐT2 Miền Tây (HD 8Mbps)
 udp://@225.1.1.210:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THTG HD _ TH Tiền Giang (HD 8Mbps)
-udp://@225.1.2.170:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",ATV HD _ TH An Giang (HD 8Mbps)
 udp://@225.1.2.173:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THBT HD _ TH Bến Tre (HD 8Mbps)
-udp://@225.1.1.156:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
 udp://@225.1.1.155:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
@@ -260,57 +248,39 @@ udp://@225.1.1.235:30120
 udp://@225.1.2.25:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THTV HD _ TH Trà Vinh (HD 8Mbps)
 udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",HGTV HD _ TH Hậu Giang (HD 8Mbps)
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TH Cần Thơ (HD 8Mbps)
 udp://@225.1.1.157:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",KG _ TH Kiên Giang (HD 8Mbps)
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TH Cần Thơ 1 (HD 8Mbps)
+udp://@225.1.1.132:30120
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TH Cần Thơ 3
+udp://@225.1.1.159:30120
+
+#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",KG _ TH An Giang (HD 8Mbps)
 udp://@225.1.2.182:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
-udp://@225.1.1.61:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",CTV HD _ TH Cà Mau (HD 8Mbps)
 udp://@225.1.1.104:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
-udp://@225.1.1.132:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",STV _ TH Sơn La
 udp://@225.1.1.98:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THHN _ TH Hà Nam
-udp://@225.1.1.63:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THD _ TH Hải Dương
-udp://@225.1.1.158:30120
+
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",HY _ TH Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",NTV _ TH Nam Định
-udp://@225.1.1.120:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",QBTV _ TH Quảng Bình
-udp://@225.1.2.164:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TRT _ TH Thừa Thiên Huế
 udp://@225.1.1.161:30120
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",NTV _ TH Ninh Thuận
 udp://@225.1.2.178:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BPTV1 _ TH Bình Phước
-udp://@225.1.2.23:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BPTV2 _ TH Bình Phước
-udp://@225.1.2.38:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BTV6 _ TH Bình Dương
-udp://@225.1.1.223:30120
+
 #EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",LA34 _ TH Long An
 udp://@225.1.1.162:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",STV1 _ TH Sóc Trăng
-udp://@225.1.1.159:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",BGTV HD _ TH Bắc Giang
-udp://@225.1.4.173:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",TBK HD _ TH Bắc Kạn
-udp://@225.1.4.174:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.202:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.87:30120
-#EXTINF:-1 group-title="🟠 ĐỊA PHƯƠNG",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
-udp://@225.1.4.176:30120
- 
+
 
 ==================FPT=====================
 
