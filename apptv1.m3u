@@ -19,7 +19,7 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp",VTV9
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/VTV10_logo_2026_ver_3.png/960px-VTV10_logo_2026_ver_3.png",VTV10
+#EXTINF:-1 tvg-id="vtv10hd" group-title="🟢 VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/VTV10_logo_2026_ver_3.png/960px-VTV10_logo_2026_ver_3.png",VTV10
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🟢 VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
