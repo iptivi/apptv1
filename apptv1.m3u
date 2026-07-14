@@ -11,8 +11,8 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Hnyb8Cr/VTV5-cc.webp",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV Cần Thơ
-udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/VTV6_logo_%2808-06-2026%29.png/960px-VTV6_logo_%2808-06-2026%29.png",VTV6
+udp://@225.1.2.154:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/Z89vrHX/VTV7-cc.webp",VTV7
 udp://@225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/RyBxx0F/VTV8-cc.webp",VTV8
@@ -23,6 +23,8 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🟢 VTV" tvg-logo="https://i.imgur.com/JDN8GJC.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV 10
+udp://@225.1.2.245:30120
 
 #=============HO CHI MINH TV================
 #EXTINF:-1 tvg-id="htv1" group-title="🟣 HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
