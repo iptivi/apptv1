@@ -19,12 +19,13 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/HVRdGVT/VTV9-cc.webp",VTV9
 udp://@225.1.1.128:30120
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/VTV10_logo_2026_ver_3.png/960px-VTV10_logo_2026_ver_3.png",VTV10
+udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🟢 VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🟢 VTV" tvg-logo="https://i.imgur.com/JDN8GJC.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🟢 VTV" tvg-logo="https://i.ibb.co/8mDLTBg/tb-sport-vtvcantho.png",VTV 10
-udp://@225.1.2.245:30120
+
 
 #=============HO CHI MINH TV================
 #EXTINF:-1 tvg-id="htv1" group-title="🟣 HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
