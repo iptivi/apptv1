@@ -25,6 +25,8 @@ udp://@225.1.2.245:30120
 udp://@225.1.2.236:30120
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🟢 VTV" tvg-logo="https://i.imgur.com/JDN8GJC.png",VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="🟢 VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamtoday
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 
 #=============HO CHI MINH TV================
